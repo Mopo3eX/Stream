@@ -1,0 +1,111 @@
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net48\Stream.csproj.AssemblyReference.cache
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net48\Stream.csproj.SuggestedBindingRedirects.cache
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net48\Stream.exe.config
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net48\Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net48\Stream.AssemblyInfoInputs.cache
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net48\Stream.AssemblyInfo.cs
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net48\Stream.csproj.CoreCompileInputs.cache
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\Stream.exe.config
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\Stream.exe
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\Stream.pdb
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\Antlr3.Runtime.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\BouncyCastle.Cryptography.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\FluentNHibernate.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\Google.Protobuf.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\Iesi.Collections.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\K4os.Compression.LZ4.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\K4os.Compression.LZ4.Streams.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\K4os.Hash.xxHash.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\MySql.Data.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\NHibernate.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\Remotion.Linq.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\Remotion.Linq.EagerFetching.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\System.Buffers.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\System.IO.Pipelines.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\System.Memory.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net48\ZstdSharp.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net48\Stream.csproj.Up2Date
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net48\Stream.exe
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net48\Stream.pdb
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\Stream.exe.config
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\Stream.exe
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\Stream.pdb
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\Antlr3.Runtime.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\BouncyCastle.Cryptography.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\FluentNHibernate.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\Google.Protobuf.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\Iesi.Collections.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\K4os.Compression.LZ4.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\K4os.Compression.LZ4.Streams.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\K4os.Hash.xxHash.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\MySql.Data.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\NHibernate.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\Remotion.Linq.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\Remotion.Linq.EagerFetching.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\System.Buffers.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\System.IO.Pipelines.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\System.Memory.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net48\ZstdSharp.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net48\Stream.csproj.AssemblyReference.cache
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net48\Stream.csproj.SuggestedBindingRedirects.cache
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net48\Stream.exe.config
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net48\Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net48\Stream.AssemblyInfoInputs.cache
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net48\Stream.AssemblyInfo.cs
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net48\Stream.csproj.CoreCompileInputs.cache
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net48\Stream.csproj.Up2Date
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net48\Stream.exe
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net48\Stream.pdb
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\Stream.exe.config
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\Stream.exe
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\Stream.pdb
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\Antlr3.Runtime.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\BouncyCastle.Cryptography.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\FluentNHibernate.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\Google.Protobuf.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\Iesi.Collections.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\K4os.Compression.LZ4.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\K4os.Compression.LZ4.Streams.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\K4os.Hash.xxHash.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\MySql.Data.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\NHibernate.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\Remotion.Linq.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\Remotion.Linq.EagerFetching.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\System.Buffers.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\System.IO.Pipelines.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\System.Memory.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\ZstdSharp.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net48\Stream.csproj.AssemblyReference.cache
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net48\Stream.csproj.SuggestedBindingRedirects.cache
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net48\Stream.exe.config
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net48\Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net48\Stream.AssemblyInfoInputs.cache
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net48\Stream.AssemblyInfo.cs
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net48\Stream.csproj.CoreCompileInputs.cache
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net48\Stream.csproj.Up2Date
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net48\Stream.exe
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net48\Stream.pdb
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\obs-websocket-dotnet.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\System.Reactive.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\System.Threading.Channels.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net48\Websocket.Client.dll

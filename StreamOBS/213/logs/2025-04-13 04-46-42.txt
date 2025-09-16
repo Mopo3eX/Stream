@@ -1,0 +1,466 @@
+04:46:42.001: CPU Name: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz
+04:46:42.001: CPU Speed: 4200MHz
+04:46:42.001: Physical Cores: 4, Logical Cores: 8
+04:46:42.001: Physical Memory: 32710MB Total, 16759MB Free
+04:46:42.001: Windows Version: 10.0 Build 19045 (release: 22H2; revision: 5737; 64-bit)
+04:46:42.001: Running as administrator: false
+04:46:42.001: Windows 10/11 Gaming Features:
+04:46:42.002: 	Game DVR: On
+04:46:42.002: 	Game Mode: Probably On (no reg key set)
+04:46:42.003: Sec. Software Status:
+04:46:42.004: 	РђРЅС‚РёРІРёСЂСѓСЃРЅР°СЏ РїСЂРѕРіСЂР°РјРјР° Microsoft Defender: enabled (AV)
+04:46:42.005: 	Р‘СЂР°РЅРґРјР°СѓСЌСЂ Windows: enabled (FW)
+04:46:42.005: Current Date/Time: 2025-04-13, 04:46:42
+04:46:42.005: Browser Hardware Acceleration: true
+04:46:42.005: Hide OBS windows from screen capture: false
+04:46:42.005: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+04:46:42.005: Portable mode: false
+04:46:42.425: OBS 31.0.3 (64-bit, windows)
+04:46:42.426: ---------------------------------
+04:46:42.568: ---------------------------------
+04:46:42.568: audio settings reset:
+04:46:42.568: 	samples per sec: 48000
+04:46:42.568: 	speakers:        2
+04:46:42.568: 	max buffering:   960 milliseconds
+04:46:42.568: 	buffering type:  dynamically increasing
+04:46:42.618: ---------------------------------
+04:46:42.618: Initializing D3D11...
+04:46:42.618: Available Video Adapters: 
+04:46:42.621: 	Adapter 0: NVIDIA GeForce GTX 1070
+04:46:42.621: 	  Dedicated VRAM: 8458862592 (7.9 GiB)
+04:46:42.621: 	  Shared VRAM:    17149704192 (16.0 GiB)
+04:46:42.621: 	  PCI ID:         10de:1b81
+04:46:42.621: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+04:46:42.621: 	  Driver Version: 32.0.15.6109
+04:46:42.622: 	  output 0:
+04:46:42.622: 	    name=SA241Y A
+04:46:42.622: 	    pos={0, 0}
+04:46:42.622: 	    size={1920, 1080}
+04:46:42.622: 	    attached=true
+04:46:42.622: 	    refresh=60
+04:46:42.622: 	    bits_per_color=8
+04:46:42.622: 	    space=RGB_FULL_G22_NONE_P709
+04:46:42.622: 	    primaries=[r=(0.649414, 0.338867), g=(0.323242, 0.623047), b=(0.152344, 0.073242), wp=(0.307617, 0.334961)]
+04:46:42.622: 	    relative_gamut_area=[709=1.016942, P3=0.749660, 2020=0.537831]
+04:46:42.622: 	    sdr_white_nits=80
+04:46:42.622: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+04:46:42.622: 	    dpi=96 (100%)
+04:46:42.622: 	    id=\\?\DISPLAY#ACR09BD#5&b3776b3&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+04:46:42.622: 	    alt_id=\\.\DISPLAY1
+04:46:42.623: 	  output 1:
+04:46:42.623: 	    name=SA241Y A
+04:46:42.623: 	    pos={1920, 0}
+04:46:42.623: 	    size={1920, 1080}
+04:46:42.623: 	    attached=true
+04:46:42.623: 	    refresh=60
+04:46:42.623: 	    bits_per_color=8
+04:46:42.623: 	    space=RGB_FULL_G22_NONE_P709
+04:46:42.623: 	    primaries=[r=(0.649414, 0.338867), g=(0.323242, 0.623047), b=(0.152344, 0.073242), wp=(0.307617, 0.334961)]
+04:46:42.623: 	    relative_gamut_area=[709=1.016942, P3=0.749660, 2020=0.537831]
+04:46:42.623: 	    sdr_white_nits=80
+04:46:42.623: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+04:46:42.623: 	    dpi=96 (100%)
+04:46:42.623: 	    id=\\?\DISPLAY#ACR09BD#5&b3776b3&0&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+04:46:42.623: 	    alt_id=\\.\DISPLAY2
+04:46:42.623: 	Adapter 1: NVIDIA GeForce GTX 1070
+04:46:42.623: 	  Dedicated VRAM: 8458862592 (7.9 GiB)
+04:46:42.623: 	  Shared VRAM:    17149704192 (16.0 GiB)
+04:46:42.623: 	  PCI ID:         10de:1b81
+04:46:42.623: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+04:46:42.623: 	  Driver Version: 32.0.15.6109
+04:46:42.624: Loading up D3D11 on adapter NVIDIA GeForce GTX 1070 (0)
+04:46:42.735: D3D11 loaded successfully, feature level used: b000
+04:46:42.735: DXGI increase maximum frame latency success
+04:46:42.735: D3D11 GPU priority setup failed (not admin?)
+04:46:43.985: ---------------------------------
+04:46:43.985: video settings reset:
+04:46:43.985: 	base resolution:   1920x1080
+04:46:43.985: 	output resolution: 1280x720
+04:46:43.985: 	downscale filter:  Bicubic
+04:46:43.985: 	fps:               30/1
+04:46:43.985: 	format:            NV12
+04:46:43.985: 	YUV mode:          Rec. 709/Partial
+04:46:43.985: NV12 texture support enabled
+04:46:43.985: P010 texture support not available
+04:46:43.988: Audio monitoring device:
+04:46:43.988: 	name: РџРѕ СѓРјРѕР»С‡Р°РЅРёСЋ
+04:46:43.988: 	id: default
+04:46:44.000: ---------------------------------
+04:46:44.060: No AJA devices found, skipping loading AJA UI plugin
+04:46:44.060: Failed to initialize module 'aja-output-ui.dll'
+04:46:44.105: No AJA devices found, skipping loading AJA plugin
+04:46:44.105: Failed to initialize module 'aja.dll'
+04:46:44.150: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+04:46:44.190: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+04:46:44.220: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+04:46:44.251: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+04:46:44.300: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+04:46:44.300: Failed to initialize module 'decklink.dll'
+04:46:44.537: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+04:46:44.582: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+04:46:44.650: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+04:46:44.687: [NVIDIA Audio Effects:] NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+04:46:44.688: Failed to get NVVideoEffects.dll version info size
+04:46:44.690: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+04:46:44.777: [obs-browser]: Version 2.24.6
+04:46:44.777: [obs-browser]: CEF Version 127.0.6533.120 (runtime), 127.145.7+g2b7d20b+chromium-127.0.6533.120 (compiled)
+04:46:45.187: [obs-nvenc] NVENC version: 12.2 (compiled) / 12.2 (driver), CUDA driver version: 12.60, AV1 supported: false
+04:46:45.602: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.6 | RPC Version: 1)
+04:46:45.602: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+04:46:45.602: [obs-websocket] [obs_module_load] Linked ASIO Version: 103100
+04:46:45.602: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+04:46:45.619: [obs-websocket] [obs_module_load] Module loaded.
+04:46:45.696: Failed to load 'en-US' text for module: 'sl-browser-plugin.dll'
+04:46:45.696: Streamlabs module git sha is 5adf71684af10f4d1221e62dc784223b3239fadd for OBS 31.0.0, revision 91
+04:46:45.696: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+04:46:45.780: [vlc-video]: Couldn't find VLC installation, VLC video source disabled
+04:46:46.593: ---------------------------------
+04:46:46.593:   Loaded Modules:
+04:46:46.593:     win-wasapi.dll
+04:46:46.593:     win-dshow.dll
+04:46:46.593:     win-capture.dll
+04:46:46.593:     vlc-video.dll
+04:46:46.593:     text-freetype2.dll
+04:46:46.593:     sl-browser-plugin.dll
+04:46:46.593:     rtmp-services.dll
+04:46:46.593:     obs-x264.dll
+04:46:46.593:     obs-websocket.dll
+04:46:46.593:     obs-webrtc.dll
+04:46:46.593:     obs-vst.dll
+04:46:46.593:     obs-transitions.dll
+04:46:46.593:     obs-text.dll
+04:46:46.593:     obs-qsv11.dll
+04:46:46.593:     obs-outputs.dll
+04:46:46.593:     obs-nvenc.dll
+04:46:46.593:     obs-filters.dll
+04:46:46.593:     obs-ffmpeg.dll
+04:46:46.593:     obs-browser.dll
+04:46:46.593:     nv-filters.dll
+04:46:46.593:     image-source.dll
+04:46:46.593:     frontend-tools.dll
+04:46:46.593:     decklink-output-ui.dll
+04:46:46.593:     decklink-captions.dll
+04:46:46.593:     coreaudio-encoder.dll
+04:46:46.593: ---------------------------------
+04:46:46.593: Starting Streamlabs plugin...
+04:46:46.594: Streamlabs: Sending 61552 and 61553 to proxy
+04:46:46.596: [SL_PLUGIN]: obs_module_post_load Module path: C:\Program Files\obs-studio\obs-plugins\64bit\sl-browser-plugin.dll
+04:46:46.596: [SL_PLUGIN]: obs_module_post_load process_path: C
+04:46:46.596: [SL_PLUGIN]: obs_module_post_load startparams: s
+04:46:47.112: [SL_PLUGIN]: obs_module_post_load exit startServer
+04:46:47.112: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+04:46:47.112: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+04:46:47.113: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+04:46:47.122: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4455. Possible connect address: 192.168.56.1
+04:46:47.122: ---------------------------------
+04:46:47.122: Available Encoders:
+04:46:47.122:   Video Encoders:
+04:46:47.122: 	- ffmpeg_svt_av1 (SVT-AV1)
+04:46:47.122: 	- ffmpeg_aom_av1 (AOM AV1)
+04:46:47.122: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+04:46:47.122: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+04:46:47.122: 	- obs_x264 (x264)
+04:46:47.122:   Audio Encoders:
+04:46:47.122: 	- ffmpeg_aac (FFmpeg AAC)
+04:46:47.122: 	- ffmpeg_opus (FFmpeg Opus)
+04:46:47.122: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16 Р±РёС‚))
+04:46:47.122: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24 Р±РёС‚Р°))
+04:46:47.122: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32 Р±РёС‚Р° СЃ РїР». С‚С‡Рє.))
+04:46:47.122: 	- ffmpeg_alac (FFmpeg ALAC (24 Р±РёС‚Р°))
+04:46:47.122: 	- ffmpeg_flac (FFmpeg FLAC (16 Р±РёС‚))
+04:46:47.122: ==== Startup complete ===============================================
+04:46:47.418: All scene data cleared
+04:46:47.418: ------------------------------------------------
+04:46:47.476: [win-wasapi: 'Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»'] update settings:
+04:46:47.476: 	device id: default
+04:46:47.476: 	use device timing: 1
+04:46:47.477: [Loaded global audio device]: 'Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»'
+04:46:47.478: [win-wasapi: 'РњРёРєСЂ/РґРѕРї'] update settings:
+04:46:47.478: 	device id: default
+04:46:47.478: 	use device timing: 0
+04:46:47.478: [Loaded global audio device]: 'РњРёРєСЂ/РґРѕРї'
+04:46:47.478: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+04:46:47.478: 	input:                   udp://127.0.0.1:1234
+04:46:47.478: 	input_format:            
+04:46:47.478: 	speed:                   100
+04:46:47.478: 	is_looping:              no
+04:46:47.478: 	is_linear_alpha:         yes
+04:46:47.478: 	is_hw_decoding:          yes
+04:46:47.478: 	is_clear_on_media_end:   yes
+04:46:47.478: 	restart_on_activate:     no
+04:46:47.478: 	close_when_inactive:     no
+04:46:47.478: 	full_decode:             no
+04:46:47.478: 	ffmpeg_options:          
+04:46:47.508: WASAPI: Device 'РњРёРєСЂРѕС„РѕРЅ (2- USB PnP Audio Device)' [48000 Hz] initialized (source: РњРёРєСЂ/РґРѕРї)
+04:46:47.535: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' [48000 Hz] initialized (source: Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»)
+04:46:47.546: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: РњРёРєСЂ/РґРѕРї)
+04:46:47.546: 
+04:46:47.759: Switched to scene 'Playing'
+04:46:47.759: ------------------------------------------------
+04:46:47.759: Loaded scenes:
+04:46:47.759: - scene 'Playing':
+04:46:47.759:     - source: 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°' (ffmpeg_source)
+04:46:47.759:         - monitoring: monitor and output
+04:46:47.759:     - source: 'Time' (text_gdiplus_v3)
+04:46:47.759:     - source: '18d2d29d-0901-4227-9a61-845ad5479f86.png' (image_source)
+04:46:47.759:     - source: 'Title' (text_gdiplus_v3)
+04:46:47.759: - scene 'Waiting':
+04:46:47.759:     - source: 'Р¤РѕРЅРѕРІС‹Р№ С†РІРµС‚' (color_source_v3)
+04:46:47.759:     - source: '9ab3ce14-6462-49fa-8c73-391d1e6949d4.jpg' (image_source)
+04:46:47.759:     - source: 'WaitText' (text_gdiplus_v3)
+04:46:47.759: ------------------------------------------------
+04:46:49.042: MP: Failed to seek: Operation not permitted
+04:48:18.178: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+04:48:18.178: 	input:                   udp://127.0.0.1:1234
+04:48:18.178: 	input_format:            
+04:48:18.178: 	speed:                   100
+04:48:18.178: 	is_looping:              no
+04:48:18.178: 	is_linear_alpha:         yes
+04:48:18.178: 	is_hw_decoding:          yes
+04:48:18.178: 	is_clear_on_media_end:   yes
+04:48:18.178: 	restart_on_activate:     no
+04:48:18.178: 	close_when_inactive:     no
+04:48:18.178: 	full_decode:             no
+04:48:18.178: 	ffmpeg_options:          
+04:48:21.786: MP: Failed to seek: Operation not permitted
+04:48:27.448: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+04:48:27.448: 	input:                   udp://127.0.0.1:1234
+04:48:27.448: 	input_format:            
+04:48:27.448: 	speed:                   100
+04:48:27.448: 	is_looping:              no
+04:48:27.448: 	is_linear_alpha:         yes
+04:48:27.448: 	is_hw_decoding:          yes
+04:48:27.448: 	is_clear_on_media_end:   yes
+04:48:27.448: 	restart_on_activate:     no
+04:48:27.448: 	close_when_inactive:     no
+04:48:27.448: 	full_decode:             no
+04:48:27.448: 	ffmpeg_options:          
+04:48:28.597: MP: Failed to seek: Operation not permitted
+04:48:32.229: adding 149 milliseconds of audio buffering, total audio buffering is now 192 milliseconds (source: РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°)
+04:48:32.229: 
+04:48:32.400: adding 149 milliseconds of audio buffering, total audio buffering is now 341 milliseconds (source: РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°)
+04:48:32.400: 
+04:50:18.338: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:61771
+04:50:19.645: User switched to scene 'Waiting'
+04:50:26.341: Max audio buffering reached!
+04:50:26.341: adding 618 milliseconds of audio buffering, total audio buffering is now 960 milliseconds (source: РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°)
+04:50:26.341: 
+04:50:26.363: Source РСЃС‚РѕС‡РЅРёРє РјРµРґРёР° audio is lagging (over by 1681.84 ms) at max audio buffering. Restarting source audio.
+04:50:31.867: Source РСЃС‚РѕС‡РЅРёРє РјРµРґРёР° audio is lagging (over by 4154.91 ms) at max audio buffering. Restarting source audio.
+04:50:32.387: User switched to scene 'Playing'
+04:50:47.630: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+04:50:47.630: 	input:                   udp://127.0.0.1:1234
+04:50:47.630: 	input_format:            
+04:50:47.630: 	speed:                   100
+04:50:47.630: 	is_looping:              no
+04:50:47.630: 	is_linear_alpha:         yes
+04:50:47.630: 	is_hw_decoding:          yes
+04:50:47.630: 	is_clear_on_media_end:   yes
+04:50:47.630: 	restart_on_activate:     no
+04:50:47.630: 	close_when_inactive:     no
+04:50:47.630: 	full_decode:             no
+04:50:47.630: 	ffmpeg_options:          
+04:50:50.328: MP: Failed to seek: Operation not permitted
+04:50:56.122: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+04:50:56.122: 	input:                   udp://127.0.0.1:1234
+04:50:56.122: 	input_format:            
+04:50:56.122: 	speed:                   100
+04:50:56.122: 	is_looping:              no
+04:50:56.122: 	is_linear_alpha:         yes
+04:50:56.122: 	is_hw_decoding:          yes
+04:50:56.122: 	is_clear_on_media_end:   yes
+04:50:56.122: 	restart_on_activate:     no
+04:50:56.122: 	close_when_inactive:     no
+04:50:56.122: 	full_decode:             no
+04:50:56.122: 	ffmpeg_options:          
+04:51:00.585: MP: Failed to seek: Operation not permitted
+04:51:13.986: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+04:51:13.986: 	input:                   udp://127.0.0.1:1234
+04:51:13.986: 	input_format:            
+04:51:13.986: 	speed:                   100
+04:51:13.986: 	is_looping:              no
+04:51:13.986: 	is_linear_alpha:         yes
+04:51:13.986: 	is_hw_decoding:          yes
+04:51:13.986: 	is_clear_on_media_end:   yes
+04:51:13.986: 	restart_on_activate:     no
+04:51:13.986: 	close_when_inactive:     no
+04:51:13.986: 	full_decode:             no
+04:51:13.986: 	ffmpeg_options:          
+04:51:14.857: MP: Failed to seek: Operation not permitted
+04:51:29.307: User changed audio monitoring for source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°' to: none
+04:53:18.048: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:61771` has disconnected with code `1006` and reason: Удаленный хост принудительно разорвал существующее подключение.
+04:53:24.351: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:52866
+04:53:25.142: User switched to scene 'Waiting'
+04:53:43.013: Source РСЃС‚РѕС‡РЅРёРє РјРµРґРёР° audio is lagging (over by 7873.49 ms) at max audio buffering. Restarting source audio.
+04:53:43.270: User switched to scene 'Playing'
+04:53:53.168: Source РСЃС‚РѕС‡РЅРёРє РјРµРґРёР° audio is lagging (over by 8594.84 ms) at max audio buffering. Restarting source audio.
+05:02:43.949: User changed audio monitoring for source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°' to: monitor and output
+05:02:47.427: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:52866` has disconnected with code `1006` and reason: Удаленный хост принудительно разорвал существующее подключение.
+05:02:57.421: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:53076
+05:02:58.232: User switched to scene 'Waiting'
+05:04:22.671: Source РСЃС‚РѕС‡РЅРёРє РјРµРґРёР° audio is lagging (over by 81997.31 ms) at max audio buffering. Restarting source audio.
+05:04:22.721: User switched to scene 'Playing'
+05:04:23.038: User switched to scene 'Waiting'
+05:05:04.784: Source РСЃС‚РѕС‡РЅРёРє РјРµРґРёР° audio is lagging (over by 40137.18 ms) at max audio buffering. Restarting source audio.
+05:05:05.825: User switched to scene 'Playing'
+05:05:14.102: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+05:05:14.102: 	input:                   udp://127.0.0.1:1234
+05:05:14.102: 	input_format:            
+05:05:14.102: 	speed:                   100
+05:05:14.102: 	is_looping:              no
+05:05:14.102: 	is_linear_alpha:         yes
+05:05:14.102: 	is_hw_decoding:          yes
+05:05:14.102: 	is_clear_on_media_end:   yes
+05:05:14.102: 	restart_on_activate:     no
+05:05:14.102: 	close_when_inactive:     no
+05:05:14.102: 	full_decode:             no
+05:05:14.102: 	ffmpeg_options:          
+05:05:15.367: MP: Failed to seek: Operation not permitted
+05:05:38.476: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+05:05:38.476: 	input:                   udp://127.0.0.1:1234
+05:05:38.476: 	input_format:            
+05:05:38.476: 	speed:                   100
+05:05:38.476: 	is_looping:              no
+05:05:38.476: 	is_linear_alpha:         yes
+05:05:38.476: 	is_hw_decoding:          yes
+05:05:38.476: 	is_clear_on_media_end:   yes
+05:05:38.476: 	restart_on_activate:     no
+05:05:38.476: 	close_when_inactive:     no
+05:05:38.476: 	full_decode:             no
+05:05:38.476: 	ffmpeg_options:          
+05:05:39.630: MP: Failed to seek: Operation not permitted
+05:05:49.912: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+05:05:49.912: 	input:                   udp://127.0.0.1:1234
+05:05:49.912: 	input_format:            
+05:05:49.912: 	speed:                   100
+05:05:49.912: 	is_looping:              no
+05:05:49.912: 	is_linear_alpha:         yes
+05:05:49.912: 	is_hw_decoding:          yes
+05:05:49.912: 	is_clear_on_media_end:   yes
+05:05:49.912: 	restart_on_activate:     no
+05:05:49.912: 	close_when_inactive:     no
+05:05:49.912: 	full_decode:             no
+05:05:49.912: 	ffmpeg_options:          
+05:05:55.754: MP: Failed to seek: Operation not permitted
+05:06:38.991: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:53076` has disconnected with code `1006` and reason: Удаленный хост принудительно разорвал существующее подключение.
+05:06:58.443: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:51157
+05:06:59.284: User switched to scene 'Waiting'
+05:07:33.797: Source РСЃС‚РѕС‡РЅРёРє РјРµРґРёР° audio is lagging (over by 32035.61 ms) at max audio buffering. Restarting source audio.
+05:07:34.825: User switched to scene 'Playing'
+05:10:19.487: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+05:10:19.487: 	input:                   udp://127.0.0.1:1234
+05:10:19.487: 	input_format:            
+05:10:19.487: 	speed:                   100
+05:10:19.487: 	is_looping:              no
+05:10:19.487: 	is_linear_alpha:         yes
+05:10:19.487: 	is_hw_decoding:          yes
+05:10:19.487: 	is_clear_on_media_end:   yes
+05:10:19.487: 	restart_on_activate:     no
+05:10:19.487: 	close_when_inactive:     no
+05:10:19.487: 	full_decode:             no
+05:10:19.487: 	ffmpeg_options:          
+05:10:21.090: MP: Failed to seek: Operation not permitted
+05:10:56.736: User switched to scene 'Waiting'
+05:11:57.043: User switched to scene 'Playing'
+05:13:23.597: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:51157` has disconnected with code `1006` and reason: Удаленный хост принудительно разорвал существующее подключение.
+05:13:26.201: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:51242
+05:13:26.973: User switched to scene 'Waiting'
+05:13:33.584: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+05:13:33.584: 	input:                   udp://127.0.0.1:1234
+05:13:33.584: 	input_format:            
+05:13:33.584: 	speed:                   100
+05:13:33.584: 	is_looping:              no
+05:13:33.584: 	is_linear_alpha:         yes
+05:13:33.584: 	is_hw_decoding:          yes
+05:13:33.584: 	is_clear_on_media_end:   yes
+05:13:33.584: 	restart_on_activate:     yes
+05:13:33.584: 	close_when_inactive:     no
+05:13:33.584: 	full_decode:             no
+05:13:33.584: 	ffmpeg_options:          
+05:13:33.840: MP: Failed to seek: Operation not permitted
+05:13:37.040: User switched to scene 'Playing'
+05:13:37.078: MP: Failed to seek: Operation not permitted
+05:13:37.237: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: Disconnected. Reconnecting...
+05:13:42.648: MP: Failed to seek: Operation not permitted
+05:13:43.577: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: Reconnected.
+05:13:56.150: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+05:13:56.150: 	input:                   udp://127.0.0.1:1234
+05:13:56.150: 	input_format:            
+05:13:56.150: 	speed:                   100
+05:13:56.150: 	is_looping:              no
+05:13:56.150: 	is_linear_alpha:         yes
+05:13:56.150: 	is_hw_decoding:          yes
+05:13:56.150: 	is_clear_on_media_end:   yes
+05:13:56.150: 	restart_on_activate:     yes
+05:13:56.150: 	close_when_inactive:     no
+05:13:56.150: 	full_decode:             no
+05:13:56.150: 	ffmpeg_options:          
+05:14:03.413: MP: Failed to seek: Operation not permitted
+05:14:08.955: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+05:14:08.955: 	input:                   udp://127.0.0.1:1234
+05:14:08.955: 	input_format:            
+05:14:08.955: 	speed:                   100
+05:14:08.955: 	is_looping:              no
+05:14:08.955: 	is_linear_alpha:         yes
+05:14:08.955: 	is_hw_decoding:          yes
+05:14:08.955: 	is_clear_on_media_end:   yes
+05:14:08.955: 	restart_on_activate:     yes
+05:14:08.955: 	close_when_inactive:     no
+05:14:08.955: 	full_decode:             no
+05:14:08.955: 	ffmpeg_options:          
+05:14:15.137: MP: Failed to seek: Operation not permitted
+05:14:21.577: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+05:14:21.577: 	input:                   udp://127.0.0.1:1234
+05:14:21.577: 	input_format:            
+05:14:21.577: 	speed:                   100
+05:14:21.577: 	is_looping:              no
+05:14:21.577: 	is_linear_alpha:         yes
+05:14:21.577: 	is_hw_decoding:          yes
+05:14:21.577: 	is_clear_on_media_end:   yes
+05:14:21.577: 	restart_on_activate:     yes
+05:14:21.577: 	close_when_inactive:     no
+05:14:21.577: 	full_decode:             no
+05:14:21.577: 	ffmpeg_options:          
+05:14:25.560: MP: Failed to seek: Operation not permitted
+05:14:31.311: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+05:14:31.311: 	input:                   udp://127.0.0.1:1234
+05:14:31.311: 	input_format:            
+05:14:31.311: 	speed:                   100
+05:14:31.311: 	is_looping:              no
+05:14:31.311: 	is_linear_alpha:         yes
+05:14:31.311: 	is_hw_decoding:          yes
+05:14:31.311: 	is_clear_on_media_end:   yes
+05:14:31.311: 	restart_on_activate:     yes
+05:14:31.311: 	close_when_inactive:     no
+05:14:31.311: 	full_decode:             no
+05:14:31.311: 	ffmpeg_options:          
+05:14:33.311: MP: Failed to seek: Operation not permitted
+05:14:58.287: User added source 'РЈСЃС‚СЂРѕР№СЃС‚РІРѕ Р·Р°С…РІР°С‚Р° РІРёРґРµРѕ' (dshow_input) to scene 'Playing'
+05:14:58.314: РЈСЃС‚СЂРѕР№СЃС‚РІРѕ Р·Р°С…РІР°С‚Р° РІРёРґРµРѕ: DecodeDeviceId failed
+05:14:58.314: РЈСЃС‚СЂРѕР№СЃС‚РІРѕ Р·Р°С…РІР°С‚Р° РІРёРґРµРѕ: Video configuration failed
+05:15:20.874: User Removed source 'РЈСЃС‚СЂРѕР№СЃС‚РІРѕ Р·Р°С…РІР°С‚Р° РІРёРґРµРѕ' (dshow_input) from scene 'Playing'
+05:16:41.808: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:51242` has disconnected with code `1006` and reason: Удаленный хост принудительно разорвал существующее подключение.
+05:17:20.687: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:51308
+05:17:22.160: User switched to scene 'Waiting'
+05:17:23.476: MP: Failed to seek: Operation not permitted
+05:17:23.494: error:   co located POCs unavailable
+05:17:23.498: error:   mmco: unref short failure
+05:17:24.044: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: Disconnected. Reconnecting...
+05:17:24.162: [Media Source 'РСЃС‚РѕС‡РЅРёРє РјРµРґРёР°']: settings:
+05:17:24.162: 	input:                   rtmp://192.168.88.242/live/substream
+05:17:24.162: 	input_format:            
+05:17:24.162: 	speed:                   100
+05:17:24.162: 	is_looping:              no
+05:17:24.162: 	is_linear_alpha:         yes
+05:17:24.162: 	is_hw_decoding:          yes
+05:17:24.162: 	is_clear_on_media_end:   yes
+05:17:24.162: 	restart_on_activate:     yes
+05:17:24.162: 	close_when_inactive:     no
+05:17:24.162: 	full_decode:             no
+05:17:24.162: 	ffmpeg_options:          
+05:17:38.398: User switched to scene 'Playing'
+05:21:04.248: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+05:21:04.248: ==== Shutting down ==================================================
+05:21:04.270: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' Terminated
+05:21:04.273: WASAPI: Device 'РњРёРєСЂРѕС„РѕРЅ (2- USB PnP Audio Device)' Terminated
+05:21:45.800: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:51308` has disconnected with code `1006` and reason: Удаленный хост принудительно разорвал существующее подключение.

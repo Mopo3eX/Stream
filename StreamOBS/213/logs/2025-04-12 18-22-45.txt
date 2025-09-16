@@ -1,0 +1,667 @@
+18:22:45.054: [Safe Mode] Unclean shutdown detected!
+18:22:46.938: [Safe Mode] User elected to launch normally.
+18:22:46.939: CPU Name: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz
+18:22:46.939: CPU Speed: 4200MHz
+18:22:46.939: Physical Cores: 4, Logical Cores: 8
+18:22:46.939: Physical Memory: 32710MB Total, 13951MB Free
+18:22:46.939: Windows Version: 10.0 Build 19045 (release: 22H2; revision: 5737; 64-bit)
+18:22:46.939: Running as administrator: false
+18:22:46.939: Windows 10/11 Gaming Features:
+18:22:46.939: 	Game DVR: On
+18:22:46.939: 	Game Mode: Probably On (no reg key set)
+18:22:46.942: Sec. Software Status:
+18:22:46.950: 	Антивирусная программа Microsoft Defender: enabled (AV)
+18:22:46.950: 	Брандмауэр Windows: enabled (FW)
+18:22:46.951: Current Date/Time: 2025-04-12, 18:22:46
+18:22:46.951: Browser Hardware Acceleration: true
+18:22:46.951: Hide OBS windows from screen capture: false
+18:22:46.951: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+18:22:46.951: Portable mode: false
+18:22:47.018: OBS 31.0.3 (64-bit, windows)
+18:22:47.018: ---------------------------------
+18:22:47.231: ---------------------------------
+18:22:47.232: audio settings reset:
+18:22:47.232: 	samples per sec: 48000
+18:22:47.232: 	speakers:        2
+18:22:47.232: 	max buffering:   960 milliseconds
+18:22:47.232: 	buffering type:  dynamically increasing
+18:22:47.234: ---------------------------------
+18:22:47.234: Initializing D3D11...
+18:22:47.234: Available Video Adapters: 
+18:22:47.239: 	Adapter 0: NVIDIA GeForce GTX 1070
+18:22:47.239: 	  Dedicated VRAM: 8458862592 (7.9 GiB)
+18:22:47.239: 	  Shared VRAM:    17149704192 (16.0 GiB)
+18:22:47.239: 	  PCI ID:         10de:1b81
+18:22:47.239: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+18:22:47.239: 	  Driver Version: 32.0.15.6109
+18:22:47.240: 	  output 0:
+18:22:47.240: 	    name=SA241Y A
+18:22:47.240: 	    pos={0, 0}
+18:22:47.240: 	    size={1920, 1080}
+18:22:47.240: 	    attached=true
+18:22:47.240: 	    refresh=60
+18:22:47.240: 	    bits_per_color=8
+18:22:47.240: 	    space=RGB_FULL_G22_NONE_P709
+18:22:47.240: 	    primaries=[r=(0.649414, 0.338867), g=(0.323242, 0.623047), b=(0.152344, 0.073242), wp=(0.307617, 0.334961)]
+18:22:47.240: 	    relative_gamut_area=[709=1.016942, P3=0.749660, 2020=0.537831]
+18:22:47.240: 	    sdr_white_nits=80
+18:22:47.240: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+18:22:47.240: 	    dpi=96 (100%)
+18:22:47.240: 	    id=\\?\DISPLAY#ACR09BD#5&b3776b3&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+18:22:47.240: 	    alt_id=\\.\DISPLAY1
+18:22:47.242: 	  output 1:
+18:22:47.242: 	    name=SA241Y A
+18:22:47.242: 	    pos={1920, 0}
+18:22:47.242: 	    size={1920, 1080}
+18:22:47.242: 	    attached=true
+18:22:47.242: 	    refresh=60
+18:22:47.242: 	    bits_per_color=8
+18:22:47.242: 	    space=RGB_FULL_G22_NONE_P709
+18:22:47.242: 	    primaries=[r=(0.649414, 0.338867), g=(0.323242, 0.623047), b=(0.152344, 0.073242), wp=(0.307617, 0.334961)]
+18:22:47.242: 	    relative_gamut_area=[709=1.016942, P3=0.749660, 2020=0.537831]
+18:22:47.242: 	    sdr_white_nits=80
+18:22:47.242: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+18:22:47.242: 	    dpi=96 (100%)
+18:22:47.242: 	    id=\\?\DISPLAY#ACR09BD#5&b3776b3&0&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+18:22:47.242: 	    alt_id=\\.\DISPLAY2
+18:22:47.242: 	Adapter 1: NVIDIA GeForce GTX 1070
+18:22:47.242: 	  Dedicated VRAM: 8458862592 (7.9 GiB)
+18:22:47.242: 	  Shared VRAM:    17149704192 (16.0 GiB)
+18:22:47.242: 	  PCI ID:         10de:1b81
+18:22:47.242: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+18:22:47.242: 	  Driver Version: 32.0.15.6109
+18:22:47.243: Loading up D3D11 on adapter NVIDIA GeForce GTX 1070 (0)
+18:22:47.474: D3D11 loaded successfully, feature level used: b000
+18:22:47.475: DXGI increase maximum frame latency success
+18:22:47.475: D3D11 GPU priority setup failed (not admin?)
+18:22:47.735: ---------------------------------
+18:22:47.735: video settings reset:
+18:22:47.735: 	base resolution:   1920x1080
+18:22:47.735: 	output resolution: 1280x720
+18:22:47.735: 	downscale filter:  Bicubic
+18:22:47.735: 	fps:               30/1
+18:22:47.735: 	format:            NV12
+18:22:47.735: 	YUV mode:          Rec. 709/Partial
+18:22:47.736: NV12 texture support enabled
+18:22:47.736: P010 texture support not available
+18:22:47.740: Audio monitoring device:
+18:22:47.740: 	name: По умолчанию
+18:22:47.740: 	id: default
+18:22:47.743: ---------------------------------
+18:22:47.747: No AJA devices found, skipping loading AJA UI plugin
+18:22:47.747: Failed to initialize module 'aja-output-ui.dll'
+18:22:47.750: No AJA devices found, skipping loading AJA plugin
+18:22:47.750: Failed to initialize module 'aja.dll'
+18:22:47.750: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+18:22:47.755: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+18:22:47.756: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+18:22:47.757: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+18:22:47.789: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+18:22:47.789: Failed to initialize module 'decklink.dll'
+18:22:47.801: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+18:22:47.802: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+18:22:47.802: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+18:22:47.803: [NVIDIA Audio Effects:] NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+18:22:47.804: Failed to get NVVideoEffects.dll version info size
+18:22:47.806: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+18:22:47.817: [obs-browser]: Version 2.24.6
+18:22:47.817: [obs-browser]: CEF Version 127.0.6533.120 (runtime), 127.145.7+g2b7d20b+chromium-127.0.6533.120 (compiled)
+18:22:48.151: [obs-nvenc] NVENC version: 12.2 (compiled) / 12.2 (driver), CUDA driver version: 12.60, AV1 supported: false
+18:22:48.281: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.6 | RPC Version: 1)
+18:22:48.281: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+18:22:48.281: [obs-websocket] [obs_module_load] Linked ASIO Version: 103100
+18:22:48.281: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+18:22:48.323: [obs-websocket] [obs_module_load] Module loaded.
+18:22:48.330: Failed to load 'en-US' text for module: 'sl-browser-plugin.dll'
+18:22:48.330: Streamlabs module git sha is 5adf71684af10f4d1221e62dc784223b3239fadd for OBS 31.0.0, revision 91
+18:22:48.330: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+18:22:48.334: [vlc-video]: Couldn't find VLC installation, VLC video source disabled
+18:22:48.367: ---------------------------------
+18:22:48.367:   Loaded Modules:
+18:22:48.367:     win-wasapi.dll
+18:22:48.367:     win-dshow.dll
+18:22:48.367:     win-capture.dll
+18:22:48.367:     vlc-video.dll
+18:22:48.367:     text-freetype2.dll
+18:22:48.367:     sl-browser-plugin.dll
+18:22:48.367:     rtmp-services.dll
+18:22:48.367:     obs-x264.dll
+18:22:48.367:     obs-websocket.dll
+18:22:48.367:     obs-webrtc.dll
+18:22:48.367:     obs-vst.dll
+18:22:48.367:     obs-transitions.dll
+18:22:48.367:     obs-text.dll
+18:22:48.367:     obs-qsv11.dll
+18:22:48.367:     obs-outputs.dll
+18:22:48.367:     obs-nvenc.dll
+18:22:48.367:     obs-filters.dll
+18:22:48.367:     obs-ffmpeg.dll
+18:22:48.367:     obs-browser.dll
+18:22:48.367:     nv-filters.dll
+18:22:48.367:     image-source.dll
+18:22:48.367:     frontend-tools.dll
+18:22:48.367:     decklink-output-ui.dll
+18:22:48.367:     decklink-captions.dll
+18:22:48.367:     coreaudio-encoder.dll
+18:22:48.367: ---------------------------------
+18:22:48.367: Starting Streamlabs plugin...
+18:22:48.368: Streamlabs: Sending 59967 and 59968 to proxy
+18:22:48.380: [SL_PLUGIN]: obs_module_post_load Module path: C:\Program Files\obs-studio\obs-plugins\64bit\sl-browser-plugin.dll
+18:22:48.380: [SL_PLUGIN]: obs_module_post_load process_path: C
+18:22:48.380: [SL_PLUGIN]: obs_module_post_load startparams: s
+18:22:48.891: [SL_PLUGIN]: obs_module_post_load exit startServer
+18:22:48.891: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+18:22:48.891: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+18:22:48.920: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+18:22:48.963: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4455. Possible connect address: 172.19.0.1
+18:22:48.963: ---------------------------------
+18:22:48.963: Available Encoders:
+18:22:48.963:   Video Encoders:
+18:22:48.963: 	- ffmpeg_svt_av1 (SVT-AV1)
+18:22:48.963: 	- ffmpeg_aom_av1 (AOM AV1)
+18:22:48.963: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+18:22:48.963: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+18:22:48.963: 	- obs_x264 (x264)
+18:22:48.963:   Audio Encoders:
+18:22:48.963: 	- ffmpeg_aac (FFmpeg AAC)
+18:22:48.963: 	- ffmpeg_opus (FFmpeg Opus)
+18:22:48.963: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16 бит))
+18:22:48.963: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24 бита))
+18:22:48.963: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32 бита с пл. тчк.))
+18:22:48.963: 	- ffmpeg_alac (FFmpeg ALAC (24 бита))
+18:22:48.963: 	- ffmpeg_flac (FFmpeg FLAC (16 бит))
+18:22:48.963: ==== Startup complete ===============================================
+18:22:49.073: All scene data cleared
+18:22:49.073: ------------------------------------------------
+18:22:49.079: [win-wasapi: 'Рабочий стол'] update settings:
+18:22:49.079: 	device id: default
+18:22:49.079: 	use device timing: 1
+18:22:49.080: [Loaded global audio device]: 'Рабочий стол'
+18:22:49.081: [win-wasapi: 'Микр/доп'] update settings:
+18:22:49.081: 	device id: default
+18:22:49.081: 	use device timing: 0
+18:22:49.091: [Loaded global audio device]: 'Микр/доп'
+18:22:49.092: [Media Source 'Источник медиа']: settings:
+18:22:49.092: 	input:                   udp://127.0.0.1:1234
+18:22:49.092: 	input_format:            
+18:22:49.092: 	speed:                   100
+18:22:49.092: 	is_looping:              no
+18:22:49.092: 	is_linear_alpha:         no
+18:22:49.092: 	is_hw_decoding:          yes
+18:22:49.092: 	is_clear_on_media_end:   yes
+18:22:49.092: 	restart_on_activate:     yes
+18:22:49.092: 	close_when_inactive:     no
+18:22:49.092: 	full_decode:             no
+18:22:49.092: 	ffmpeg_options:          
+18:22:49.243: WASAPI: Device 'Микрофон (2- USB PnP Audio Device)' [48000 Hz] initialized (source: Микр/доп)
+18:22:49.265: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Микр/доп)
+18:22:49.265: 
+18:22:49.273: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' [48000 Hz] initialized (source: Рабочий стол)
+18:22:49.308: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Рабочий стол)
+18:22:49.308: 
+18:22:49.445: Switched to scene 'Playing'
+18:22:49.446: ------------------------------------------------
+18:22:49.446: Loaded scenes:
+18:22:49.446: - scene 'Playing':
+18:22:49.446:     - source: 'Источник медиа' (ffmpeg_source)
+18:22:49.446:     - source: 'Time' (text_gdiplus_v3)
+18:22:49.446:     - source: '18d2d29d-0901-4227-9a61-845ad5479f86.png' (image_source)
+18:22:49.446:     - source: 'Title' (text_gdiplus_v3)
+18:22:49.446: - scene 'Waiting':
+18:22:49.446:     - source: 'Фоновый цвет' (color_source_v3)
+18:22:49.446:     - source: '9ab3ce14-6462-49fa-8c73-391d1e6949d4.jpg' (image_source)
+18:22:49.446:     - source: 'WaitText' (text_gdiplus_v3)
+18:22:49.446: ------------------------------------------------
+18:22:50.178: MP: Failed to seek: Operation not permitted
+18:23:16.858: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:60073
+18:23:17.301: User switched to scene 'Waiting'
+18:23:17.663: MP: Failed to seek: Operation not permitted
+18:23:18.789: [Media Source 'Источник медиа']: Disconnected. Reconnecting...
+18:23:23.665: User switched to scene 'Playing'
+18:23:24.450: MP: Failed to seek: Operation not permitted
+18:23:24.484: [Media Source 'Источник медиа']: Reconnected.
+18:23:39.286: User changed audio monitoring for source 'Источник медиа' to: monitor and output
+18:23:41.743: [obs-nvenc: 'simple_video_stream'] settings:
+18:23:41.743: 	codec:        H264
+18:23:41.743: 	rate_control: CBR
+18:23:41.743: 	bitrate:      2500
+18:23:41.743: 	keyint:       250
+18:23:41.743: 	preset:       p5
+18:23:41.743: 	tuning:       hq
+18:23:41.743: 	multipass:    qres
+18:23:41.743: 	profile:      high
+18:23:41.743: 	width:        1280
+18:23:41.743: 	height:       720
+18:23:41.743: 	b-frames:     2
+18:23:41.743: 	b-ref-mode:   0
+18:23:41.743: 	lookahead:    true (8 frames)
+18:23:41.743: 	aq:           true
+18:23:41.743: 
+18:23:41.825: ---------------------------------
+18:23:41.825: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+18:23:41.825: 
+18:23:41.826: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://192.168.88.242/live/...
+18:23:41.831: [rtmp stream: 'simple_stream'] Interface: Hyper-V Virtual Ethernet Adapter #2 (type 0, 100↓/100↑ mbps)
+18:23:41.965: [rtmp stream: 'simple_stream'] Connection to rtmp://192.168.88.242/live/ (192.168.88.242) successful
+18:23:41.966: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+18:23:41.975: ==== Streaming Start ===============================================
+18:25:11.961: User changed audio monitoring for source 'Источник медиа' to: none
+18:25:29.676: adding 64 milliseconds of audio buffering, total audio buffering is now 106 milliseconds (source: Источник медиа)
+18:25:29.676: 
+18:25:31.356: adding 64 milliseconds of audio buffering, total audio buffering is now 170 milliseconds (source: Источник медиа)
+18:25:31.356: 
+18:27:51.894: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:60073` has disconnected with code `1006` and reason: ��������� ���� ������������� �������� ������������ �����������.
+18:28:09.521: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:60210
+18:28:09.689: User switched to scene 'Waiting'
+18:28:10.213: MP: Failed to seek: Operation not permitted
+18:28:15.341: User switched to scene 'Playing'
+18:28:15.778: [Media Source 'Источник медиа']: Disconnected. Reconnecting...
+18:28:21.213: MP: Failed to seek: Operation not permitted
+18:28:21.576: [Media Source 'Источник медиа']: Reconnected.
+18:29:18.976: User changed audio monitoring for source 'Источник медиа' to: monitor and output
+18:29:30.288: [Media Source 'Источник медиа']: settings:
+18:29:30.288: 	input:                   udp://127.0.0.1:1234
+18:29:30.288: 	input_format:            
+18:29:30.288: 	speed:                   100
+18:29:30.288: 	is_looping:              no
+18:29:30.288: 	is_linear_alpha:         no
+18:29:30.288: 	is_hw_decoding:          yes
+18:29:30.288: 	is_clear_on_media_end:   yes
+18:29:30.288: 	restart_on_activate:     yes
+18:29:30.288: 	close_when_inactive:     no
+18:29:30.288: 	full_decode:             no
+18:29:30.288: 	ffmpeg_options:          
+18:29:34.516: MP: Failed to seek: Operation not permitted
+18:29:42.503: [Media Source 'Источник медиа']: settings:
+18:29:42.503: 	input:                   udp://127.0.0.1:1234
+18:29:42.503: 	input_format:            
+18:29:42.503: 	speed:                   100
+18:29:42.503: 	is_looping:              no
+18:29:42.503: 	is_linear_alpha:         no
+18:29:42.503: 	is_hw_decoding:          yes
+18:29:42.503: 	is_clear_on_media_end:   yes
+18:29:42.503: 	restart_on_activate:     no
+18:29:42.503: 	close_when_inactive:     no
+18:29:42.503: 	full_decode:             no
+18:29:42.503: 	ffmpeg_options:          
+18:29:44.833: MP: Failed to seek: Operation not permitted
+18:29:54.649: [Media Source 'Источник медиа']: settings:
+18:29:54.649: 	input:                   udp://127.0.0.1:1234
+18:29:54.649: 	input_format:            
+18:29:54.649: 	speed:                   100
+18:29:54.649: 	is_looping:              no
+18:29:54.649: 	is_linear_alpha:         no
+18:29:54.649: 	is_hw_decoding:          yes
+18:29:54.649: 	is_clear_on_media_end:   yes
+18:29:54.649: 	restart_on_activate:     no
+18:29:54.649: 	close_when_inactive:     yes
+18:29:54.649: 	full_decode:             no
+18:29:54.649: 	ffmpeg_options:          
+18:29:58.427: MP: Failed to seek: Operation not permitted
+18:30:02.778: User switched to scene 'Waiting'
+18:30:08.056: User switched to scene 'Playing'
+18:30:21.322: [Media Source 'Источник медиа']: settings:
+18:30:21.322: 	input:                   udp://127.0.0.1:1234
+18:30:21.322: 	input_format:            
+18:30:21.322: 	speed:                   100
+18:30:21.322: 	is_looping:              no
+18:30:21.322: 	is_linear_alpha:         no
+18:30:21.322: 	is_hw_decoding:          yes
+18:30:21.322: 	is_clear_on_media_end:   yes
+18:30:21.322: 	restart_on_activate:     no
+18:30:21.322: 	close_when_inactive:     no
+18:30:21.322: 	full_decode:             no
+18:30:21.322: 	ffmpeg_options:          
+18:30:24.840: MP: Failed to seek: Operation not permitted
+18:30:29.830: adding 21 milliseconds of audio buffering, total audio buffering is now 192 milliseconds (source: Источник медиа)
+18:30:29.830: 
+18:30:47.492: [Media Source 'Источник медиа']: settings:
+18:30:47.492: 	input:                   udp://127.0.0.1:1234
+18:30:47.492: 	input_format:            
+18:30:47.492: 	speed:                   100
+18:30:47.492: 	is_looping:              no
+18:30:47.492: 	is_linear_alpha:         no
+18:30:47.492: 	is_hw_decoding:          yes
+18:30:47.492: 	is_clear_on_media_end:   yes
+18:30:47.492: 	restart_on_activate:     no
+18:30:47.492: 	close_when_inactive:     no
+18:30:47.492: 	full_decode:             no
+18:30:47.492: 	ffmpeg_options:          
+18:30:54.746: MP: Failed to seek: Operation not permitted
+18:31:23.739: adding 21 milliseconds of audio buffering, total audio buffering is now 213 milliseconds (source: Источник медиа)
+18:31:23.739: 
+18:31:59.221: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:60210` has disconnected with code `1006` and reason: ��������� ���� ������������� �������� ������������ �����������.
+18:32:02.326: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:60292
+18:32:02.518: User switched to scene 'Waiting'
+18:32:03.099: adding 64 milliseconds of audio buffering, total audio buffering is now 277 milliseconds (source: Источник медиа)
+18:32:03.099: 
+18:32:03.419: adding 320 milliseconds of audio buffering, total audio buffering is now 597 milliseconds (source: Источник медиа)
+18:32:03.419: 
+18:32:03.781: Max audio buffering reached!
+18:32:03.781: adding 362 milliseconds of audio buffering, total audio buffering is now 960 milliseconds (source: Источник медиа)
+18:32:03.781: 
+18:32:04.059: Source Источник медиа audio is lagging (over by 251.85 ms) at max audio buffering. Restarting source audio.
+18:32:08.395: User switched to scene 'Playing'
+18:32:08.626: Source Источник медиа audio is lagging (over by 2175.74 ms) at max audio buffering. Restarting source audio.
+18:33:04.558: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:60292` has disconnected with code `1006` and reason: ��������� ���� ������������� �������� ������������ �����������.
+18:33:07.892: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:60331
+18:33:08.147: User switched to scene 'Waiting'
+18:33:14.943: User switched to scene 'Playing'
+18:33:34.277: Source Источник медиа audio is lagging (over by 3.62 ms) at max audio buffering. Restarting source audio.
+18:33:38.602: [Media Source 'Источник медиа']: settings:
+18:33:38.602: 	input:                   udp://127.0.0.1:1234
+18:33:38.602: 	input_format:            
+18:33:38.602: 	speed:                   100
+18:33:38.602: 	is_looping:              no
+18:33:38.602: 	is_linear_alpha:         no
+18:33:38.602: 	is_hw_decoding:          yes
+18:33:38.602: 	is_clear_on_media_end:   yes
+18:33:38.602: 	restart_on_activate:     no
+18:33:38.602: 	close_when_inactive:     no
+18:33:38.602: 	full_decode:             no
+18:33:38.602: 	ffmpeg_options:          
+18:33:40.258: MP: Failed to seek: Operation not permitted
+18:34:20.009: User changed audio monitoring for source 'Источник медиа' to: none
+18:48:54.642: User switched to scene 'Waiting'
+18:49:00.636: User switched to scene 'Playing'
+18:49:28.752: Source Источник медиа audio is lagging (over by 29548.78 ms) at max audio buffering. Restarting source audio.
+18:49:48.759: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:60331` has disconnected with code `1006` and reason: ��������� ���� ������������� �������� ������������ �����������.
+18:51:25.524: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:52785
+18:51:25.851: User switched to scene 'Waiting'
+18:51:33.202: User switched to scene 'Playing'
+18:52:03.013: Source Источник медиа audio is lagging (over by 34767.69 ms) at max audio buffering. Restarting source audio.
+18:52:36.333: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:52785` has disconnected with code `1006` and reason: ��������� ���� ������������� �������� ������������ �����������.
+18:52:46.800: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:52816
+18:52:47.037: User switched to scene 'Waiting'
+18:53:03.196: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:52816` has disconnected with code `1006` and reason: ��������� ���� ������������� �������� ������������ �����������.
+18:53:11.889: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:52826
+18:53:12.235: User switched to scene 'Waiting'
+18:53:50.513: Source Источник медиа audio is lagging (over by 61440.96 ms) at max audio buffering. Restarting source audio.
+18:53:54.413: User switched to scene 'Playing'
+18:53:59.835: User switched to scene 'Waiting'
+18:54:05.855: User switched to scene 'Playing'
+18:54:10.994: User changed audio monitoring for source 'Источник медиа' to: monitor and output
+18:54:17.866: [Media Source 'Источник медиа']: settings:
+18:54:17.866: 	input:                   udp://127.0.0.1:1234
+18:54:17.866: 	input_format:            
+18:54:17.866: 	speed:                   100
+18:54:17.866: 	is_looping:              no
+18:54:17.866: 	is_linear_alpha:         no
+18:54:17.866: 	is_hw_decoding:          yes
+18:54:17.866: 	is_clear_on_media_end:   yes
+18:54:17.866: 	restart_on_activate:     no
+18:54:17.866: 	close_when_inactive:     no
+18:54:17.866: 	full_decode:             no
+18:54:17.866: 	ffmpeg_options:          
+18:54:21.015: MP: Failed to seek: Operation not permitted
+18:54:25.268: [Media Source 'Источник медиа']: settings:
+18:54:25.268: 	input:                   udp://127.0.0.1:1234
+18:54:25.268: 	input_format:            
+18:54:25.268: 	speed:                   100
+18:54:25.268: 	is_looping:              no
+18:54:25.268: 	is_linear_alpha:         no
+18:54:25.268: 	is_hw_decoding:          yes
+18:54:25.268: 	is_clear_on_media_end:   yes
+18:54:25.268: 	restart_on_activate:     no
+18:54:25.268: 	close_when_inactive:     no
+18:54:25.268: 	full_decode:             no
+18:54:25.268: 	ffmpeg_options:          
+18:54:31.174: MP: Failed to seek: Operation not permitted
+18:54:36.798: [Media Source 'Источник медиа']: settings:
+18:54:36.798: 	input:                   udp://127.0.0.1:1234
+18:54:36.798: 	input_format:            
+18:54:36.798: 	speed:                   100
+18:54:36.798: 	is_looping:              no
+18:54:36.798: 	is_linear_alpha:         no
+18:54:36.798: 	is_hw_decoding:          yes
+18:54:36.798: 	is_clear_on_media_end:   yes
+18:54:36.798: 	restart_on_activate:     no
+18:54:36.798: 	close_when_inactive:     no
+18:54:36.798: 	full_decode:             no
+18:54:36.798: 	ffmpeg_options:          
+18:54:39.830: MP: Failed to seek: Operation not permitted
+18:54:46.946: [Media Source 'Источник медиа']: settings:
+18:54:46.946: 	input:                   udp://127.0.0.1:1234
+18:54:46.946: 	input_format:            
+18:54:46.946: 	speed:                   100
+18:54:46.946: 	is_looping:              no
+18:54:46.946: 	is_linear_alpha:         no
+18:54:46.946: 	is_hw_decoding:          yes
+18:54:46.946: 	is_clear_on_media_end:   yes
+18:54:46.946: 	restart_on_activate:     no
+18:54:46.946: 	close_when_inactive:     no
+18:54:46.946: 	full_decode:             no
+18:54:46.946: 	ffmpeg_options:          
+18:54:47.768: MP: Failed to seek: Operation not permitted
+18:54:53.174: [Media Source 'Источник медиа']: settings:
+18:54:53.174: 	input:                   udp://127.0.0.1:1234
+18:54:53.174: 	input_format:            
+18:54:53.174: 	speed:                   100
+18:54:53.174: 	is_looping:              no
+18:54:53.174: 	is_linear_alpha:         no
+18:54:53.174: 	is_hw_decoding:          yes
+18:54:53.174: 	is_clear_on_media_end:   yes
+18:54:53.174: 	restart_on_activate:     no
+18:54:53.174: 	close_when_inactive:     no
+18:54:53.174: 	full_decode:             no
+18:54:53.174: 	ffmpeg_options:          
+18:54:54.198: MP: Failed to seek: Operation not permitted
+18:55:07.477: User changed audio monitoring for source 'Источник медиа' to: none
+18:55:34.939: Source Источник медиа audio is lagging (over by 692.45 ms) at max audio buffering. Restarting source audio.
+18:55:38.417: Source Источник медиа audio is lagging (over by 1230.95 ms) at max audio buffering. Restarting source audio.
+18:55:43.345: Source Источник медиа audio is lagging (over by 2142.16 ms) at max audio buffering. Restarting source audio.
+18:55:48.915: Source Источник медиа audio is lagging (over by 22.73 ms) at max audio buffering. Restarting source audio.
+18:55:54.247: Source Источник медиа audio is lagging (over by 666.58 ms) at max audio buffering. Restarting source audio.
+18:56:03.313: Source Источник медиа audio is lagging (over by 1557.28 ms) at max audio buffering. Restarting source audio.
+19:05:19.516: Source Источник медиа audio is lagging (over by 486.05 ms) at max audio buffering. Restarting source audio.
+19:17:15.143: User changed audio monitoring for source 'Источник медиа' to: monitor and output
+19:17:26.814: User switched to scene 'Waiting'
+19:17:32.209: Source Источник медиа audio is lagging (over by 1285.02 ms) at max audio buffering. Restarting source audio.
+19:17:32.580: User switched to scene 'Playing'
+19:17:39.165: avresample_open failed: error code -22
+19:17:39.165: creation of resampler failed
+19:17:39.185: Source Источник медиа audio is lagging (over by 5949.62 ms) at max audio buffering. Restarting source audio.
+19:18:10.884: [Media Source 'Источник медиа']: settings:
+19:18:10.884: 	input:                   udp://127.0.0.1:1234
+19:18:10.884: 	input_format:            
+19:18:10.884: 	speed:                   100
+19:18:10.884: 	is_looping:              no
+19:18:10.884: 	is_linear_alpha:         no
+19:18:10.884: 	is_hw_decoding:          yes
+19:18:10.884: 	is_clear_on_media_end:   yes
+19:18:10.884: 	restart_on_activate:     yes
+19:18:10.884: 	close_when_inactive:     no
+19:18:10.884: 	full_decode:             no
+19:18:10.884: 	ffmpeg_options:          
+19:18:12.815: MP: Failed to seek: Operation not permitted
+19:18:15.682: [Media Source 'Источник медиа']: settings:
+19:18:15.682: 	input:                   udp://127.0.0.1:1234
+19:18:15.682: 	input_format:            
+19:18:15.682: 	speed:                   100
+19:18:15.682: 	is_looping:              no
+19:18:15.682: 	is_linear_alpha:         no
+19:18:15.682: 	is_hw_decoding:          yes
+19:18:15.682: 	is_clear_on_media_end:   yes
+19:18:15.682: 	restart_on_activate:     yes
+19:18:15.682: 	close_when_inactive:     no
+19:18:15.682: 	full_decode:             no
+19:18:15.682: 	ffmpeg_options:          
+19:18:21.717: MP: Failed to seek: Operation not permitted
+19:18:29.176: [Media Source 'Источник медиа']: settings:
+19:18:29.176: 	input:                   udp://127.0.0.1:1234
+19:18:29.176: 	input_format:            
+19:18:29.176: 	speed:                   100
+19:18:29.176: 	is_looping:              no
+19:18:29.176: 	is_linear_alpha:         no
+19:18:29.176: 	is_hw_decoding:          yes
+19:18:29.176: 	is_clear_on_media_end:   yes
+19:18:29.176: 	restart_on_activate:     yes
+19:18:29.176: 	close_when_inactive:     no
+19:18:29.176: 	full_decode:             no
+19:18:29.176: 	ffmpeg_options:          
+19:18:33.494: MP: Failed to seek: Operation not permitted
+19:18:42.646: [Media Source 'Источник медиа']: settings:
+19:18:42.646: 	input:                   udp://127.0.0.1:1234
+19:18:42.646: 	input_format:            
+19:18:42.646: 	speed:                   100
+19:18:42.646: 	is_looping:              no
+19:18:42.646: 	is_linear_alpha:         yes
+19:18:42.646: 	is_hw_decoding:          yes
+19:18:42.646: 	is_clear_on_media_end:   yes
+19:18:42.646: 	restart_on_activate:     yes
+19:18:42.646: 	close_when_inactive:     no
+19:18:42.646: 	full_decode:             no
+19:18:42.646: 	ffmpeg_options:          
+19:18:43.810: MP: Failed to seek: Operation not permitted
+19:19:13.803: [Media Source 'Источник медиа']: settings:
+19:19:13.803: 	input:                   udp://127.0.0.1:1234
+19:19:13.803: 	input_format:            
+19:19:13.803: 	speed:                   100
+19:19:13.803: 	is_looping:              no
+19:19:13.803: 	is_linear_alpha:         yes
+19:19:13.803: 	is_hw_decoding:          yes
+19:19:13.803: 	is_clear_on_media_end:   yes
+19:19:13.803: 	restart_on_activate:     yes
+19:19:13.803: 	close_when_inactive:     no
+19:19:13.803: 	full_decode:             no
+19:19:13.803: 	ffmpeg_options:          
+19:19:19.274: MP: Failed to seek: Operation not permitted
+19:19:27.126: [Media Source 'Источник медиа']: settings:
+19:19:27.126: 	input:                   udp://127.0.0.1:1234
+19:19:27.126: 	input_format:            
+19:19:27.126: 	speed:                   100
+19:19:27.126: 	is_looping:              no
+19:19:27.126: 	is_linear_alpha:         yes
+19:19:27.126: 	is_hw_decoding:          yes
+19:19:27.126: 	is_clear_on_media_end:   yes
+19:19:27.126: 	restart_on_activate:     no
+19:19:27.126: 	close_when_inactive:     no
+19:19:27.126: 	full_decode:             no
+19:19:27.126: 	ffmpeg_options:          
+19:19:31.517: MP: Failed to seek: Operation not permitted
+19:19:34.777: [Media Source 'Источник медиа']: settings:
+19:19:34.777: 	input:                   udp://127.0.0.1:1234
+19:19:34.777: 	input_format:            
+19:19:34.777: 	speed:                   100
+19:19:34.777: 	is_looping:              no
+19:19:34.777: 	is_linear_alpha:         yes
+19:19:34.777: 	is_hw_decoding:          yes
+19:19:34.777: 	is_clear_on_media_end:   yes
+19:19:34.777: 	restart_on_activate:     no
+19:19:34.777: 	close_when_inactive:     no
+19:19:34.777: 	full_decode:             no
+19:19:34.777: 	ffmpeg_options:          
+19:19:38.220: MP: Failed to seek: Operation not permitted
+19:19:41.290: [Media Source 'Источник медиа']: settings:
+19:19:41.290: 	input:                   udp://127.0.0.1:1234
+19:19:41.290: 	input_format:            
+19:19:41.290: 	speed:                   100
+19:19:41.290: 	is_looping:              no
+19:19:41.290: 	is_linear_alpha:         yes
+19:19:41.290: 	is_hw_decoding:          yes
+19:19:41.290: 	is_clear_on_media_end:   yes
+19:19:41.290: 	restart_on_activate:     no
+19:19:41.290: 	close_when_inactive:     no
+19:19:41.290: 	full_decode:             no
+19:19:41.290: 	ffmpeg_options:          
+19:19:43.028: MP: Failed to seek: Operation not permitted
+19:23:12.213: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:52826` has disconnected with code `1006` and reason: ��������� ���� ������������� �������� ������������ �����������.
+19:23:18.386: [rtmp stream: 'simple_stream'] User stopped the stream
+19:23:18.386: [rtmp stream: 'simple_stream'] Socket send buffer is 524288 bytes
+19:23:18.386: Output 'simple_stream': stopping
+19:23:18.386: Output 'simple_stream': Total frames output: 107023
+19:23:18.386: Output 'simple_stream': Total drawn frames: 106025 (107297 attempted)
+19:23:18.386: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 1272 (1.2%)
+19:23:18.388: Video stopped, number of skipped frames due to encoding lag: 1284/107290 (1.2%)
+19:23:18.392: ==== Streaming Stop ================================================
+19:23:40.167: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+19:23:40.168: ==== Shutting down ==================================================
+19:23:40.188: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' Terminated
+19:23:40.191: WASAPI: Device 'Микрофон (2- USB PnP Audio Device)' Terminated
+19:23:40.275: All scene data cleared
+19:23:40.275: ------------------------------------------------
+19:23:40.545: [obs-websocket] [obs_module_unload] Shutting down...
+19:23:40.546: [obs-websocket] [WebSocketServer::ServerRunner] IO thread exited.
+19:23:40.555: [obs-websocket] [WebSocketServer::Stop] Server stopped successfully
+19:23:40.561: Tried to call obs_frontend_remove_event_callback with no callbacks!
+19:23:40.561: [obs-websocket] [obs_module_unload] Finished shutting down.
+19:23:40.754: [Scripting] Total detached callbacks: 0
+19:23:40.754: Freeing OBS context data
+19:23:40.840: == Profiler Results =============================
+19:23:40.840: run_program_init: 5028.31 ms
+19:23:40.840:  ┣OBSApp::AppInit: 64.014 ms
+19:23:40.840:  ┃ ┗OBSApp::InitLocale: 3.528 ms
+19:23:40.840:  ┗OBSApp::OBSInit: 3026.51 ms
+19:23:40.840:    ┣obs_startup: 12.434 ms
+19:23:40.840:    ┗OBSBasic::OBSInit: 2754.67 ms
+19:23:40.840:      ┣OBSBasic::InitBasicConfig: 21.243 ms
+19:23:40.840:      ┣OBSBasic::ResetAudio: 0.206 ms
+19:23:40.840:      ┣OBSBasic::ResetVideo: 508.121 ms
+19:23:40.840:      ┃ ┗obs_init_graphics: 503.505 ms
+19:23:40.840:      ┃   ┗shader compilation: 186.208 ms
+19:23:40.840:      ┣OBSBasic::InitOBSCallbacks: 0.038 ms
+19:23:40.840:      ┣OBSBasic::InitHotkeys: 0.059 ms
+19:23:40.840:      ┣obs_load_all_modules2: 623.783 ms
+19:23:40.840:      ┃ ┣obs_init_module(aja-output-ui.dll): 0.437 ms
+19:23:40.840:      ┃ ┣obs_init_module(aja.dll): 0.275 ms
+19:23:40.840:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 3.52 ms
+19:23:40.840:      ┃ ┣obs_init_module(decklink-captions.dll): 0 ms
+19:23:40.840:      ┃ ┣obs_init_module(decklink-output-ui.dll): 0 ms
+19:23:40.840:      ┃ ┣obs_init_module(decklink.dll): 30.22 ms
+19:23:40.840:      ┃ ┣obs_init_module(frontend-tools.dll): 7.986 ms
+19:23:40.840:      ┃ ┣obs_init_module(image-source.dll): 0.011 ms
+19:23:40.840:      ┃ ┣obs_init_module(nv-filters.dll): 3.537 ms
+19:23:40.840:      ┃ ┣obs_init_module(obs-browser.dll): 0.463 ms
+19:23:40.840:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 1.829 ms
+19:23:40.840:      ┃ ┣obs_init_module(obs-filters.dll): 0.055 ms
+19:23:40.840:      ┃ ┣obs_init_module(obs-nvenc.dll): 325.211 ms
+19:23:40.840:      ┃ ┃ ┗nvenc_check: 325.203 ms
+19:23:40.840:      ┃ ┣obs_init_module(obs-outputs.dll): 0.009 ms
+19:23:40.840:      ┃ ┣obs_init_module(obs-qsv11.dll): 117.215 ms
+19:23:40.840:      ┃ ┣obs_init_module(obs-text.dll): 0.284 ms
+19:23:40.840:      ┃ ┣obs_init_module(obs-transitions.dll): 0.01 ms
+19:23:40.840:      ┃ ┣obs_init_module(obs-vst.dll): 0.006 ms
+19:23:40.840:      ┃ ┣obs_init_module(obs-webrtc.dll): 0.011 ms
+19:23:40.840:      ┃ ┣obs_init_module(obs-websocket.dll): 41.952 ms
+19:23:40.840:      ┃ ┣obs_init_module(obs-x264.dll): 0.002 ms
+19:23:40.840:      ┃ ┣obs_init_module(rtmp-services.dll): 1.587 ms
+19:23:40.840:      ┃ ┣obs_init_module(sl-browser-plugin.dll): 1.475 ms
+19:23:40.840:      ┃ ┣obs_init_module(text-freetype2.dll): 0.082 ms
+19:23:40.840:      ┃ ┣obs_init_module(vlc-video.dll): 0.058 ms
+19:23:40.840:      ┃ ┣obs_init_module(win-capture.dll): 2.56 ms
+19:23:40.840:      ┃ ┣obs_init_module(win-dshow.dll): 2.611 ms
+19:23:40.840:      ┃ ┣obs_init_module(win-wasapi.dll): 17.404 ms
+19:23:40.840:      ┃ ┗reset_win32_symbol_paths: 5.129 ms
+19:23:40.840:      ┣OBSBasic::InitService: 0.236 ms
+19:23:40.840:      ┣OBSBasic::ResetOutputs: 0.724 ms
+19:23:40.840:      ┣OBSBasic::CreateHotkeys: 0.066 ms
+19:23:40.840:      ┣OBSBasic::InitPrimitives: 0.212 ms
+19:23:40.840:      ┗OBSBasic::Load: 485.139 ms
+19:23:40.840: obs_hotkey_thread(25 ms): min=0.003 ms, median=0.008 ms, max=26.259 ms, 99th percentile=0.231 ms, 99.9986% below 25 ms
+19:23:40.840: audio_thread(Audio): min=0.021 ms, median=0.714 ms, max=1089.17 ms, 99th percentile=8.038 ms
+19:23:40.840:  ┗receive_audio: min=0.004 ms, median=0.561 ms, max=43.04 ms, 99th percentile=6.286 ms
+19:23:40.840:    ┣buffer_audio: min=0 ms, median=0.002 ms, max=2.011 ms, 99th percentile=0.005 ms
+19:23:40.840:    ┗do_encode: min=0.033 ms, median=0.554 ms, max=43.031 ms, 99th percentile=6.279 ms
+19:23:40.840:      ┣encode(simple_aac): min=0.027 ms, median=0.532 ms, max=17.183 ms, 99th percentile=6.247 ms
+19:23:40.840:      ┗send_packet: min=0.001 ms, median=0.014 ms, max=42.268 ms, 99th percentile=0.085 ms
+19:23:40.840: obs_graphics_thread(33.3333 ms): min=0.113 ms, median=1.233 ms, max=13835.5 ms, 99th percentile=14.928 ms, 99.7562% below 33.333 ms
+19:23:40.840:  ┣tick_sources: min=0.001 ms, median=0.015 ms, max=13834.2 ms, 99th percentile=0.372 ms
+19:23:40.840:  ┣output_frame: min=0.1 ms, median=1.028 ms, max=1098.6 ms, 99th percentile=13.22 ms
+19:23:40.840:  ┃ ┗gs_context(video->graphics): min=0.1 ms, median=1.027 ms, max=1098.22 ms, 99th percentile=13.197 ms
+19:23:40.840:  ┃   ┣render_video: min=0.003 ms, median=0.97 ms, max=1098.12 ms, 99th percentile=12.559 ms
+19:23:40.840:  ┃   ┃ ┣render_main_texture: min=0.002 ms, median=0.49 ms, max=186.487 ms, 99th percentile=8.401 ms
+19:23:40.841:  ┃   ┃ ┣render_output_texture: min=0.004 ms, median=0.009 ms, max=25.967 ms, 99th percentile=0.062 ms
+19:23:40.841:  ┃   ┃ ┣render_convert_texture: min=0.008 ms, median=0.017 ms, max=20.77 ms, 99th percentile=0.094 ms
+19:23:40.841:  ┃   ┃ ┗output_gpu_encoders: min=0 ms, median=0.055 ms, max=79.644 ms, 99th percentile=0.316 ms
+19:23:40.841:  ┃   ┗gs_flush: min=0.002 ms, median=0.025 ms, max=107.686 ms, 99th percentile=0.826 ms
+19:23:40.841:  ┗render_displays: min=0 ms, median=0.127 ms, max=44.684 ms, 99th percentile=0.621 ms
+19:23:40.841: obs_gpu_encode_thread(33.3333 ms): min=0.282 ms, median=0.668 ms, max=58.428 ms, 99th percentile=3.344 ms, 99.9972% below 33.333 ms
+19:23:40.841:  ┣gpu_encode_frame: min=0.257 ms, median=0.639 ms, max=40.944 ms, 99th percentile=3.234 ms
+19:23:40.841:  ┗send_packet: min=0.003 ms, median=0.015 ms, max=56.513 ms, 99th percentile=0.1 ms
+19:23:40.841: =================================================
+19:23:40.841: == Profiler Time Between Calls ==================
+19:23:40.841: obs_hotkey_thread(25 ms): min=24.533 ms, median=25.459 ms, max=368.033 ms, 71.6974% within ±2% of 25 ms (0% lower, 28.3026% higher)
+19:23:40.841: obs_graphics_thread(33.3333 ms): min=0.217 ms, median=33.333 ms, max=13835.6 ms, 82.0715% within ±2% of 33.333 ms (9.22648% lower, 8.702% higher)
+19:23:40.841: obs_gpu_encode_thread(33.3333 ms): min=0.325 ms, median=33.316 ms, max=13867.7 ms, 49.623% within ±2% of 33.333 ms (26.4715% lower, 23.9055% higher)
+19:23:40.841: =================================================
+19:23:41.457: Number of memory leaks: 1

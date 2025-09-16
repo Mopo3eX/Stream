@@ -1,0 +1,143 @@
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\Stream.exe
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\Stream.deps.json
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\Stream.runtimeconfig.json
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\Stream.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\Stream.pdb
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net8.0\Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net8.0\Stream.AssemblyInfoInputs.cache
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net8.0\Stream.AssemblyInfo.cs
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net8.0\Stream.csproj.CoreCompileInputs.cache
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net8.0\Stream.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net8.0\refint\Stream.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net8.0\Stream.pdb
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net8.0\Stream.genruntimeconfig.cache
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net8.0\ref\Stream.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\FluentNHibernate.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\NHibernate.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net8.0\Stream.csproj.AssemblyReference.cache
+C:\Users\BlaBlaShka\source\repos\Stream\Stream\obj\Debug\net8.0\Stream.csproj.Up2Date
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\Stream.exe
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\Stream.deps.json
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\Stream.runtimeconfig.json
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\Stream.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\Stream.pdb
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\FluentNHibernate.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\NHibernate.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net8.0\Stream.csproj.AssemblyReference.cache
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net8.0\Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net8.0\Stream.AssemblyInfoInputs.cache
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net8.0\Stream.AssemblyInfo.cs
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net8.0\Stream.csproj.CoreCompileInputs.cache
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net8.0\Stream.csproj.Up2Date
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net8.0\Stream.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net8.0\refint\Stream.dll
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net8.0\Stream.pdb
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net8.0\Stream.genruntimeconfig.cache
+C:\Users\BlaBlaShka\source\repos\Stream — копия\Stream\obj\Debug\net8.0\ref\Stream.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\Stream.exe
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\Stream.deps.json
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\Stream.runtimeconfig.json
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\Stream.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\Stream.pdb
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\FluentNHibernate.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\NHibernate.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net8.0\Stream.csproj.AssemblyReference.cache
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net8.0\Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net8.0\Stream.AssemblyInfoInputs.cache
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net8.0\Stream.AssemblyInfo.cs
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net8.0\Stream.csproj.CoreCompileInputs.cache
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net8.0\Stream.csproj.Up2Date
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net8.0\Stream.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net8.0\refint\Stream.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net8.0\Stream.pdb
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net8.0\Stream.genruntimeconfig.cache
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\obj\Debug\net8.0\ref\Stream.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\obs-websocket-dotnet.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\Websocket.Client.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\BlaBlaShka\source\repos\Stream2\Stream\bin\Debug\net8.0\System.Reactive.xml

@@ -1,0 +1,332 @@
+21:56:38.876: [Safe Mode] Unclean shutdown detected!
+21:56:42.625: [Safe Mode] User elected to launch normally.
+21:56:42.626: CPU Name: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz
+21:56:42.626: CPU Speed: 4200MHz
+21:56:42.626: Physical Cores: 4, Logical Cores: 8
+21:56:42.626: Physical Memory: 32710MB Total, 20400MB Free
+21:56:42.626: Windows Version: 10.0 Build 19045 (release: 22H2; revision: 5737; 64-bit)
+21:56:42.626: Running as administrator: false
+21:56:42.626: Windows 10/11 Gaming Features:
+21:56:42.626: 	Game DVR: On
+21:56:42.627: 	Game Mode: Probably On (no reg key set)
+21:56:42.628: Sec. Software Status:
+21:56:42.630: 	Антивирусная программа Microsoft Defender: enabled (AV)
+21:56:42.630: 	Брандмауэр Windows: enabled (FW)
+21:56:42.630: Current Date/Time: 2025-04-20, 21:56:42
+21:56:42.630: Browser Hardware Acceleration: true
+21:56:42.630: Hide OBS windows from screen capture: false
+21:56:42.630: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+21:56:42.630: Portable mode: false
+21:56:42.761: OBS 31.0.3 (64-bit, windows)
+21:56:42.761: ---------------------------------
+21:56:42.879: ---------------------------------
+21:56:42.880: audio settings reset:
+21:56:42.880: 	samples per sec: 48000
+21:56:42.880: 	speakers:        2
+21:56:42.880: 	max buffering:   960 milliseconds
+21:56:42.880: 	buffering type:  dynamically increasing
+21:56:42.920: ---------------------------------
+21:56:42.920: Initializing D3D11...
+21:56:42.920: Available Video Adapters: 
+21:56:42.923: 	Adapter 0: NVIDIA GeForce GTX 1070
+21:56:42.923: 	  Dedicated VRAM: 8458862592 (7.9 GiB)
+21:56:42.923: 	  Shared VRAM:    17149704192 (16.0 GiB)
+21:56:42.924: 	  PCI ID:         10de:1b81
+21:56:42.924: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+21:56:42.924: 	  Driver Version: 32.0.15.6109
+21:56:42.925: 	  output 0:
+21:56:42.925: 	    name=SA241Y A
+21:56:42.925: 	    pos={0, 0}
+21:56:42.925: 	    size={1920, 1080}
+21:56:42.925: 	    attached=true
+21:56:42.925: 	    refresh=60
+21:56:42.925: 	    bits_per_color=8
+21:56:42.925: 	    space=RGB_FULL_G22_NONE_P709
+21:56:42.925: 	    primaries=[r=(0.649414, 0.338867), g=(0.323242, 0.623047), b=(0.152344, 0.073242), wp=(0.307617, 0.334961)]
+21:56:42.925: 	    relative_gamut_area=[709=1.016942, P3=0.749660, 2020=0.537831]
+21:56:42.925: 	    sdr_white_nits=80
+21:56:42.925: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+21:56:42.925: 	    dpi=96 (100%)
+21:56:42.925: 	    id=\\?\DISPLAY#ACR09BD#5&b3776b3&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+21:56:42.925: 	    alt_id=\\.\DISPLAY1
+21:56:42.925: 	  output 1:
+21:56:42.925: 	    name=SA241Y A
+21:56:42.925: 	    pos={1920, 0}
+21:56:42.925: 	    size={1920, 1080}
+21:56:42.925: 	    attached=true
+21:56:42.925: 	    refresh=60
+21:56:42.925: 	    bits_per_color=8
+21:56:42.925: 	    space=RGB_FULL_G22_NONE_P709
+21:56:42.925: 	    primaries=[r=(0.649414, 0.338867), g=(0.323242, 0.623047), b=(0.152344, 0.073242), wp=(0.307617, 0.334961)]
+21:56:42.925: 	    relative_gamut_area=[709=1.016942, P3=0.749660, 2020=0.537831]
+21:56:42.925: 	    sdr_white_nits=80
+21:56:42.925: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+21:56:42.925: 	    dpi=96 (100%)
+21:56:42.925: 	    id=\\?\DISPLAY#ACR09BD#5&b3776b3&0&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+21:56:42.925: 	    alt_id=\\.\DISPLAY2
+21:56:42.926: 	Adapter 1: NVIDIA GeForce GTX 1070
+21:56:42.926: 	  Dedicated VRAM: 8458862592 (7.9 GiB)
+21:56:42.926: 	  Shared VRAM:    17149704192 (16.0 GiB)
+21:56:42.926: 	  PCI ID:         10de:1b81
+21:56:42.926: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+21:56:42.926: 	  Driver Version: 32.0.15.6109
+21:56:42.926: Loading up D3D11 on adapter NVIDIA GeForce GTX 1070 (0)
+21:56:43.040: D3D11 loaded successfully, feature level used: b000
+21:56:43.040: DXGI increase maximum frame latency success
+21:56:43.040: D3D11 GPU priority setup failed (not admin?)
+21:56:44.188: ---------------------------------
+21:56:44.188: video settings reset:
+21:56:44.188: 	base resolution:   1920x1080
+21:56:44.188: 	output resolution: 1280x720
+21:56:44.188: 	downscale filter:  Bicubic
+21:56:44.188: 	fps:               30/1
+21:56:44.188: 	format:            NV12
+21:56:44.188: 	YUV mode:          Rec. 709/Partial
+21:56:44.188: NV12 texture support enabled
+21:56:44.188: P010 texture support not available
+21:56:44.190: Audio monitoring device:
+21:56:44.190: 	name: По умолчанию
+21:56:44.190: 	id: default
+21:56:44.191: ---------------------------------
+21:56:44.235: No AJA devices found, skipping loading AJA UI plugin
+21:56:44.235: Failed to initialize module 'aja-output-ui.dll'
+21:56:44.293: No AJA devices found, skipping loading AJA plugin
+21:56:44.293: Failed to initialize module 'aja.dll'
+21:56:44.293: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+21:56:44.334: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+21:56:44.357: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+21:56:44.382: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+21:56:44.441: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+21:56:44.441: Failed to initialize module 'decklink.dll'
+21:56:44.588: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+21:56:44.634: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+21:56:44.693: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+21:56:44.727: [NVIDIA Audio Effects:] NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+21:56:44.728: Failed to get NVVideoEffects.dll version info size
+21:56:44.729: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+21:56:44.804: [obs-browser]: Version 2.24.6
+21:56:44.804: [obs-browser]: CEF Version 127.0.6533.120 (runtime), 127.145.7+g2b7d20b+chromium-127.0.6533.120 (compiled)
+21:56:45.215: [obs-nvenc] NVENC version: 12.2 (compiled) / 12.2 (driver), CUDA driver version: 12.60, AV1 supported: false
+21:56:45.677: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.6 | RPC Version: 1)
+21:56:45.677: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+21:56:45.677: [obs-websocket] [obs_module_load] Linked ASIO Version: 103100
+21:56:45.678: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+21:56:45.693: [obs-websocket] [obs_module_load] Module loaded.
+21:56:45.872: Failed to load 'en-US' text for module: 'sl-browser-plugin.dll'
+21:56:45.872: Streamlabs module git sha is 5adf71684af10f4d1221e62dc784223b3239fadd for OBS 31.0.0, revision 91
+21:56:45.872: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+21:56:46.121: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+21:56:46.514: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+21:56:46.515: [obs-multi-rtmp] Load 1 targets, 0 video configs, 0 audio configs
+21:56:46.515: [obs-multi-rtmp] Load config from C:\Users\BlaBlaShka\AppData\Roaming\obs-studio/basic/profiles/Без названия/obs-multi-rtmp.json
+21:56:46.531: [obs-multi-rtmp] version: 0.6.0.1 by SoraYuki https://github.com/sorayuki/obs-multi-rtmp/
+21:56:46.532: ---------------------------------
+21:56:46.532:   Loaded Modules:
+21:56:46.532:     obs-multi-rtmp.dll
+21:56:46.532:     win-wasapi.dll
+21:56:46.532:     win-dshow.dll
+21:56:46.532:     win-capture.dll
+21:56:46.532:     vlc-video.dll
+21:56:46.532:     text-freetype2.dll
+21:56:46.532:     sl-browser-plugin.dll
+21:56:46.532:     rtmp-services.dll
+21:56:46.532:     obs-x264.dll
+21:56:46.532:     obs-websocket.dll
+21:56:46.532:     obs-webrtc.dll
+21:56:46.532:     obs-vst.dll
+21:56:46.532:     obs-transitions.dll
+21:56:46.532:     obs-text.dll
+21:56:46.532:     obs-qsv11.dll
+21:56:46.532:     obs-outputs.dll
+21:56:46.532:     obs-nvenc.dll
+21:56:46.532:     obs-filters.dll
+21:56:46.532:     obs-ffmpeg.dll
+21:56:46.532:     obs-browser.dll
+21:56:46.532:     nv-filters.dll
+21:56:46.532:     image-source.dll
+21:56:46.532:     frontend-tools.dll
+21:56:46.532:     decklink-output-ui.dll
+21:56:46.532:     decklink-captions.dll
+21:56:46.532:     coreaudio-encoder.dll
+21:56:46.532: ---------------------------------
+21:56:46.532: Starting Streamlabs plugin...
+21:56:46.532: Streamlabs: Sending 50390 and 50391 to proxy
+21:56:46.535: [SL_PLUGIN]: obs_module_post_load Module path: C:\Program Files\obs-studio\obs-plugins\64bit\sl-browser-plugin.dll
+21:56:46.535: [SL_PLUGIN]: obs_module_post_load process_path: C
+21:56:46.535: [SL_PLUGIN]: obs_module_post_load startparams: s
+21:56:46.836: [rtmp-services plugin] Successfully updated file 'services.json' (version 269)
+21:56:46.837: [rtmp-services plugin] Successfully updated package (version 269)
+21:56:47.128: [SL_PLUGIN]: obs_module_post_load exit startServer
+21:56:47.128: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+21:56:47.128: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+21:56:47.139: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+21:56:47.147: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4455. Possible connect address: 172.19.0.1
+21:56:47.147: ---------------------------------
+21:56:47.147: Available Encoders:
+21:56:47.147:   Video Encoders:
+21:56:47.147: 	- ffmpeg_svt_av1 (SVT-AV1)
+21:56:47.147: 	- ffmpeg_aom_av1 (AOM AV1)
+21:56:47.147: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+21:56:47.147: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+21:56:47.147: 	- obs_x264 (x264)
+21:56:47.147:   Audio Encoders:
+21:56:47.147: 	- ffmpeg_aac (FFmpeg AAC)
+21:56:47.147: 	- ffmpeg_opus (FFmpeg Opus)
+21:56:47.147: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16 бит))
+21:56:47.147: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24 бита))
+21:56:47.147: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32 бита с пл. тчк.))
+21:56:47.147: 	- ffmpeg_alac (FFmpeg ALAC (24 бита))
+21:56:47.147: 	- ffmpeg_flac (FFmpeg FLAC (16 бит))
+21:56:47.147: ==== Startup complete ===============================================
+21:56:47.358: All scene data cleared
+21:56:47.358: ------------------------------------------------
+21:56:47.390: [win-wasapi: 'Рабочий стол'] update settings:
+21:56:47.390: 	device id: default
+21:56:47.390: 	use device timing: 1
+21:56:47.390: [Loaded global audio device]: 'Рабочий стол'
+21:56:47.391: [win-wasapi: 'Микр/доп'] update settings:
+21:56:47.391: 	device id: default
+21:56:47.391: 	use device timing: 0
+21:56:47.391: [Loaded global audio device]: 'Микр/доп'
+21:56:47.414: WASAPI: Device 'Микрофон (2- USB PnP Audio Device)' [48000 Hz] initialized (source: Микр/доп)
+21:56:47.429: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' [48000 Hz] initialized (source: Рабочий стол)
+21:56:47.465: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Рабочий стол)
+21:56:47.465: 
+21:56:47.783: Switched to scene 'Playing'
+21:56:47.783: ------------------------------------------------
+21:56:47.783: Loaded scenes:
+21:56:47.783: - scene 'Playing':
+21:56:47.783:     - source: 'Источник VLC видео' (vlc_source)
+21:56:47.783:     - source: 'Time' (text_gdiplus_v3)
+21:56:47.783:     - source: '18d2d29d-0901-4227-9a61-845ad5479f86.png' (image_source)
+21:56:47.783:     - source: 'Title' (text_gdiplus_v3)
+21:56:47.783: - scene 'Waiting':
+21:56:47.783:     - source: 'Фоновый цвет' (color_source_v3)
+21:56:47.783:     - source: '9ab3ce14-6462-49fa-8c73-391d1e6949d4.jpg' (image_source)
+21:56:47.783:     - source: 'WaitText' (text_gdiplus_v3)
+21:56:47.783: ------------------------------------------------
+21:56:53.099: User switched to scene 'Waiting'
+21:56:55.287: User switched to scene 'Playing'
+21:56:57.140: [obs-nvenc: 'simple_video_stream'] settings:
+21:56:57.140: 	codec:        H264
+21:56:57.140: 	rate_control: CBR
+21:56:57.140: 	bitrate:      10000
+21:56:57.140: 	keyint:       250
+21:56:57.140: 	preset:       p4
+21:56:57.140: 	tuning:       hq
+21:56:57.140: 	multipass:    qres
+21:56:57.140: 	profile:      high
+21:56:57.140: 	width:        1280
+21:56:57.140: 	height:       720
+21:56:57.140: 	b-frames:     2
+21:56:57.140: 	b-ref-mode:   0
+21:56:57.140: 	lookahead:    true (8 frames)
+21:56:57.140: 	aq:           true
+21:56:57.140: 
+21:56:57.215: ---------------------------------
+21:56:57.215: [FFmpeg aac encoder: 'simple_aac'] bitrate: 128, channels: 2, channel_layout: stereo, track: 1
+21:56:57.215: 
+21:56:57.216: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:56:57.221: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000↓/100000↑ mbps)
+21:56:57.629: rtmp://sr2.blablaname.ru/live/:
+21:56:57.629: NetStream.Publish.BadName (Already publishing)
+21:56:57.629: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+21:56:57.629: ==== Streaming Stop ================================================
+21:58:21.791: encoder 'simple_video_stream': Cannot apply a new video_t object after the encoder has been initialized
+21:58:21.792: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:58:21.796: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000↓/100000↑ mbps)
+21:58:22.520: rtmp://sr2.blablaname.ru/live/:
+21:58:22.520: NetStream.Publish.BadName (Already publishing)
+21:58:22.520: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+21:58:22.520: ==== Streaming Stop ================================================
+21:59:00.054: encoder 'simple_video_stream': Cannot apply a new video_t object after the encoder has been initialized
+21:59:00.055: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:59:00.058: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000↓/100000↑ mbps)
+21:59:00.474: rtmp://sr2.blablaname.ru/live/:
+21:59:00.474: NetStream.Publish.BadName (Already publishing)
+21:59:00.474: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+21:59:00.474: ==== Streaming Stop ================================================
+21:59:03.709:   OpenType support missing for "Open Sans", script 11
+21:59:03.710:   OpenType support missing for "Arial", script 11
+21:59:03.710:   OpenType support missing for "Tahoma", script 11
+21:59:03.712:   OpenType support missing for "MS UI Gothic", script 11
+21:59:03.714:   OpenType support missing for "SimSun", script 11
+21:59:03.715:   OpenType support missing for "Segoe UI Emoji", script 11
+21:59:03.717:   OpenType support missing for "Segoe UI Symbol", script 11
+21:59:03.720:   OpenType support missing for "Open Sans", script 12
+21:59:03.721:   OpenType support missing for "Arial", script 12
+21:59:03.721:   OpenType support missing for "Tahoma", script 12
+21:59:03.722:   OpenType support missing for "MS UI Gothic", script 12
+21:59:03.722:   OpenType support missing for "SimSun", script 12
+21:59:03.723:   OpenType support missing for "Segoe UI Emoji", script 12
+21:59:03.723:   OpenType support missing for "Segoe UI Symbol", script 12
+21:59:03.724:   OpenType support missing for "Open Sans", script 20
+21:59:03.724:   OpenType support missing for "Arial", script 20
+21:59:03.725:   OpenType support missing for "Tahoma", script 20
+21:59:03.725:   OpenType support missing for "MS UI Gothic", script 20
+21:59:03.726:   OpenType support missing for "SimSun", script 20
+21:59:03.726:   OpenType support missing for "Segoe UI Emoji", script 20
+21:59:03.726:   OpenType support missing for "Segoe UI Symbol", script 20
+21:59:14.382: encoder 'simple_video_stream': Cannot apply a new video_t object after the encoder has been initialized
+21:59:14.382: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:59:14.386: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000↓/100000↑ mbps)
+21:59:14.792: rtmp://sr2.blablaname.ru/live/:
+21:59:14.792: NetStream.Publish.BadName (Already publishing)
+21:59:14.792: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+21:59:14.792: ==== Streaming Stop ================================================
+22:00:39.359: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:50712
+22:00:39.450: User switched to scene 'Waiting'
+22:00:46.641: User switched to scene 'Playing'
+22:00:52.800: encoder 'simple_video_stream': Cannot apply a new video_t object after the encoder has been initialized
+22:00:52.801: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:00:52.805: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000↓/100000↑ mbps)
+22:00:53.526: rtmp://sr2.blablaname.ru/live/:
+22:00:53.526: NetStream.Publish.BadName (Already publishing)
+22:00:53.526: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:00:53.527: ==== Streaming Stop ================================================
+22:01:41.302: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:50712` has disconnected with code `1006` and reason: ��������� ���� ������������� �������� ������������ �����������.
+22:01:46.415: ==== Shutting down ==================================================
+22:01:46.463: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' Terminated
+22:01:46.502: WASAPI: Device 'Микрофон (2- USB PnP Audio Device)' Terminated
+22:01:46.559: All scene data cleared
+22:01:46.559: ------------------------------------------------
+22:01:46.559: [obs-multi-rtmp] Save 1 targets, 0 video configs, 0 audio configs
+22:01:46.583: [obs-multi-rtmp] Save config into C:\Users\BlaBlaShka\AppData\Roaming\obs-studio/basic/profiles/Без названия/obs-multi-rtmp.json
+22:01:46.660: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:46.760: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:46.848: [obs-websocket] [obs_module_unload] Shutting down...
+22:01:46.849: [obs-websocket] [WebSocketServer::ServerRunner] IO thread exited.
+22:01:46.849: [obs-websocket] [WebSocketServer::Stop] Server stopped successfully
+22:01:46.850: Tried to call obs_frontend_remove_event_callback with no callbacks!
+22:01:46.850: [obs-websocket] [obs_module_unload] Finished shutting down.
+22:01:46.861: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:46.961: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:47.062: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:47.162: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:47.262: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:47.363: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:47.464: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:47.565: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:47.665: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:47.766: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:47.866: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:47.967: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:48.067: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:48.168: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:48.268: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:48.369: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:48.469: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:48.570: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:48.671: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:48.771: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:48.872: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:48.972: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:49.073: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:49.174: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:49.274: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:49.374: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:49.475: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:49.575: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:49.675: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:49.776: Tried to call obs_frontend_get_main_window with no callbacks!
+22:01:49.877: Tried to call obs_frontend_get_main_window with no callbacks!

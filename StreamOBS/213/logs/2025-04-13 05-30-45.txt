@@ -1,0 +1,1922 @@
+05:30:45.984: [Safe Mode] Unclean shutdown detected!
+05:30:47.526: [Safe Mode] User elected to launch normally.
+05:30:47.527: CPU Name: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz
+05:30:47.527: CPU Speed: 4200MHz
+05:30:47.527: Physical Cores: 4, Logical Cores: 8
+05:30:47.527: Physical Memory: 32710MB Total, 17916MB Free
+05:30:47.527: Windows Version: 10.0 Build 19045 (release: 22H2; revision: 5737; 64-bit)
+05:30:47.527: Running as administrator: false
+05:30:47.527: Windows 10/11 Gaming Features:
+05:30:47.527: 	Game DVR: On
+05:30:47.527: 	Game Mode: Probably On (no reg key set)
+05:30:47.531: Sec. Software Status:
+05:30:47.534: 	ÐÐ½Ñ‚Ð¸Ð²Ð¸Ñ€ÑƒÑÐ½Ð°Ñ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð° Microsoft Defender: enabled (AV)
+05:30:47.534: 	Ð‘Ñ€Ð°Ð½Ð´Ð¼Ð°ÑƒÑÑ€ Windows: enabled (FW)
+05:30:47.536: Current Date/Time: 2025-04-13, 05:30:47
+05:30:47.536: Browser Hardware Acceleration: true
+05:30:47.536: Hide OBS windows from screen capture: false
+05:30:47.536: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+05:30:47.536: Portable mode: false
+05:30:47.583: OBS 31.0.3 (64-bit, windows)
+05:30:47.583: ---------------------------------
+05:30:47.662: ---------------------------------
+05:30:47.662: audio settings reset:
+05:30:47.662: 	samples per sec: 48000
+05:30:47.662: 	speakers:        2
+05:30:47.662: 	max buffering:   960 milliseconds
+05:30:47.662: 	buffering type:  dynamically increasing
+05:30:47.664: ---------------------------------
+05:30:47.664: Initializing D3D11...
+05:30:47.664: Available Video Adapters: 
+05:30:47.666: 	Adapter 0: NVIDIA GeForce GTX 1070
+05:30:47.666: 	  Dedicated VRAM: 8458862592 (7.9 GiB)
+05:30:47.666: 	  Shared VRAM:    17149704192 (16.0 GiB)
+05:30:47.666: 	  PCI ID:         10de:1b81
+05:30:47.666: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+05:30:47.667: 	  Driver Version: 32.0.15.6109
+05:30:47.667: 	  output 0:
+05:30:47.667: 	    name=SA241Y A
+05:30:47.667: 	    pos={0, 0}
+05:30:47.667: 	    size={1920, 1080}
+05:30:47.667: 	    attached=true
+05:30:47.667: 	    refresh=60
+05:30:47.667: 	    bits_per_color=8
+05:30:47.667: 	    space=RGB_FULL_G22_NONE_P709
+05:30:47.667: 	    primaries=[r=(0.649414, 0.338867), g=(0.323242, 0.623047), b=(0.152344, 0.073242), wp=(0.307617, 0.334961)]
+05:30:47.667: 	    relative_gamut_area=[709=1.016942, P3=0.749660, 2020=0.537831]
+05:30:47.667: 	    sdr_white_nits=80
+05:30:47.667: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+05:30:47.667: 	    dpi=96 (100%)
+05:30:47.667: 	    id=\\?\DISPLAY#ACR09BD#5&b3776b3&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+05:30:47.667: 	    alt_id=\\.\DISPLAY1
+05:30:47.668: 	  output 1:
+05:30:47.668: 	    name=SA241Y A
+05:30:47.668: 	    pos={1920, 0}
+05:30:47.668: 	    size={1920, 1080}
+05:30:47.668: 	    attached=true
+05:30:47.668: 	    refresh=60
+05:30:47.668: 	    bits_per_color=8
+05:30:47.668: 	    space=RGB_FULL_G22_NONE_P709
+05:30:47.668: 	    primaries=[r=(0.649414, 0.338867), g=(0.323242, 0.623047), b=(0.152344, 0.073242), wp=(0.307617, 0.334961)]
+05:30:47.668: 	    relative_gamut_area=[709=1.016942, P3=0.749660, 2020=0.537831]
+05:30:47.668: 	    sdr_white_nits=80
+05:30:47.668: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+05:30:47.668: 	    dpi=96 (100%)
+05:30:47.668: 	    id=\\?\DISPLAY#ACR09BD#5&b3776b3&0&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+05:30:47.668: 	    alt_id=\\.\DISPLAY2
+05:30:47.668: 	Adapter 1: NVIDIA GeForce GTX 1070
+05:30:47.668: 	  Dedicated VRAM: 8458862592 (7.9 GiB)
+05:30:47.668: 	  Shared VRAM:    17149704192 (16.0 GiB)
+05:30:47.668: 	  PCI ID:         10de:1b81
+05:30:47.668: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+05:30:47.669: 	  Driver Version: 32.0.15.6109
+05:30:47.670: Loading up D3D11 on adapter NVIDIA GeForce GTX 1070 (0)
+05:30:47.776: D3D11 loaded successfully, feature level used: b000
+05:30:47.776: DXGI increase maximum frame latency success
+05:30:47.776: D3D11 GPU priority setup failed (not admin?)
+05:30:47.880: ---------------------------------
+05:30:47.880: video settings reset:
+05:30:47.880: 	base resolution:   1920x1080
+05:30:47.880: 	output resolution: 1280x720
+05:30:47.880: 	downscale filter:  Bicubic
+05:30:47.880: 	fps:               30/1
+05:30:47.880: 	format:            NV12
+05:30:47.880: 	YUV mode:          Rec. 709/Partial
+05:30:47.880: NV12 texture support enabled
+05:30:47.880: P010 texture support not available
+05:30:47.882: Audio monitoring device:
+05:30:47.882: 	name: ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ
+05:30:47.882: 	id: default
+05:30:47.883: ---------------------------------
+05:30:47.885: No AJA devices found, skipping loading AJA UI plugin
+05:30:47.885: Failed to initialize module 'aja-output-ui.dll'
+05:30:47.886: No AJA devices found, skipping loading AJA plugin
+05:30:47.887: Failed to initialize module 'aja.dll'
+05:30:47.887: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+05:30:47.890: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+05:30:47.891: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+05:30:47.891: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+05:30:47.894: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+05:30:47.894: Failed to initialize module 'decklink.dll'
+05:30:47.902: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+05:30:47.902: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+05:30:47.903: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+05:30:47.903: [NVIDIA Audio Effects:] NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+05:30:47.904: Failed to get NVVideoEffects.dll version info size
+05:30:47.905: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+05:30:47.913: [obs-browser]: Version 2.24.6
+05:30:47.913: [obs-browser]: CEF Version 127.0.6533.120 (runtime), 127.145.7+g2b7d20b+chromium-127.0.6533.120 (compiled)
+05:30:48.101: [obs-nvenc] NVENC version: 12.2 (compiled) / 12.2 (driver), CUDA driver version: 12.60, AV1 supported: false
+05:30:48.141: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.6 | RPC Version: 1)
+05:30:48.141: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+05:30:48.141: [obs-websocket] [obs_module_load] Linked ASIO Version: 103100
+05:30:48.141: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+05:30:48.152: [obs-websocket] [obs_module_load] Module loaded.
+05:30:48.157: Failed to load 'en-US' text for module: 'sl-browser-plugin.dll'
+05:30:48.157: Streamlabs module git sha is 5adf71684af10f4d1221e62dc784223b3239fadd for OBS 31.0.0, revision 91
+05:30:48.157: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+05:30:48.163: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+05:30:48.174: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+05:30:48.174: [obs-multi-rtmp] Load config from C:\Users\BlaBlaShka\AppData\Roaming\obs-studio/basic/profiles/Ð‘ÐµÐ· Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ñ/obs-multi-rtmp.json failed
+05:30:48.174: [obs-multi-rtmp] Import config from old version.
+05:30:48.190: [obs-multi-rtmp] version: 0.6.0.1 by SoraYuki https://github.com/sorayuki/obs-multi-rtmp/
+05:30:48.190: ---------------------------------
+05:30:48.190:   Loaded Modules:
+05:30:48.190:     obs-multi-rtmp.dll
+05:30:48.190:     win-wasapi.dll
+05:30:48.190:     win-dshow.dll
+05:30:48.190:     win-capture.dll
+05:30:48.190:     vlc-video.dll
+05:30:48.190:     text-freetype2.dll
+05:30:48.190:     sl-browser-plugin.dll
+05:30:48.191:     rtmp-services.dll
+05:30:48.191:     obs-x264.dll
+05:30:48.191:     obs-websocket.dll
+05:30:48.191:     obs-webrtc.dll
+05:30:48.191:     obs-vst.dll
+05:30:48.191:     obs-transitions.dll
+05:30:48.191:     obs-text.dll
+05:30:48.191:     obs-qsv11.dll
+05:30:48.191:     obs-outputs.dll
+05:30:48.191:     obs-nvenc.dll
+05:30:48.191:     obs-filters.dll
+05:30:48.191:     obs-ffmpeg.dll
+05:30:48.191:     obs-browser.dll
+05:30:48.191:     nv-filters.dll
+05:30:48.191:     image-source.dll
+05:30:48.191:     frontend-tools.dll
+05:30:48.191:     decklink-output-ui.dll
+05:30:48.191:     decklink-captions.dll
+05:30:48.191:     coreaudio-encoder.dll
+05:30:48.191: ---------------------------------
+05:30:48.191: Starting Streamlabs plugin...
+05:30:48.191: Streamlabs: Sending 51882 and 51883 to proxy
+05:30:48.194: [SL_PLUGIN]: obs_module_post_load Module path: C:\Program Files\obs-studio\obs-plugins\64bit\sl-browser-plugin.dll
+05:30:48.194: [SL_PLUGIN]: obs_module_post_load process_path: C
+05:30:48.194: [SL_PLUGIN]: obs_module_post_load startparams: s
+05:30:48.707: [SL_PLUGIN]: obs_module_post_load exit startServer
+05:30:48.707: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+05:30:48.707: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+05:30:48.707: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+05:30:48.711: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4455. Possible connect address: 172.19.0.1
+05:30:48.711: ---------------------------------
+05:30:48.711: Available Encoders:
+05:30:48.711:   Video Encoders:
+05:30:48.711: 	- ffmpeg_svt_av1 (SVT-AV1)
+05:30:48.711: 	- ffmpeg_aom_av1 (AOM AV1)
+05:30:48.711: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+05:30:48.711: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+05:30:48.711: 	- obs_x264 (x264)
+05:30:48.711:   Audio Encoders:
+05:30:48.711: 	- ffmpeg_aac (FFmpeg AAC)
+05:30:48.711: 	- ffmpeg_opus (FFmpeg Opus)
+05:30:48.711: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16 Ð±Ð¸Ñ‚))
+05:30:48.711: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24 Ð±Ð¸Ñ‚Ð°))
+05:30:48.711: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32 Ð±Ð¸Ñ‚Ð° Ñ Ð¿Ð». Ñ‚Ñ‡Ðº.))
+05:30:48.711: 	- ffmpeg_alac (FFmpeg ALAC (24 Ð±Ð¸Ñ‚Ð°))
+05:30:48.711: 	- ffmpeg_flac (FFmpeg FLAC (16 Ð±Ð¸Ñ‚))
+05:30:48.711: ==== Startup complete ===============================================
+05:30:48.751: All scene data cleared
+05:30:48.751: ------------------------------------------------
+05:30:48.755: [win-wasapi: 'Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð»'] update settings:
+05:30:48.755: 	device id: default
+05:30:48.755: 	use device timing: 1
+05:30:48.755: [Loaded global audio device]: 'Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð»'
+05:30:48.756: [win-wasapi: 'ÐœÐ¸ÐºÑ€/Ð´Ð¾Ð¿'] update settings:
+05:30:48.756: 	device id: default
+05:30:48.756: 	use device timing: 0
+05:30:48.756: [Loaded global audio device]: 'ÐœÐ¸ÐºÑ€/Ð´Ð¾Ð¿'
+05:30:48.757: [Media Source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°']: settings:
+05:30:48.757: 	input:                   srt://127.0.0.1:1234
+05:30:48.757: 	input_format:            
+05:30:48.757: 	speed:                   100
+05:30:48.757: 	is_looping:              no
+05:30:48.757: 	is_linear_alpha:         yes
+05:30:48.757: 	is_hw_decoding:          yes
+05:30:48.757: 	is_clear_on_media_end:   yes
+05:30:48.757: 	restart_on_activate:     yes
+05:30:48.757: 	close_when_inactive:     no
+05:30:48.757: 	full_decode:             no
+05:30:48.757: 	ffmpeg_options:          
+05:30:48.777: WASAPI: Device 'ÐœÐ¸ÐºÑ€Ð¾Ñ„Ð¾Ð½ (2- USB PnP Audio Device)' [48000 Hz] initialized (source: ÐœÐ¸ÐºÑ€/Ð´Ð¾Ð¿)
+05:30:48.790: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' [48000 Hz] initialized (source: Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð»)
+05:30:48.816: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: ÐœÐ¸ÐºÑ€/Ð´Ð¾Ð¿)
+05:30:48.816: 
+05:30:48.902: Switched to scene 'Playing'
+05:30:48.902: ------------------------------------------------
+05:30:48.902: Loaded scenes:
+05:30:48.902: - scene 'Playing':
+05:30:48.902:     - source: 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°' (ffmpeg_source)
+05:30:48.902:         - monitoring: monitor and output
+05:30:48.902:     - source: 'Time' (text_gdiplus_v3)
+05:30:48.902:     - source: '18d2d29d-0901-4227-9a61-845ad5479f86.png' (image_source)
+05:30:48.902:     - source: 'Title' (text_gdiplus_v3)
+05:30:48.902: - scene 'Waiting':
+05:30:48.902:     - source: 'Ð¤Ð¾Ð½Ð¾Ð²Ñ‹Ð¹ Ñ†Ð²ÐµÑ‚' (color_source_v3)
+05:30:48.902:     - source: '9ab3ce14-6462-49fa-8c73-391d1e6949d4.jpg' (image_source)
+05:30:48.902:     - source: 'WaitText' (text_gdiplus_v3)
+05:30:48.902: ------------------------------------------------
+05:30:51.778: MP: Failed to open media: 'srt://127.0.0.1:1234'
+05:30:51.783: [Media Source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°']: Disconnected. Reconnecting...
+05:30:59.728: User added source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº VLC Ð²Ð¸Ð´ÐµÐ¾' (vlc_source) to scene 'Playing'
+05:31:43.055: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:51985
+05:31:43.386: User switched to scene 'Waiting'
+05:31:48.237: MP: Failed to open media: 'srt://127.0.0.1:1234'
+05:31:52.272: MP: Failed to open media: 'srt://127.0.0.1:1234'
+05:31:56.311: MP: Failed to open media: 'srt://127.0.0.1:1234'
+05:32:00.338: MP: Failed to open media: 'srt://127.0.0.1:1234'
+05:32:04.368: MP: Failed to open media: 'srt://127.0.0.1:1234'
+05:32:08.398: MP: Failed to open media: 'srt://127.0.0.1:1234'
+05:32:12.435: MP: Failed to open media: 'srt://127.0.0.1:1234'
+05:32:16.465: MP: Failed to open media: 'srt://127.0.0.1:1234'
+05:32:19.273: User switched to scene 'Playing'
+05:32:19.568: QThread::start: Failed to set thread priority (ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ Ð·Ð°Ð´Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾.)
+05:35:23.187: User Removed source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°' (ffmpeg_source) from scene 'Playing'
+05:35:28.343: User switched to scene 'Waiting'
+05:35:35.824: User switched to scene 'Playing'
+05:35:45.068: User changed audio monitoring for source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº VLC Ð²Ð¸Ð´ÐµÐ¾' to: monitor and output
+05:39:38.424: User changed audio monitoring for source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº VLC Ð²Ð¸Ð´ÐµÐ¾' to: none
+05:39:41.990: [obs-nvenc: 'simple_video_stream'] settings:
+05:39:41.990: 	codec:        H264
+05:39:41.990: 	rate_control: CBR
+05:39:41.990: 	bitrate:      2500
+05:39:41.990: 	keyint:       250
+05:39:41.990: 	preset:       p5
+05:39:41.990: 	tuning:       hq
+05:39:41.990: 	multipass:    qres
+05:39:41.990: 	profile:      high
+05:39:41.990: 	width:        1280
+05:39:41.990: 	height:       720
+05:39:41.990: 	b-frames:     2
+05:39:41.990: 	b-ref-mode:   0
+05:39:41.990: 	lookahead:    true (8 frames)
+05:39:41.990: 	aq:           true
+05:39:41.990: 
+05:39:42.074: ---------------------------------
+05:39:42.075: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+05:39:42.075: 
+05:39:42.076: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://192.168.88.242/live/...
+05:39:42.081: [rtmp stream: 'simple_stream'] Interface: Hyper-V Virtual Ethernet Adapter #2 (type 0, 100â†“/100â†‘ mbps)
+05:39:42.221: [rtmp stream: 'simple_stream'] Connection to rtmp://192.168.88.242/live/ (192.168.88.242) successful
+05:39:42.221: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+05:39:42.230: ==== Streaming Start ===============================================
+05:54:41.917: User switched to scene 'Waiting'
+05:55:29.027: User switched to scene 'Playing'
+05:58:19.602: User switched to scene 'Waiting'
+05:58:25.493: User switched to scene 'Playing'
+06:22:19.178: User switched to scene 'Waiting'
+06:22:23.714: User switched to scene 'Playing'
+06:46:01.679: User switched to scene 'Waiting'
+06:46:07.342: User switched to scene 'Playing'
+07:09:49.976: User switched to scene 'Waiting'
+07:09:55.172: User switched to scene 'Playing'
+07:10:27.644: User changed audio monitoring for source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº VLC Ð²Ð¸Ð´ÐµÐ¾' to: monitor and output
+07:11:26.550: User changed audio monitoring for source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº VLC Ð²Ð¸Ð´ÐµÐ¾' to: none
+07:18:30.622: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:51985` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+07:18:46.700: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:55123
+07:18:48.077: User switched to scene 'Waiting'
+07:19:41.227: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:55123` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+07:20:34.242: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:55185
+07:20:34.675: User switched to scene 'Waiting'
+07:22:33.179: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:55185` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+07:22:41.745: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:55274
+07:22:41.952: User switched to scene 'Waiting'
+07:23:01.129: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:55274` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+07:28:14.002: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:55396
+07:28:14.458: User switched to scene 'Waiting'
+07:34:33.364: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:55396` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+07:34:39.753: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:55536
+07:34:39.954: User switched to scene 'Waiting'
+07:34:48.244: User switched to scene 'Playing'
+07:35:40.889: User changed audio monitoring for source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº VLC Ð²Ð¸Ð´ÐµÐ¾' to: monitor and output
+07:43:29.802: User changed audio monitoring for source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº VLC Ð²Ð¸Ð´ÐµÐ¾' to: none
+07:57:11.777: User switched to scene 'Waiting'
+07:57:16.816: User switched to scene 'Playing'
+08:21:07.262: User switched to scene 'Waiting'
+08:21:51.103: User switched to scene 'Playing'
+08:21:53.170: User switched to scene 'Waiting'
+08:21:58.603: User switched to scene 'Playing'
+08:44:56.113: User switched to scene 'Waiting'
+08:45:02.283: User switched to scene 'Playing'
+09:07:59.123: User switched to scene 'Waiting'
+09:08:04.222: User switched to scene 'Playing'
+09:31:38.829: User switched to scene 'Waiting'
+09:31:43.550: User switched to scene 'Playing'
+09:44:48.505: User switched to scene 'Waiting'
+09:44:54.619: User switched to scene 'Playing'
+10:00:11.412: User switched to scene 'Waiting'
+10:00:38.387: User switched to scene 'Playing'
+10:08:34.274: User switched to scene 'Waiting'
+10:08:39.506: User switched to scene 'Playing'
+10:32:47.098: User switched to scene 'Waiting'
+10:32:53.369: User switched to scene 'Playing'
+10:57:17.694: User switched to scene 'Waiting'
+10:57:21.366: User switched to scene 'Playing'
+11:20:57.064: User switched to scene 'Waiting'
+11:21:02.910: User switched to scene 'Playing'
+11:44:39.152: User switched to scene 'Waiting'
+11:44:46.138: User switched to scene 'Playing'
+12:09:21.586: User switched to scene 'Waiting'
+12:09:28.059: User switched to scene 'Playing'
+12:33:01.841: User switched to scene 'Waiting'
+12:33:06.173: User switched to scene 'Playing'
+12:56:36.423: User switched to scene 'Waiting'
+12:22:56.457: Last log entry repeated for 121 more lines
+12:22:56.458: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:55536` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+12:23:27.075: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:60909
+12:23:27.552: User switched to scene 'Waiting'
+12:24:00.262: User switched to scene 'Playing'
+12:31:38.036: User switched to scene 'Waiting'
+12:31:44.897: User switched to scene 'Playing'
+12:55:25.993: User switched to scene 'Waiting'
+12:55:32.533: User switched to scene 'Playing'
+13:11:04.707:   OpenType support missing for "Open Sans", script 11
+13:11:04.734:   OpenType support missing for "Arial", script 11
+13:11:04.774:   OpenType support missing for "Tahoma", script 11
+13:11:04.812:   OpenType support missing for "MS UI Gothic", script 11
+13:11:04.831:   OpenType support missing for "SimSun", script 11
+13:11:04.833:   OpenType support missing for "Segoe UI Emoji", script 11
+13:11:04.837:   OpenType support missing for "Segoe UI Symbol", script 11
+13:11:04.846:   OpenType support missing for "Open Sans", script 12
+13:11:04.847:   OpenType support missing for "Arial", script 12
+13:11:04.848:   OpenType support missing for "Tahoma", script 12
+13:11:04.848:   OpenType support missing for "MS UI Gothic", script 12
+13:11:04.849:   OpenType support missing for "SimSun", script 12
+13:11:04.850:   OpenType support missing for "Segoe UI Emoji", script 12
+13:11:04.850:   OpenType support missing for "Segoe UI Symbol", script 12
+13:11:04.852:   OpenType support missing for "Open Sans", script 20
+13:11:04.853:   OpenType support missing for "Arial", script 20
+13:11:04.854:   OpenType support missing for "Tahoma", script 20
+13:11:04.855:   OpenType support missing for "MS UI Gothic", script 20
+13:11:04.856:   OpenType support missing for "SimSun", script 20
+13:11:04.857:   OpenType support missing for "Segoe UI Emoji", script 20
+13:11:04.857:   OpenType support missing for "Segoe UI Symbol", script 20
+13:11:30.088: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+13:11:30.089: [obs-multi-rtmp] Invalid protocol "", maybe broken config file.
+13:11:30.096: [obs-multi-rtmp] Invalid protocol "", maybe broken config file.
+13:12:14.257: [obs-multi-rtmp] Save 1 targets, 0 video configs, 0 audio configs
+13:12:14.259: [obs-multi-rtmp] Save config into C:\Users\BlaBlaShka\AppData\Roaming\obs-studio/basic/profiles/Ð‘ÐµÐ· Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ñ/obs-multi-rtmp.json
+13:19:05.469: User switched to scene 'Waiting'
+13:19:12.337: User switched to scene 'Playing'
+13:33:15.964: User switched to scene 'Waiting'
+13:33:22.288: User switched to scene 'Playing'
+13:34:34.216: [rtmp stream: 'simple_stream'] User stopped the stream
+13:34:34.216: [rtmp stream: 'simple_stream'] Socket send buffer is 524288 bytes
+13:34:34.216: Output 'simple_stream': stopping
+13:34:34.216: Output 'simple_stream': Total frames output: 3446733
+13:34:34.216: Output 'simple_stream': Total drawn frames: 3411784 (3446765 attempted)
+13:34:34.216: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 34981 (1.0%)
+13:34:34.217: Video stopped, number of skipped frames due to encoding lag: 34981/3446758 (1.0%)
+13:34:34.221: ==== Streaming Stop ================================================
+13:34:53.969: Settings changed (stream 1, outputs)
+13:34:53.969: ------------------------------------------------
+13:34:55.063: [obs-nvenc: 'simple_video_stream'] settings:
+13:34:55.063: 	codec:        H264
+13:34:55.063: 	rate_control: CBR
+13:34:55.063: 	bitrate:      2500
+13:34:55.063: 	keyint:       250
+13:34:55.063: 	preset:       p5
+13:34:55.063: 	tuning:       hq
+13:34:55.063: 	multipass:    qres
+13:34:55.063: 	profile:      high
+13:34:55.063: 	width:        1280
+13:34:55.063: 	height:       720
+13:34:55.063: 	b-frames:     2
+13:34:55.063: 	b-ref-mode:   0
+13:34:55.063: 	lookahead:    true (8 frames)
+13:34:55.063: 	aq:           true
+13:34:55.063: 
+13:34:55.150: ---------------------------------
+13:34:55.151: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+13:34:55.151: 
+13:34:55.152: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+13:34:55.162: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+13:34:56.556: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ (85.192.30.17) successful
+13:34:56.557: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+13:34:56.564: ==== Streaming Start ===============================================
+13:38:39.448: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:60909` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+13:41:09.083: WriteN, RTMP send error 10053 (441 bytes)
+13:41:09.083: WriteN, RTMP send error 10038 (41 bytes)
+13:41:09.084: WriteN, RTMP send error 10038 (42 bytes)
+13:41:09.084: [rtmp stream: 'simple_stream'] Disconnected from rtmp://sr2.blablaname.ru/live/
+13:41:09.084: Output 'simple_stream': stopping
+13:41:09.084: Output 'simple_stream': Total frames output: 11156
+13:41:09.084: Output 'simple_stream': Total drawn frames: 11199 (11218 attempted)
+13:41:09.084: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 19 (0.2%)
+13:41:09.084: Output 'simple_stream': Reconnecting in 2.00 seconds..
+13:41:09.084: Video stopped, number of skipped frames due to encoding lag: 19/11174 (0.2%)
+13:41:11.115: [obs-nvenc: 'simple_video_stream'] settings:
+13:41:11.115: 	codec:        H264
+13:41:11.115: 	rate_control: CBR
+13:41:11.115: 	bitrate:      2500
+13:41:11.115: 	keyint:       250
+13:41:11.115: 	preset:       p5
+13:41:11.115: 	tuning:       hq
+13:41:11.115: 	multipass:    qres
+13:41:11.115: 	profile:      high
+13:41:11.115: 	width:        1280
+13:41:11.115: 	height:       720
+13:41:11.115: 	b-frames:     2
+13:41:11.115: 	b-ref-mode:   0
+13:41:11.115: 	lookahead:    true (8 frames)
+13:41:11.115: 	aq:           true
+13:41:11.115: 
+13:41:11.248: ---------------------------------
+13:41:11.248: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+13:41:11.248: 
+13:41:11.249: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+13:41:11.253: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+13:41:12.698: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ (85.192.30.17) successful
+13:41:12.699: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+13:45:26.884: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:53906
+13:45:27.012: User switched to scene 'Waiting'
+13:51:04.887: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:53906` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+13:51:11.575: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54077
+13:51:12.059: User switched to scene 'Waiting'
+13:52:26.168: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54077` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+13:53:07.773: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54133
+13:53:08.206: User switched to scene 'Waiting'
+13:54:36.249: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54133` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+13:54:53.721: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54189
+13:54:54.071: User switched to scene 'Waiting'
+13:55:49.418: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54189` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+13:55:53.454: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54218
+13:55:53.986: User switched to scene 'Waiting'
+13:57:13.123: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54218` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+13:57:22.284: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54263
+13:57:22.895: User switched to scene 'Waiting'
+13:57:28.683: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54263` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+13:57:38.076: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54275
+13:57:38.533: User switched to scene 'Waiting'
+13:58:36.146: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54275` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+14:01:16.455: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54408
+14:01:16.857: User switched to scene 'Waiting'
+14:01:39.016: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54408` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+14:02:01.849: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54434
+14:02:02.247: User switched to scene 'Waiting'
+14:02:53.056: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54434` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+14:03:10.984: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54477
+14:03:11.358: User switched to scene 'Waiting'
+14:03:45.911: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54477` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+14:04:20.897: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54519
+14:04:21.305: User switched to scene 'Waiting'
+14:04:32.846: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54519` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+14:07:46.670: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54645
+14:07:47.006: User switched to scene 'Waiting'
+14:09:58.443: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54645` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+14:10:02.688: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54729
+14:10:03.109: User switched to scene 'Waiting'
+14:13:59.070: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54729` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+14:14:17.381: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:55024
+14:14:17.897: User switched to scene 'Waiting'
+14:14:26.963: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:55024` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+14:14:29.827: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:55035
+14:14:30.074: User switched to scene 'Waiting'
+14:14:41.930: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:55035` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+14:18:16.822: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:55134
+14:18:17.454: User switched to scene 'Waiting'
+14:18:31.723: User switched to scene 'Playing'
+14:31:59.109: User switched to scene 'Waiting'
+14:32:04.284: User switched to scene 'Playing'
+14:55:27.264: User switched to scene 'Waiting'
+14:56:09.548: User switched to scene 'Playing'
+14:56:28.246: User switched to scene 'Waiting'
+14:56:33.706: User switched to scene 'Playing'
+15:20:04.283: User switched to scene 'Waiting'
+15:20:11.381: User switched to scene 'Playing'
+15:45:09.158: User switched to scene 'Waiting'
+15:45:14.648: User switched to scene 'Playing'
+16:06:50.992: User switched to scene 'Waiting'
+16:06:59.363: User switched to scene 'Playing'
+16:30:52.069: User switched to scene 'Waiting'
+16:30:59.273: User switched to scene 'Playing'
+16:54:54.951: User switched to scene 'Waiting'
+16:55:03.130: User switched to scene 'Playing'
+17:18:10.912: User switched to scene 'Waiting'
+17:18:16.214: User switched to scene 'Playing'
+17:41:46.874: User switched to scene 'Waiting'
+17:41:55.268: User switched to scene 'Playing'
+18:06:11.898: User switched to scene 'Waiting'
+18:06:17.904: User switched to scene 'Playing'
+18:30:24.241: User switched to scene 'Waiting'
+18:30:34.923: User switched to scene 'Playing'
+18:52:55.700: User switched to scene 'Waiting'
+18:53:01.454: User switched to scene 'Playing'
+19:16:35.113: User switched to scene 'Waiting'
+19:16:44.340: User switched to scene 'Playing'
+19:43:57.965: User switched to scene 'Waiting'
+22:30:22.572: Last log entry repeated for 15 more lines
+22:30:22.572: WriteN, RTMP send error 10054 (16 bytes)
+22:30:22.572: WriteN, RTMP send error 10038 (41 bytes)
+22:30:22.572: WriteN, RTMP send error 10038 (42 bytes)
+22:30:22.572: [rtmp stream: 'simple_stream'] Disconnected from rtmp://sr2.blablaname.ru/live/
+22:30:22.572: Output 'simple_stream': stopping
+22:30:22.573: Output 'simple_stream': Total frames output: 572494 (827439 attempted)
+22:30:22.573: Output 'simple_stream': Total drawn frames: 934965 (952537 attempted)
+22:30:22.573: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 17572 (1.8%)
+22:30:22.573: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 254945 (30.8%)
+22:30:22.573: Output 'simple_stream': Reconnecting in 2.00 seconds..
+22:30:22.589: [rtmp stream: 'simple_stream'] Freeing 148814 remaining packets
+22:30:22.723: Video stopped, number of skipped frames due to encoding lag: 230291/829766 (27.8%)
+22:30:27.122: User switched to scene 'Waiting'
+22:30:33.919: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:55134` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+22:30:33.956: User switched to scene 'Playing'
+22:30:33.956: [obs-websocket] [WebSocketServer::onMessage] Sending message to client failed: Bad Connection
+22:30:42.180: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:65206
+22:30:42.604: User switched to scene 'Waiting'
+22:30:53.422: User switched to scene 'Playing'
+22:50:38.056: User switched to scene 'Waiting'
+22:50:48.261: User switched to scene 'Playing'
+23:12:28.374: User switched to scene 'Waiting'
+23:12:33.561: User switched to scene 'Playing'
+23:35:05.949: User switched to scene 'Waiting'
+23:35:40.717: User switched to scene 'Playing'
+23:36:33.205: User switched to scene 'Waiting'
+00:00:04.777: User switched to scene 'Playing'
+00:24:02.885: User switched to scene 'Waiting'
+00:24:07.165: User switched to scene 'Playing'
+00:48:31.448: User switched to scene 'Waiting'
+00:48:36.452: User switched to scene 'Playing'
+01:12:10.801: User switched to scene 'Waiting'
+01:36:00.082: User switched to scene 'Playing'
+02:00:03.572: User switched to scene 'Waiting'
+02:00:10.464: User switched to scene 'Playing'
+02:23:52.069: User switched to scene 'Waiting'
+02:23:56.939: User switched to scene 'Playing'
+02:47:17.346: User switched to scene 'Waiting'
+02:47:54.710: User switched to scene 'Playing'
+02:47:57.791: User switched to scene 'Waiting'
+02:48:03.713: User switched to scene 'Playing'
+03:11:18.428: User switched to scene 'Waiting'
+03:11:23.727: User switched to scene 'Playing'
+03:35:00.608: User switched to scene 'Waiting'
+03:35:06.738: User switched to scene 'Playing'
+03:59:10.491: User switched to scene 'Waiting'
+03:59:16.407: User switched to scene 'Playing'
+04:22:38.980: User switched to scene 'Waiting'
+18:12:45.185: Last log entry repeated for 79 more lines
+18:12:45.185: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:65206` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+18:22:19.601: User switched to scene 'Waiting'
+19:43:31.782: Failed to open file 'C:/Users/BlaBlaShka/Downloads/9ab3ce14-6462-49fa-8c73-391d1e6949d4.jpg': No such file or directory
+19:43:31.784: WIC: Failed to create IWICBitmapDecoder from file: C:/Users/BlaBlaShka/Downloads/9ab3ce14-6462-49fa-8c73-391d1e6949d4.jpg
+19:43:31.784: gs_image_file_init_internal: Failed to load file 'C:/Users/BlaBlaShka/Downloads/9ab3ce14-6462-49fa-8c73-391d1e6949d4.jpg'
+19:43:31.784: [image_source: '9ab3ce14-6462-49fa-8c73-391d1e6949d4.jpg'] failed to load texture 'C:/Users/BlaBlaShka/Downloads/9ab3ce14-6462-49fa-8c73-391d1e6949d4.jpg'
+20:03:51.309: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:61972
+20:03:51.564: User switched to scene 'Waiting'
+20:03:59.383: Failed to open file 'C:/Users/BlaBlaShka/Downloads/18d2d29d-0901-4227-9a61-845ad5479f86.png': No such file or directory
+20:03:59.385: WIC: Failed to create IWICBitmapDecoder from file: C:/Users/BlaBlaShka/Downloads/18d2d29d-0901-4227-9a61-845ad5479f86.png
+20:03:59.385: gs_image_file_init_internal: Failed to load file 'C:/Users/BlaBlaShka/Downloads/18d2d29d-0901-4227-9a61-845ad5479f86.png'
+20:03:59.386: [image_source: '18d2d29d-0901-4227-9a61-845ad5479f86.png'] failed to load texture 'C:/Users/BlaBlaShka/Downloads/18d2d29d-0901-4227-9a61-845ad5479f86.png'
+20:03:59.581: User switched to scene 'Playing'
+20:04:00.524: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:61972` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+20:06:22.987: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:63586
+20:06:23.215: User switched to scene 'Waiting'
+20:06:31.977: User switched to scene 'Playing'
+20:09:51.356: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:63586` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+20:10:47.560: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:50250
+20:10:48.054: User switched to scene 'Waiting'
+20:10:51.357: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:50250` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+20:14:04.736: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:52400
+20:14:04.923: User switched to scene 'Waiting'
+20:14:10.809: User switched to scene 'Playing'
+20:17:21.094: User switched to scene 'Waiting'
+20:17:26.786: User switched to scene 'Playing'
+20:17:42.297: ==== Streaming Stop ================================================
+20:17:43.649: [obs-nvenc: 'simple_video_stream'] settings:
+20:17:43.649: 	codec:        H264
+20:17:43.649: 	rate_control: CBR
+20:17:43.649: 	bitrate:      2500
+20:17:43.649: 	keyint:       250
+20:17:43.649: 	preset:       p5
+20:17:43.649: 	tuning:       hq
+20:17:43.649: 	multipass:    qres
+20:17:43.649: 	profile:      high
+20:17:43.649: 	width:        1280
+20:17:43.649: 	height:       720
+20:17:43.649: 	b-frames:     2
+20:17:43.649: 	b-ref-mode:   0
+20:17:43.649: 	lookahead:    true (8 frames)
+20:17:43.649: 	aq:           true
+20:17:43.649: 
+20:17:43.734: ---------------------------------
+20:17:43.735: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+20:17:43.735: 
+20:17:43.737: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+20:17:43.744: [rtmp stream: 'simple_stream'] Interface: Hyper-V Virtual Ethernet Adapter #2 (type 0, 100â†“/100â†‘ mbps)
+20:17:44.261: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ (85.192.30.17) successful
+20:17:44.262: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+20:17:44.358: ==== Streaming Start ===============================================
+20:18:51.450: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:59687
+20:18:52.710: User switched to scene 'Waiting'
+20:18:55.775: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:52400` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+20:19:05.135: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:59687` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+20:19:09.966: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:59731
+20:19:10.414: User switched to scene 'Waiting'
+20:19:17.282: User switched to scene 'Playing'
+20:40:14.760: User switched to scene 'Waiting'
+20:45:42.723: User switched to scene 'Playing'
+20:45:57.604: User switched to scene 'Waiting'
+21:04:02.085: User switched to scene 'Playing'
+21:38:01.972: User switched to scene 'Waiting'
+21:38:07.696: User switched to scene 'Playing'
+21:51:27.210: User switched to scene 'Waiting'
+21:51:34.943: User switched to scene 'Playing'
+22:15:17.383: User switched to scene 'Waiting'
+22:15:22.994: User switched to scene 'Playing'
+22:29:20.067: User switched to scene 'Waiting'
+22:29:48.067: User switched to scene 'Playing'
+22:31:30.304: WriteN, RTMP send error 10060 (4097 bytes)
+22:31:30.304: WriteN, RTMP send error 10038 (41 bytes)
+22:31:30.304: WriteN, RTMP send error 10038 (42 bytes)
+22:31:30.304: [rtmp stream: 'simple_stream'] Disconnected from rtmp://sr2.blablaname.ru/live/
+22:31:30.304: Output 'simple_stream': stopping
+22:31:30.304: Output 'simple_stream': Total frames output: 240290 (240754 attempted)
+22:31:30.304: Output 'simple_stream': Total drawn frames: 235930 (240797 attempted)
+22:31:30.304: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 4867 (2.0%)
+22:31:30.304: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 464 (0.2%)
+22:31:30.305: Output 'simple_stream': Reconnecting in 2.00 seconds..
+22:31:30.305: [rtmp stream: 'simple_stream'] Freeing 1288 remaining packets
+22:31:30.305: Video stopped, number of skipped frames due to encoding lag: 4867/240776 (2.0%)
+22:31:32.333: [obs-nvenc: 'simple_video_stream'] settings:
+22:31:32.333: 	codec:        H264
+22:31:32.333: 	rate_control: CBR
+22:31:32.333: 	bitrate:      2500
+22:31:32.333: 	keyint:       250
+22:31:32.333: 	preset:       p5
+22:31:32.333: 	tuning:       hq
+22:31:32.333: 	multipass:    qres
+22:31:32.333: 	profile:      high
+22:31:32.333: 	width:        1280
+22:31:32.333: 	height:       720
+22:31:32.333: 	b-frames:     2
+22:31:32.333: 	b-ref-mode:   0
+22:31:32.333: 	lookahead:    true (8 frames)
+22:31:32.333: 	aq:           true
+22:31:32.333: 
+22:31:32.426: ---------------------------------
+22:31:32.426: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+22:31:32.426: 
+22:31:32.427: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:31:32.432: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:32:02.436: RTMP_Connect1, handshake failed.
+22:32:02.436: Output 'simple_stream': Reconnecting in 2.97 seconds..
+22:32:02.436: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+22:32:05.408: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:32:05.410: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:32:06.144: rtmp://sr2.blablaname.ru/live/:
+22:32:06.144: NetStream.Publish.BadName (Already publishing)
+22:32:06.144: Output 'simple_stream': Reconnecting in 4.41 seconds..
+22:32:06.144: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:32:10.556: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:32:10.560: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:32:11.288: rtmp://sr2.blablaname.ru/live/:
+22:32:11.288: NetStream.Publish.BadName (Already publishing)
+22:32:11.289: Output 'simple_stream': Reconnecting in 6.55 seconds..
+22:32:11.289: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:32:17.839: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:32:17.844: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:32:18.255: rtmp://sr2.blablaname.ru/live/:
+22:32:18.255: NetStream.Publish.BadName (Already publishing)
+22:32:18.255: Output 'simple_stream': Reconnecting in 9.72 seconds..
+22:32:18.255: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:32:27.983: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:32:27.987: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:32:28.393: rtmp://sr2.blablaname.ru/live/:
+22:32:28.393: NetStream.Publish.BadName (Already publishing)
+22:32:28.393: Output 'simple_stream': Reconnecting in 14.44 seconds..
+22:32:28.393: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:32:42.833: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:32:42.835: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:32:44.557: rtmp://sr2.blablaname.ru/live/:
+22:32:44.557: NetStream.Publish.BadName (Already publishing)
+22:32:44.557: Output 'simple_stream': Reconnecting in 21.44 seconds..
+22:32:44.558: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:33:06.002: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:33:06.005: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:33:07.427: rtmp://sr2.blablaname.ru/live/:
+22:33:07.427: NetStream.Publish.BadName (Already publishing)
+22:33:07.427: Output 'simple_stream': Reconnecting in 31.84 seconds..
+22:33:07.428: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:33:39.472: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:33:39.476: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:33:40.246: rtmp://sr2.blablaname.ru/live/:
+22:33:40.246: NetStream.Publish.BadName (Already publishing)
+22:33:40.246: Output 'simple_stream': Reconnecting in 47.28 seconds..
+22:33:40.246: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:34:27.530: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:34:27.533: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:34:27.939: rtmp://sr2.blablaname.ru/live/:
+22:34:27.939: NetStream.Publish.BadName (Already publishing)
+22:34:27.939: Output 'simple_stream': Reconnecting in 70.21 seconds..
+22:34:27.939: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:35:38.154: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:35:38.369: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:36:08.372: RTMP_Connect1, handshake failed.
+22:36:08.373: Output 'simple_stream': Reconnecting in 104.27 seconds..
+22:36:08.373: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+22:37:52.642: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:37:52.645: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:37:53.049: rtmp://sr2.blablaname.ru/live/:
+22:37:53.049: NetStream.Publish.BadName (Already publishing)
+22:37:53.049: Output 'simple_stream': Reconnecting in 154.84 seconds..
+22:37:53.050: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:38:20.683: User switched to scene 'Waiting'
+22:38:26.240: User switched to scene 'Playing'
+22:39:48.502: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:59731` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+22:40:16.744: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:63458
+22:40:18.771: User switched to scene 'Waiting'
+22:40:27.516: User switched to scene 'Playing'
+22:40:27.911: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:40:27.918: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:40:28.351: rtmp://sr2.blablaname.ru/live/:
+22:40:28.351: NetStream.Publish.BadName (Already publishing)
+22:40:28.351: Output 'simple_stream': Reconnecting in 229.94 seconds..
+22:40:28.351: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:41:52.431: ==== Streaming Stop ================================================
+22:41:54.104: encoder 'simple_video_stream': Cannot apply a new video_t object after the encoder has been initialized
+22:41:54.105: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:41:54.109: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:41:54.859: rtmp://sr2.blablaname.ru/live/:
+22:41:54.859: NetStream.Publish.BadName (Already publishing)
+22:41:54.859: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:41:54.859: ==== Streaming Stop ================================================
+22:42:12.583: encoder 'simple_video_stream': Cannot apply a new video_t object after the encoder has been initialized
+22:42:12.584: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:42:12.589: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:42:13.589: rtmp://sr2.blablaname.ru/live/:
+22:42:13.589: NetStream.Publish.BadName (Already publishing)
+22:42:13.589: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:42:13.589: ==== Streaming Stop ================================================
+22:43:25.746: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:63458` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+22:43:39.895: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:63776
+22:43:41.056: User switched to scene 'Waiting'
+22:44:07.595: User switched to scene 'Playing'
+22:44:24.321: encoder 'simple_video_stream': Cannot apply a new video_t object after the encoder has been initialized
+22:44:24.322: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:44:24.326: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:44:25.072: rtmp://sr2.blablaname.ru/live/:
+22:44:25.072: NetStream.Publish.BadName (Already publishing)
+22:44:25.072: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+22:44:25.073: ==== Streaming Stop ================================================
+22:44:50.748: encoder 'simple_video_stream': Cannot apply a new video_t object after the encoder has been initialized
+22:44:50.751: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+22:44:50.755: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+22:44:51.497: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ (85.192.30.17) successful
+22:44:51.498: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+22:44:51.513: ==== Streaming Start ===============================================
+23:02:21.924: User switched to scene 'Waiting'
+23:02:27.739: User switched to scene 'Playing'
+23:25:43.714: User switched to scene 'Waiting'
+23:25:50.025: User switched to scene 'Playing'
+23:50:26.580: User switched to scene 'Waiting'
+00:00:06.176: User switched to scene 'Playing'
+00:25:14.023: User switched to scene 'Waiting'
+00:25:19.520: User switched to scene 'Playing'
+00:49:42.264: User switched to scene 'Waiting'
+00:49:46.701: User switched to scene 'Playing'
+01:13:22.097: User switched to scene 'Waiting'
+01:37:11.338: User switched to scene 'Playing'
+02:01:15.604: User switched to scene 'Waiting'
+02:01:21.544: User switched to scene 'Playing'
+02:25:03.201: User switched to scene 'Waiting'
+02:25:09.005: User switched to scene 'Playing'
+02:48:43.640: User switched to scene 'Waiting'
+02:48:48.088: User switched to scene 'Playing'
+03:12:23.416: User switched to scene 'Waiting'
+03:12:28.100: User switched to scene 'Playing'
+03:36:05.831: User switched to scene 'Waiting'
+03:36:12.295: User switched to scene 'Playing'
+04:00:06.459: User switched to scene 'Waiting'
+04:00:11.515: User switched to scene 'Playing'
+04:23:43.211: User switched to scene 'Waiting'
+04:23:48.028: User switched to scene 'Playing'
+04:47:35.122: User switched to scene 'Waiting'
+04:47:39.697: User switched to scene 'Playing'
+05:12:12.627: User switched to scene 'Waiting'
+05:36:03.339: User switched to scene 'Playing'
+05:59:36.946: User switched to scene 'Waiting'
+07:42:25.763: Last log entry repeated for 9 more lines
+07:42:25.763: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:63776` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+07:42:47.456: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:55595
+07:42:47.867: User switched to scene 'Waiting'
+07:43:04.331: User switched to scene 'Playing'
+07:46:55.068: WriteN, RTMP send error 10054 (4097 bytes)
+07:46:55.068: WriteN, RTMP send error 10038 (41 bytes)
+07:46:55.068: WriteN, RTMP send error 10038 (42 bytes)
+07:46:55.068: [rtmp stream: 'simple_stream'] Disconnected from rtmp://sr2.blablaname.ru/live/
+07:46:55.068: Output 'simple_stream': stopping
+07:46:55.068: Output 'simple_stream': Total frames output: 975603 (975678 attempted)
+07:46:55.068: Output 'simple_stream': Total drawn frames: 974962 (975729 attempted)
+07:46:55.068: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 767 (0.1%)
+07:46:55.068: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 75 (0.0%)
+07:46:55.068: Output 'simple_stream': Reconnecting in 2.00 seconds..
+07:46:55.068: [rtmp stream: 'simple_stream'] Freeing 24 remaining packets
+07:46:55.103: Video stopped, number of skipped frames due to encoding lag: 767/975705 (0.1%)
+07:46:57.185: [obs-nvenc: 'simple_video_stream'] settings:
+07:46:57.185: 	codec:        H264
+07:46:57.185: 	rate_control: CBR
+07:46:57.185: 	bitrate:      2500
+07:46:57.185: 	keyint:       250
+07:46:57.185: 	preset:       p5
+07:46:57.185: 	tuning:       hq
+07:46:57.185: 	multipass:    qres
+07:46:57.185: 	profile:      high
+07:46:57.185: 	width:        1280
+07:46:57.185: 	height:       720
+07:46:57.185: 	b-frames:     2
+07:46:57.185: 	b-ref-mode:   0
+07:46:57.185: 	lookahead:    true (8 frames)
+07:46:57.185: 	aq:           true
+07:46:57.185: 
+07:46:57.298: ---------------------------------
+07:46:57.299: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+07:46:57.299: 
+07:46:57.317: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+07:46:57.336: [rtmp stream: 'simple_stream'] Interface: Hyper-V Virtual Ethernet Adapter #2 (type 0, 100â†“/100â†‘ mbps)
+07:46:57.944: User switched to scene 'Waiting'
+07:46:57.962: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ (85.192.30.17) successful
+07:46:57.963: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+07:47:20.144: User switched to scene 'Playing'
+07:59:38.508: User switched to scene 'Waiting'
+07:59:44.447: User switched to scene 'Playing'
+08:05:09.934: User switched to scene 'Waiting'
+08:05:15.452: User switched to scene 'Playing'
+08:24:11.634: User switched to scene 'Waiting'
+08:24:16.439: User switched to scene 'Playing'
+08:47:20.926: User switched to scene 'Waiting'
+08:47:31.482: User switched to scene 'Playing'
+09:10:29.238: User switched to scene 'Waiting'
+09:10:34.694: User switched to scene 'Playing'
+09:34:04.403: User switched to scene 'Waiting'
+09:34:09.673: User switched to scene 'Playing'
+09:47:16.624: User switched to scene 'Waiting'
+09:47:21.408: User switched to scene 'Playing'
+10:11:02.580: User switched to scene 'Waiting'
+10:11:08.192: User switched to scene 'Playing'
+10:35:14.436: User switched to scene 'Waiting'
+10:35:19.434: User switched to scene 'Playing'
+11:01:13.793: User switched to scene 'Waiting'
+11:01:20.977: User switched to scene 'Playing'
+11:24:57.605: User switched to scene 'Waiting'
+11:25:02.369: User switched to scene 'Playing'
+11:48:36.781: User switched to scene 'Waiting'
+11:48:43.794: User switched to scene 'Playing'
+12:13:54.171: User switched to scene 'Waiting'
+12:13:59.408: User switched to scene 'Playing'
+12:37:32.459: User switched to scene 'Waiting'
+12:37:37.570: User switched to scene 'Playing'
+13:01:09.458: User switched to scene 'Waiting'
+13:01:17.875: User switched to scene 'Playing'
+15:20:44.149: Last log entry repeated for 10 more lines
+15:20:44.149: WriteN, RTMP send error 10060 (386 bytes)
+15:20:44.150: WriteN, RTMP send error 10038 (41 bytes)
+15:20:44.150: WriteN, RTMP send error 10038 (42 bytes)
+15:20:44.150: [rtmp stream: 'simple_stream'] Disconnected from rtmp://sr2.blablaname.ru/live/
+15:20:44.150: Output 'simple_stream': stopping
+15:20:44.150: Output 'simple_stream': Total frames output: 816435 (816761 attempted)
+15:20:44.150: Output 'simple_stream': Total drawn frames: 814657 (816807 attempted)
+15:20:44.150: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 2150 (0.3%)
+15:20:44.150: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 326 (0.0%)
+15:20:44.150: Output 'simple_stream': Reconnecting in 2.00 seconds..
+15:20:44.150: [rtmp stream: 'simple_stream'] Freeing 858 remaining packets
+15:20:44.150: Video stopped, number of skipped frames due to encoding lag: 2150/816784 (0.3%)
+15:20:46.236: [obs-nvenc: 'simple_video_stream'] settings:
+15:20:46.236: 	codec:        H264
+15:20:46.236: 	rate_control: CBR
+15:20:46.236: 	bitrate:      2500
+15:20:46.236: 	keyint:       250
+15:20:46.236: 	preset:       p5
+15:20:46.236: 	tuning:       hq
+15:20:46.236: 	multipass:    qres
+15:20:46.236: 	profile:      high
+15:20:46.236: 	width:        1280
+15:20:46.236: 	height:       720
+15:20:46.236: 	b-frames:     2
+15:20:46.236: 	b-ref-mode:   0
+15:20:46.236: 	lookahead:    true (8 frames)
+15:20:46.236: 	aq:           true
+15:20:46.236: 
+15:20:46.338: ---------------------------------
+15:20:46.338: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+15:20:46.338: 
+15:20:46.339: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:20:46.345: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:21:16.346: RTMP_Connect1, handshake failed.
+15:21:16.347: Output 'simple_stream': Reconnecting in 2.97 seconds..
+15:21:16.347: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:21:19.318: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:21:19.321: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:21:49.324: RTMP_Connect1, handshake failed.
+15:21:49.324: Output 'simple_stream': Reconnecting in 4.41 seconds..
+15:21:49.324: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:21:53.736: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:21:53.740: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:22:23.741: RTMP_Connect1, handshake failed.
+15:22:23.742: Output 'simple_stream': Reconnecting in 6.55 seconds..
+15:22:23.742: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:22:30.291: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:22:30.294: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:23:00.296: RTMP_Connect1, handshake failed.
+15:23:00.296: Output 'simple_stream': Reconnecting in 9.72 seconds..
+15:23:00.296: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:23:10.022: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:23:10.025: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:23:40.026: RTMP_Connect1, handshake failed.
+15:23:40.026: Output 'simple_stream': Reconnecting in 14.44 seconds..
+15:23:40.026: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:23:54.465: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:23:54.468: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:24:24.470: RTMP_Connect1, handshake failed.
+15:24:24.470: Output 'simple_stream': Reconnecting in 21.44 seconds..
+15:24:24.470: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:24:45.912: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:24:45.914: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:24:48.926: User switched to scene 'Waiting'
+15:24:53.932: User switched to scene 'Playing'
+15:25:15.916: RTMP_Connect1, handshake failed.
+15:25:15.916: Output 'simple_stream': Reconnecting in 31.84 seconds..
+15:25:15.917: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:25:47.762: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:25:47.767: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:26:17.769: RTMP_Connect1, handshake failed.
+15:26:17.769: Output 'simple_stream': Reconnecting in 47.28 seconds..
+15:26:17.769: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:27:05.052: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:27:05.056: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:27:35.058: RTMP_Connect1, handshake failed.
+15:27:35.059: Output 'simple_stream': Reconnecting in 70.21 seconds..
+15:27:35.059: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:28:45.293: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:28:45.503: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:29:15.510: RTMP_Connect1, handshake failed.
+15:29:15.510: Output 'simple_stream': Reconnecting in 104.27 seconds..
+15:29:15.511: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:30:59.783: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:30:59.788: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:31:29.792: RTMP_Connect1, handshake failed.
+15:31:29.792: Output 'simple_stream': Reconnecting in 154.84 seconds..
+15:31:29.792: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:34:04.643: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:34:04.647: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:34:34.653: RTMP_Connect1, handshake failed.
+15:34:34.654: Output 'simple_stream': Reconnecting in 229.94 seconds..
+15:34:34.654: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:38:24.630: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:38:24.635: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:38:54.642: RTMP_Connect1, handshake failed.
+15:38:54.643: Output 'simple_stream': Reconnecting in 341.47 seconds..
+15:38:54.643: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:44:36.124: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:44:36.141: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:45:06.169: RTMP_Connect1, handshake failed.
+15:45:06.169: Output 'simple_stream': Reconnecting in 507.10 seconds..
+15:45:06.169: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+15:48:46.041: User switched to scene 'Waiting'
+15:48:51.798: User switched to scene 'Playing'
+15:53:33.287: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+15:53:33.294: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+15:54:03.297: RTMP_Connect1, handshake failed.
+15:54:03.297: Output 'simple_stream': Reconnecting in 753.05 seconds..
+15:54:03.297: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+16:06:36.348: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+16:06:36.353: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+16:07:06.355: RTMP_Connect1, handshake failed.
+16:07:06.355: Output 'simple_stream': Reconnecting in 900.00 seconds..
+16:07:06.355: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+16:11:31.129: User switched to scene 'Waiting'
+16:11:38.852: User switched to scene 'Playing'
+16:22:06.357: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+16:22:06.541: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+16:22:36.543: RTMP_Connect1, handshake failed.
+16:22:36.543: Output 'simple_stream': Reconnecting in 900.00 seconds..
+16:22:36.543: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+16:35:33.904: User switched to scene 'Waiting'
+16:35:39.991: User switched to scene 'Playing'
+16:37:36.545: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+16:37:36.551: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+16:38:06.555: RTMP_Connect1, handshake failed.
+16:38:06.555: Output 'simple_stream': Reconnecting in 900.00 seconds..
+16:38:06.556: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+16:46:23.238: ==== Streaming Stop ================================================
+16:46:26.134: encoder 'simple_video_stream': Cannot apply a new video_t object after the encoder has been initialized
+16:46:26.135: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+16:46:26.152: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+16:46:27.836: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ (85.192.30.17) successful
+16:46:27.837: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+16:46:27.848: ==== Streaming Start ===============================================
+16:59:14.546: User switched to scene 'Waiting'
+16:59:20.014: User switched to scene 'Playing'
+17:04:04.082: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:55595` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+17:05:08.017: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:63819
+17:05:08.797: User switched to scene 'Waiting'
+17:05:19.826: User switched to scene 'Playing'
+17:07:55.267: Settings changed (outputs)
+17:07:55.267: ------------------------------------------------
+17:10:03.479: User switched to scene 'Waiting'
+17:10:08.674: User switched to scene 'Playing'
+17:26:12.169: User switched to scene 'Waiting'
+17:26:22.698: User switched to scene 'Playing'
+17:46:13.586: User switched to scene 'Waiting'
+17:46:18.310: User switched to scene 'Playing'
+18:09:42.637: User switched to scene 'Waiting'
+18:09:48.294: User switched to scene 'Playing'
+18:28:02.559: User switched to scene 'Waiting'
+18:28:31.621: User switched to scene 'Playing'
+18:33:04.125: User switched to scene 'Waiting'
+18:33:09.447: User switched to scene 'Playing'
+18:56:08.730: User switched to scene 'Waiting'
+18:56:13.787: User switched to scene 'Playing'
+19:20:47.387: User switched to scene 'Waiting'
+19:20:52.066: User switched to scene 'Playing'
+19:44:18.352: User switched to scene 'Waiting'
+19:44:23.622: User switched to scene 'Playing'
+20:08:20.224: User switched to scene 'Waiting'
+20:08:25.105: User switched to scene 'Playing'
+20:31:24.566: User switched to scene 'Waiting'
+20:31:30.963: User switched to scene 'Playing'
+20:57:30.024: User switched to scene 'Waiting'
+20:57:37.042: User switched to scene 'Playing'
+21:14:29.402: User switched to scene 'Waiting'
+21:15:17.287: User switched to scene 'Playing'
+21:21:53.257: User switched to scene 'Waiting'
+21:21:59.665: User switched to scene 'Playing'
+21:49:57.508: User switched to scene 'Waiting'
+21:50:17.706: User switched to scene 'Playing'
+22:15:24.309: User switched to scene 'Waiting'
+04:28:36.508: Last log entry repeated for 33 more lines
+04:28:36.508: WriteN, RTMP send error 10054 (4097 bytes)
+04:28:36.508: WriteN, RTMP send error 10038 (41 bytes)
+04:28:36.508: WriteN, RTMP send error 10038 (42 bytes)
+04:28:36.508: [rtmp stream: 'simple_stream'] Disconnected from rtmp://sr2.blablaname.ru/live/
+04:28:36.509: Output 'simple_stream': stopping
+04:28:36.509: Output 'simple_stream': Total frames output: 1261094 (1263834 attempted)
+04:28:36.509: Output 'simple_stream': Total drawn frames: 1251232 (1263911 attempted)
+04:28:36.509: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 12679 (1.0%)
+04:28:36.509: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 2740 (0.2%)
+04:28:36.509: Output 'simple_stream': Reconnecting in 2.00 seconds..
+04:28:36.509: [rtmp stream: 'simple_stream'] Freeing 719 remaining packets
+04:28:36.521: Video stopped, number of skipped frames due to encoding lag: 12679/1263859 (1.0%)
+04:28:38.599: [obs-nvenc: 'simple_video_stream'] settings:
+04:28:38.599: 	codec:        H264
+04:28:38.599: 	rate_control: CBR
+04:28:38.599: 	bitrate:      5000
+04:28:38.599: 	keyint:       250
+04:28:38.599: 	preset:       p4
+04:28:38.599: 	tuning:       hq
+04:28:38.599: 	multipass:    qres
+04:28:38.599: 	profile:      high
+04:28:38.599: 	width:        1280
+04:28:38.599: 	height:       720
+04:28:38.599: 	b-frames:     2
+04:28:38.599: 	b-ref-mode:   0
+04:28:38.599: 	lookahead:    true (8 frames)
+04:28:38.599: 	aq:           true
+04:28:38.599: 
+04:28:38.956: ---------------------------------
+04:28:38.956: [FFmpeg aac encoder: 'simple_aac'] bitrate: 128, channels: 2, channel_layout: stereo, track: 1
+04:28:38.956: 
+04:28:38.995: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:28:39.017: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:28:40.098: rtmp://sr2.blablaname.ru/live/:
+04:28:40.098: NetStream.Publish.BadName (Already publishing)
+04:28:40.099: Output 'simple_stream': Reconnecting in 2.97 seconds..
+04:28:40.099: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:28:43.072: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:28:43.081: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:28:43.961: rtmp://sr2.blablaname.ru/live/:
+04:28:43.961: NetStream.Publish.BadName (Already publishing)
+04:28:43.961: Output 'simple_stream': Reconnecting in 4.41 seconds..
+04:28:43.962: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:28:48.402: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:28:48.408: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:28:49.363: rtmp://sr2.blablaname.ru/live/:
+04:28:49.363: NetStream.Publish.BadName (Already publishing)
+04:28:49.363: Output 'simple_stream': Reconnecting in 6.55 seconds..
+04:28:49.364: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:28:55.940: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:28:55.946: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:28:56.957: rtmp://sr2.blablaname.ru/live/:
+04:28:56.957: NetStream.Publish.BadName (Already publishing)
+04:28:56.957: Output 'simple_stream': Reconnecting in 9.72 seconds..
+04:28:56.957: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:29:06.712: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:29:06.716: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:29:07.982: rtmp://sr2.blablaname.ru/live/:
+04:29:07.982: NetStream.Publish.BadName (Already publishing)
+04:29:07.982: Output 'simple_stream': Reconnecting in 14.44 seconds..
+04:29:07.983: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:29:22.432: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:29:22.437: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:29:23.216: rtmp://sr2.blablaname.ru/live/:
+04:29:23.216: NetStream.Publish.BadName (Already publishing)
+04:29:23.216: Output 'simple_stream': Reconnecting in 21.44 seconds..
+04:29:23.217: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:29:44.694: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:29:44.699: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:29:45.299: rtmp://sr2.blablaname.ru/live/:
+04:29:45.299: NetStream.Publish.BadName (Already publishing)
+04:29:45.299: Output 'simple_stream': Reconnecting in 31.84 seconds..
+04:29:45.299: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:30:17.148: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:30:17.159: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:30:17.773: rtmp://sr2.blablaname.ru/live/:
+04:30:17.773: NetStream.Publish.BadName (Already publishing)
+04:30:17.773: Output 'simple_stream': Reconnecting in 47.28 seconds..
+04:30:17.773: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:31:05.125: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:31:05.128: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:31:06.298: rtmp://sr2.blablaname.ru/live/:
+04:31:06.298: NetStream.Publish.BadName (Already publishing)
+04:31:06.298: Output 'simple_stream': Reconnecting in 70.21 seconds..
+04:31:06.298: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:32:16.545: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:32:16.549: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:32:18.162: rtmp://sr2.blablaname.ru/live/:
+04:32:18.162: NetStream.Publish.BadName (Already publishing)
+04:32:18.162: Output 'simple_stream': Reconnecting in 104.27 seconds..
+04:32:18.162: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:34:02.446: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:34:02.450: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:34:03.619: rtmp://sr2.blablaname.ru/live/:
+04:34:03.619: NetStream.Publish.BadName (Already publishing)
+04:34:03.619: Output 'simple_stream': Reconnecting in 154.84 seconds..
+04:34:03.619: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:36:38.473: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:36:38.499: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:36:39.642: rtmp://sr2.blablaname.ru/live/:
+04:36:39.642: NetStream.Publish.BadName (Already publishing)
+04:36:39.642: Output 'simple_stream': Reconnecting in 229.94 seconds..
+04:36:39.642: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:40:29.634: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:40:29.639: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:40:30.786: rtmp://sr2.blablaname.ru/live/:
+04:40:30.786: NetStream.Publish.BadName (Already publishing)
+04:40:30.786: Output 'simple_stream': Reconnecting in 341.47 seconds..
+04:40:30.786: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+04:46:12.311: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+04:46:12.363: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+04:46:13.513: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ (85.192.30.17) successful
+04:46:13.540: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+04:52:25.929: User switched to scene 'Waiting'
+04:52:41.769: User switched to scene 'Playing'
+05:10:53.009: User switched to scene 'Waiting'
+05:34:40.132: User switched to scene 'Playing'
+05:48:40.986: User switched to scene 'Waiting'
+05:49:11.705: User switched to scene 'Playing'
+05:58:15.754: User switched to scene 'Waiting'
+05:58:21.870: User switched to scene 'Playing'
+06:22:15.914: User switched to scene 'Waiting'
+06:22:20.744: User switched to scene 'Playing'
+06:45:57.964: User switched to scene 'Waiting'
+06:46:02.663: User switched to scene 'Playing'
+07:09:53.226: User switched to scene 'Waiting'
+07:09:59.273: User switched to scene 'Playing'
+07:32:04.690: User switched to scene 'Waiting'
+07:32:57.715: User switched to scene 'Playing'
+07:34:28.940: User switched to scene 'Waiting'
+07:34:37.644: User switched to scene 'Playing'
+07:57:34.976: User switched to scene 'Waiting'
+07:57:41.682: User switched to scene 'Playing'
+08:19:15.141: User switched to scene 'Waiting'
+08:19:57.897: User switched to scene 'Playing'
+08:22:02.070: User switched to scene 'Waiting'
+08:22:07.422: User switched to scene 'Playing'
+08:45:00.820: User switched to scene 'Waiting'
+08:45:10.465: User switched to scene 'Playing'
+09:08:07.174: User switched to scene 'Waiting'
+09:08:11.987: User switched to scene 'Playing'
+09:31:44.061: User switched to scene 'Waiting'
+09:31:50.477: User switched to scene 'Playing'
+09:44:55.069: User switched to scene 'Waiting'
+17:01:13.725: Last log entry repeated for 39 more lines
+17:01:13.725: Settings changed (outputs)
+17:01:13.725: ------------------------------------------------
+17:02:10.517: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:63819` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+17:03:04.882: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:59900
+17:03:10.267: User switched to scene 'Waiting'
+17:03:23.109: User switched to scene 'Playing'
+17:04:07.155: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:59900` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+17:04:22.132: User switched to scene 'Waiting'
+17:09:45.672: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:60395
+17:09:45.975: User switched to scene 'Waiting'
+17:09:51.778: User switched to scene 'Playing'
+17:10:21.445: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:60395` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+17:12:02.120: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:60491
+17:12:02.539: User switched to scene 'Waiting'
+17:12:09.310: User switched to scene 'Playing'
+17:14:06.563: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:60491` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+17:14:24.109: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:60561
+17:14:24.217: User switched to scene 'Waiting'
+17:14:29.161: User switched to scene 'Playing'
+17:16:08.220: User switched to scene 'Waiting'
+17:16:13.367: User switched to scene 'Playing'
+17:38:54.735: User switched to scene 'Waiting'
+17:38:58.606: User switched to scene 'Playing'
+18:02:45.982: User switched to scene 'Waiting'
+18:02:52.249: User switched to scene 'Playing'
+18:26:10.214: User switched to scene 'Waiting'
+18:26:16.081: User switched to scene 'Playing'
+18:49:14.465: User switched to scene 'Waiting'
+18:49:20.641: User switched to scene 'Playing'
+19:12:17.650: User switched to scene 'Waiting'
+19:12:22.813: User switched to scene 'Playing'
+19:35:58.981: User switched to scene 'Waiting'
+19:36:04.249: User switched to scene 'Playing'
+19:59:39.868: User switched to scene 'Waiting'
+19:59:45.762: User switched to scene 'Playing'
+20:24:12.684: User switched to scene 'Waiting'
+20:24:18.528: User switched to scene 'Playing'
+20:47:54.674: User switched to scene 'Waiting'
+20:47:59.003: User switched to scene 'Playing'
+21:10:39.200: User switched to scene 'Waiting'
+21:10:45.477: User switched to scene 'Playing'
+21:23:02.312: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:60561` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+21:23:13.958: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:57783
+21:23:15.056: User switched to scene 'Waiting'
+21:23:31.110: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:57783` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+21:24:28.635: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:57847
+21:24:29.024: User switched to scene 'Waiting'
+21:24:42.862: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:57847` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+21:24:56.458: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:57881
+21:24:56.605: User switched to scene 'Waiting'
+21:25:24.763: User switched to scene 'Playing'
+21:34:31.696: User switched to scene 'Waiting'
+21:34:37.278: User switched to scene 'Playing'
+21:58:41.003: User switched to scene 'Waiting'
+21:58:46.788: User switched to scene 'Playing'
+22:22:22.956: User switched to scene 'Waiting'
+22:22:27.402: User switched to scene 'Playing'
+22:46:02.602: User switched to scene 'Waiting'
+22:46:09.388: User switched to scene 'Playing'
+23:09:52.639: User switched to scene 'Waiting'
+23:09:58.824: User switched to scene 'Playing'
+23:34:03.327: User switched to scene 'Waiting'
+23:34:08.988: User switched to scene 'Playing'
+23:57:53.563: User switched to scene 'Waiting'
+00:00:04.432: User switched to scene 'Playing'
+00:24:01.716: User switched to scene 'Waiting'
+00:24:05.815: User switched to scene 'Playing'
+00:48:30.037: User switched to scene 'Waiting'
+00:48:35.495: User switched to scene 'Playing'
+01:12:11.068: User switched to scene 'Waiting'
+01:35:56.532: User switched to scene 'Playing'
+02:00:01.276: User switched to scene 'Waiting'
+02:00:08.347: User switched to scene 'Playing'
+02:23:51.895: User switched to scene 'Waiting'
+02:23:56.626: User switched to scene 'Playing'
+02:37:30.610: WriteN, RTMP send error 10054 (4097 bytes)
+02:37:30.610: WriteN, RTMP send error 10038 (41 bytes)
+02:37:30.610: WriteN, RTMP send error 10038 (42 bytes)
+02:37:30.610: [rtmp stream: 'simple_stream'] Disconnected from rtmp://sr2.blablaname.ru/live/
+02:37:30.610: Output 'simple_stream': stopping
+02:37:30.610: Output 'simple_stream': Total frames output: 2358897 (2360287 attempted)
+02:37:30.610: Output 'simple_stream': Total drawn frames: 2354192 (2360350 attempted)
+02:37:30.610: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 6158 (0.3%)
+02:37:30.610: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 1390 (0.1%)
+02:37:30.611: Output 'simple_stream': Reconnecting in 2.00 seconds..
+02:37:30.612: [rtmp stream: 'simple_stream'] Freeing 23 remaining packets
+02:37:30.639: Video stopped, number of skipped frames due to encoding lag: 6158/2360310 (0.3%)
+02:37:31.632: User switched to scene 'Waiting'
+02:37:32.772: [obs-nvenc: 'simple_video_stream'] settings:
+02:37:32.772: 	codec:        H264
+02:37:32.772: 	rate_control: CBR
+02:37:32.772: 	bitrate:      10000
+02:37:32.772: 	keyint:       250
+02:37:32.772: 	preset:       p4
+02:37:32.772: 	tuning:       hq
+02:37:32.772: 	multipass:    qres
+02:37:32.772: 	profile:      high
+02:37:32.772: 	width:        1280
+02:37:32.772: 	height:       720
+02:37:32.772: 	b-frames:     2
+02:37:32.772: 	b-ref-mode:   0
+02:37:32.772: 	lookahead:    true (8 frames)
+02:37:32.772: 	aq:           true
+02:37:32.772: 
+02:37:32.875: ---------------------------------
+02:37:32.875: [FFmpeg aac encoder: 'simple_aac'] bitrate: 128, channels: 2, channel_layout: stereo, track: 1
+02:37:32.875: 
+02:37:32.876: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:37:32.884: [rtmp stream: 'simple_stream'] Interface: Hyper-V Virtual Ethernet Adapter #2 (type 0, 100â†“/100â†‘ mbps)
+02:37:33.030: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ (85.192.30.17) successful
+02:37:33.031: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+02:37:53.007: User switched to scene 'Playing'
+02:40:19.281: WriteN, RTMP send error 10060 (4097 bytes)
+02:40:19.281: WriteN, RTMP send error 10038 (41 bytes)
+02:40:19.281: WriteN, RTMP send error 10038 (42 bytes)
+02:40:19.281: [rtmp stream: 'simple_stream'] Disconnected from rtmp://sr2.blablaname.ru/live/
+02:40:19.281: Output 'simple_stream': stopping
+02:40:19.281: Output 'simple_stream': Total frames output: 4676 (4969 attempted)
+02:40:19.281: Output 'simple_stream': Total drawn frames: 4987 (4993 attempted)
+02:40:19.281: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 6 (0.1%)
+02:40:19.281: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 293 (5.9%)
+02:40:19.281: Output 'simple_stream': Reconnecting in 2.00 seconds..
+02:40:19.281: [rtmp stream: 'simple_stream'] Freeing 860 remaining packets
+02:40:19.282: Video stopped, number of skipped frames due to encoding lag: 6/4986 (0.1%)
+02:40:21.308: [obs-nvenc: 'simple_video_stream'] settings:
+02:40:21.308: 	codec:        H264
+02:40:21.308: 	rate_control: CBR
+02:40:21.308: 	bitrate:      10000
+02:40:21.308: 	keyint:       250
+02:40:21.308: 	preset:       p4
+02:40:21.308: 	tuning:       hq
+02:40:21.308: 	multipass:    qres
+02:40:21.308: 	profile:      high
+02:40:21.308: 	width:        1280
+02:40:21.308: 	height:       720
+02:40:21.308: 	b-frames:     2
+02:40:21.308: 	b-ref-mode:   0
+02:40:21.308: 	lookahead:    true (8 frames)
+02:40:21.308: 	aq:           true
+02:40:21.308: 
+02:40:21.371: ---------------------------------
+02:40:21.371: [FFmpeg aac encoder: 'simple_aac'] bitrate: 128, channels: 2, channel_layout: stereo, track: 1
+02:40:21.371: 
+02:40:21.373: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:40:43.135: RTMP_Connect, failed to connect socket: Ýòîò õîñò íåèçâåñòåí. (11001)
+02:40:43.135: Output 'simple_stream': Reconnecting in 2.97 seconds..
+02:40:43.136: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+02:40:46.107: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:40:51.772: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:40:52.967: rtmp://sr2.blablaname.ru/live/:
+02:40:52.967: NetStream.Publish.BadName (Already publishing)
+02:40:52.967: Output 'simple_stream': Reconnecting in 4.41 seconds..
+02:40:52.967: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+02:40:57.380: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:40:57.383: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:40:57.794: rtmp://sr2.blablaname.ru/live/:
+02:40:57.794: NetStream.Publish.BadName (Already publishing)
+02:40:57.794: Output 'simple_stream': Reconnecting in 6.55 seconds..
+02:40:57.794: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+02:41:04.343: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:41:04.345: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:41:04.781: rtmp://sr2.blablaname.ru/live/:
+02:41:04.781: NetStream.Publish.BadName (Already publishing)
+02:41:04.781: Output 'simple_stream': Reconnecting in 9.72 seconds..
+02:41:04.781: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+02:41:14.506: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:41:14.510: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:41:14.922: rtmp://sr2.blablaname.ru/live/:
+02:41:14.922: NetStream.Publish.BadName (Already publishing)
+02:41:14.922: Output 'simple_stream': Reconnecting in 14.44 seconds..
+02:41:14.922: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+02:41:29.361: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:41:29.364: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:41:29.768: rtmp://sr2.blablaname.ru/live/:
+02:41:29.768: NetStream.Publish.BadName (Already publishing)
+02:41:29.768: Output 'simple_stream': Reconnecting in 21.44 seconds..
+02:41:29.768: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+02:41:51.209: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:41:51.212: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:41:51.620: rtmp://sr2.blablaname.ru/live/:
+02:41:51.620: NetStream.Publish.BadName (Already publishing)
+02:41:51.620: Output 'simple_stream': Reconnecting in 31.84 seconds..
+02:41:51.620: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+02:42:23.461: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:42:23.463: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:42:23.867: rtmp://sr2.blablaname.ru/live/:
+02:42:23.867: NetStream.Publish.BadName (Already publishing)
+02:42:23.867: Output 'simple_stream': Reconnecting in 47.28 seconds..
+02:42:23.867: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+02:43:11.150: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:43:11.152: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:43:11.549: rtmp://sr2.blablaname.ru/live/:
+02:43:11.549: NetStream.Publish.BadName (Already publishing)
+02:43:11.549: Output 'simple_stream': Reconnecting in 70.21 seconds..
+02:43:11.550: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+02:44:21.764: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:44:21.766: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:44:22.167: rtmp://sr2.blablaname.ru/live/:
+02:44:22.167: NetStream.Publish.BadName (Already publishing)
+02:44:22.167: Output 'simple_stream': Reconnecting in 104.27 seconds..
+02:44:22.167: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+02:46:06.437: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:46:06.440: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:46:07.143: rtmp://sr2.blablaname.ru/live/:
+02:46:07.143: NetStream.Publish.BadName (Already publishing)
+02:46:07.143: Output 'simple_stream': Reconnecting in 154.84 seconds..
+02:46:07.144: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+02:46:13.686: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:57881` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+02:46:15.975: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:61239
+02:46:16.260: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:61239` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+02:48:41.986: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:48:41.989: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:48:42.393: rtmp://sr2.blablaname.ru/live/:
+02:48:42.393: NetStream.Publish.BadName (Already publishing)
+02:48:42.393: Output 'simple_stream': Reconnecting in 229.94 seconds..
+02:48:42.393: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+02:52:32.338: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:52:32.341: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:52:33.754: rtmp://sr2.blablaname.ru/live/:
+02:52:33.754: NetStream.Publish.BadName (Already publishing)
+02:52:33.754: Output 'simple_stream': Reconnecting in 341.47 seconds..
+02:52:33.755: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+02:53:57.013: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:61465
+02:53:57.108: User switched to scene 'Waiting'
+02:54:13.571: User switched to scene 'Playing'
+02:58:15.230: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+02:58:15.238: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+02:58:15.969: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ (85.192.30.17) successful
+02:58:15.970: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+03:11:12.320: User switched to scene 'Waiting'
+03:11:17.142: User switched to scene 'Playing'
+03:34:52.471: User switched to scene 'Waiting'
+03:34:57.634: User switched to scene 'Playing'
+03:43:24.048: [rtmp stream: 'simple_stream'] User stopped the stream
+03:43:24.048: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+03:43:24.048: Output 'simple_stream': stopping
+03:43:24.048: Output 'simple_stream': Total frames output: 77380 (81220 attempted)
+03:43:24.048: Output 'simple_stream': Total drawn frames: 80070 (81265 attempted)
+03:43:24.048: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 1195 (1.5%)
+03:43:24.048: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 3840 (4.7%)
+03:43:24.050: Video stopped, number of skipped frames due to encoding lag: 1195/81241 (1.5%)
+03:43:24.130: ==== Streaming Stop ================================================
+03:43:25.382: [obs-nvenc: 'simple_video_stream'] settings:
+03:43:25.382: 	codec:        H264
+03:43:25.382: 	rate_control: CBR
+03:43:25.382: 	bitrate:      10000
+03:43:25.382: 	keyint:       250
+03:43:25.382: 	preset:       p4
+03:43:25.382: 	tuning:       hq
+03:43:25.382: 	multipass:    qres
+03:43:25.382: 	profile:      high
+03:43:25.382: 	width:        1280
+03:43:25.382: 	height:       720
+03:43:25.382: 	b-frames:     2
+03:43:25.382: 	b-ref-mode:   0
+03:43:25.382: 	lookahead:    true (8 frames)
+03:43:25.382: 	aq:           true
+03:43:25.382: 
+03:43:25.515: ---------------------------------
+03:43:25.516: [FFmpeg aac encoder: 'simple_aac'] bitrate: 128, channels: 2, channel_layout: stereo, track: 1
+03:43:25.516: 
+03:43:25.517: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+03:43:25.543: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+03:43:26.377: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ (85.192.30.17) successful
+03:43:26.379: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+03:43:26.510: ==== Streaming Start ===============================================
+03:55:21.436: WriteN, RTMP send error 10053 (410 bytes)
+03:55:21.859: WriteN, RTMP send error 10038 (41 bytes)
+03:55:21.859: WriteN, RTMP send error 10038 (42 bytes)
+03:55:21.859: [rtmp stream: 'simple_stream'] Disconnected from rtmp://sr2.blablaname.ru/live/
+03:55:21.859: Output 'simple_stream': stopping
+03:55:21.859: Output 'simple_stream': Total frames output: 21262 (21442 attempted)
+03:55:21.859: Output 'simple_stream': Total drawn frames: 21286 (21489 attempted)
+03:55:21.859: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 203 (0.9%)
+03:55:21.859: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 180 (0.8%)
+03:55:21.859: Output 'simple_stream': Reconnecting in 2.00 seconds..
+03:55:21.860: [rtmp stream: 'simple_stream'] Freeing 31 remaining packets
+03:55:21.893: Video stopped, number of skipped frames due to encoding lag: 203/21463 (0.9%)
+03:55:23.940: [obs-nvenc: 'simple_video_stream'] settings:
+03:55:23.940: 	codec:        H264
+03:55:23.940: 	rate_control: CBR
+03:55:23.940: 	bitrate:      10000
+03:55:23.940: 	keyint:       250
+03:55:23.940: 	preset:       p4
+03:55:23.940: 	tuning:       hq
+03:55:23.940: 	multipass:    qres
+03:55:23.940: 	profile:      high
+03:55:23.940: 	width:        1280
+03:55:23.940: 	height:       720
+03:55:23.940: 	b-frames:     2
+03:55:23.940: 	b-ref-mode:   0
+03:55:23.940: 	lookahead:    true (8 frames)
+03:55:23.940: 	aq:           true
+03:55:23.940: 
+03:55:24.054: ---------------------------------
+03:55:24.054: [FFmpeg aac encoder: 'simple_aac'] bitrate: 128, channels: 2, channel_layout: stereo, track: 1
+03:55:24.054: 
+03:55:24.061: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+03:55:24.080: [rtmp stream: 'simple_stream'] Interface: Hyper-V Virtual Ethernet Adapter #2 (type 0, 100â†“/100â†‘ mbps)
+03:55:24.782: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ (85.192.30.17) successful
+03:55:24.783: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+03:55:30.050: User switched to scene 'Waiting'
+03:56:21.191: User switched to scene 'Playing'
+03:58:51.252: User switched to scene 'Waiting'
+03:58:57.495: User switched to scene 'Playing'
+04:22:31.819: User switched to scene 'Waiting'
+04:22:37.115: User switched to scene 'Playing'
+04:46:23.622: User switched to scene 'Waiting'
+04:46:28.627: User switched to scene 'Playing'
+05:10:51.106: User switched to scene 'Waiting'
+05:35:00.333: User switched to scene 'Playing'
+05:58:15.231: User switched to scene 'Waiting'
+05:58:22.015: User switched to scene 'Playing'
+06:11:08.700: User switched to scene 'Waiting'
+06:11:34.497: User switched to scene 'Playing'
+06:22:14.337: User switched to scene 'Waiting'
+06:22:19.271: User switched to scene 'Playing'
+06:22:19.550: QThread::start: Failed to set thread priority (ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ Ð·Ð°Ð´Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾.)
+06:45:57.253: User switched to scene 'Waiting'
+06:46:02.169: User switched to scene 'Playing'
+07:09:51.338: User switched to scene 'Waiting'
+07:09:57.015: User switched to scene 'Playing'
+07:33:33.311: User switched to scene 'Waiting'
+07:33:39.794: User switched to scene 'Playing'
+07:57:15.146: User switched to scene 'Waiting'
+07:57:21.003: User switched to scene 'Playing'
+08:21:20.769: User switched to scene 'Waiting'
+08:21:26.556: User switched to scene 'Playing'
+08:45:00.882: User switched to scene 'Waiting'
+08:45:08.876: User switched to scene 'Playing'
+09:08:05.441: User switched to scene 'Waiting'
+09:08:11.094: User switched to scene 'Playing'
+09:31:43.525: User switched to scene 'Waiting'
+09:31:51.274: User switched to scene 'Playing'
+09:44:55.038: User switched to scene 'Waiting'
+09:45:01.138: User switched to scene 'Playing'
+10:08:40.423: User switched to scene 'Waiting'
+10:08:46.221: User switched to scene 'Playing'
+10:22:26.531: User switched to scene 'Waiting'
+10:22:53.971: User switched to scene 'Playing'
+10:32:51.614: User switched to scene 'Waiting'
+10:32:57.349: User switched to scene 'Playing'
+10:54:35.696: adding 42 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð»)
+10:54:35.696: 
+10:58:51.386: User switched to scene 'Waiting'
+10:58:58.909: User switched to scene 'Playing'
+11:22:33.398: User switched to scene 'Waiting'
+11:22:38.333: User switched to scene 'Playing'
+11:46:14.186: User switched to scene 'Waiting'
+11:46:21.224: User switched to scene 'Playing'
+12:10:17.387: User switched to scene 'Waiting'
+12:10:23.336: User switched to scene 'Playing'
+12:33:55.990: User switched to scene 'Waiting'
+12:34:02.168: User switched to scene 'Playing'
+12:38:45.623: User switched to scene 'Waiting'
+12:38:51.038: User switched to scene 'Playing'
+12:57:32.585: User switched to scene 'Waiting'
+12:57:39.000: User switched to scene 'Playing'
+13:20:02.228: User switched to scene 'Waiting'
+13:20:08.562: User switched to scene 'Playing'
+13:43:04.707: User switched to scene 'Waiting'
+13:43:10.735: User switched to scene 'Playing'
+14:07:06.681: User switched to scene 'Waiting'
+14:07:11.939: User switched to scene 'Playing'
+14:31:06.104: User switched to scene 'Waiting'
+14:31:11.430: User switched to scene 'Playing'
+14:53:49.972: User switched to scene 'Waiting'
+14:54:24.574: User switched to scene 'Playing'
+14:54:57.234: User switched to scene 'Waiting'
+14:55:02.467: User switched to scene 'Playing'
+15:18:36.698: User switched to scene 'Waiting'
+15:18:42.088: User switched to scene 'Playing'
+15:42:28.926: User switched to scene 'Waiting'
+15:42:34.731: User switched to scene 'Playing'
+16:05:19.946: User switched to scene 'Waiting'
+03:59:20.048: Last log entry repeated for 197 more lines
+03:59:20.048: QThread::start: Failed to set thread priority (ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ Ð·Ð°Ð´Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾.)
+03:59:25.382: User switched to scene 'Waiting'
+03:59:32.132: User switched to scene 'Playing'
+04:22:30.690: User switched to scene 'Waiting'
+04:22:34.990: User switched to scene 'Playing'
+04:46:21.439: User switched to scene 'Waiting'
+04:46:26.464: User switched to scene 'Playing'
+05:11:00.272: User switched to scene 'Waiting'
+05:34:45.749: User switched to scene 'Playing'
+05:58:20.220: User switched to scene 'Waiting'
+05:58:26.759: User switched to scene 'Playing'
+06:20:57.476: User switched to scene 'Waiting'
+06:21:33.693: User switched to scene 'Playing'
+06:22:20.907: User switched to scene 'Waiting'
+06:22:24.673: User switched to scene 'Playing'
+06:46:09.541: User switched to scene 'Waiting'
+06:47:07.454: User switched to scene 'Playing'
+07:10:49.907: User switched to scene 'Waiting'
+07:10:54.623: User switched to scene 'Playing'
+07:34:30.922: User switched to scene 'Waiting'
+07:34:37.600: User switched to scene 'Playing'
+07:58:12.910: User switched to scene 'Waiting'
+07:58:20.736: User switched to scene 'Playing'
+08:22:21.251: User switched to scene 'Waiting'
+08:22:26.579: User switched to scene 'Playing'
+08:45:57.982: User switched to scene 'Waiting'
+08:46:05.607: User switched to scene 'Playing'
+09:09:02.263: User switched to scene 'Waiting'
+09:09:07.462: User switched to scene 'Playing'
+09:32:40.317: User switched to scene 'Waiting'
+09:32:45.184: User switched to scene 'Playing'
+09:45:50.089: User switched to scene 'Waiting'
+13:02:31.059: Last log entry repeated for 19 more lines
+13:02:31.059: WASAPI: Default input device changed
+13:02:31.086: Device 'ÐœÐ¸ÐºÑ€Ð¾Ñ„Ð¾Ð½ (2- USB PnP Audio Device)' invalidated.  Retrying (source: ÐœÐ¸ÐºÑ€/Ð´Ð¾Ð¿)
+13:02:32.134: WASAPI: Device 'Headset Microphone (Oculus Virtual Audio Device)' [48000 Hz] initialized (source: ÐœÐ¸ÐºÑ€/Ð´Ð¾Ð¿)
+13:20:29.459: User switched to scene 'Waiting'
+13:20:34.678: User switched to scene 'Playing'
+13:43:33.539: User switched to scene 'Waiting'
+13:43:40.464: User switched to scene 'Playing'
+14:07:36.712: User switched to scene 'Waiting'
+14:07:42.419: User switched to scene 'Playing'
+14:31:36.207: User switched to scene 'Waiting'
+14:31:43.932: User switched to scene 'Playing'
+14:56:04.474: User switched to scene 'Waiting'
+14:56:09.568: User switched to scene 'Playing'
+15:19:41.757: User switched to scene 'Waiting'
+15:19:46.438: User switched to scene 'Playing'
+15:43:33.267: User switched to scene 'Waiting'
+15:43:39.019: User switched to scene 'Playing'
+16:06:25.348: User switched to scene 'Waiting'
+16:06:33.141: User switched to scene 'Playing'
+16:30:28.593: User switched to scene 'Waiting'
+16:30:35.663: User switched to scene 'Playing'
+16:54:09.773: User switched to scene 'Waiting'
+16:54:13.319: User switched to scene 'Playing'
+17:17:57.856: User switched to scene 'Waiting'
+17:18:03.622: User switched to scene 'Playing'
+17:40:45.822: User switched to scene 'Waiting'
+17:40:50.001: User switched to scene 'Playing'
+18:04:36.327: User switched to scene 'Waiting'
+18:04:41.231: User switched to scene 'Playing'
+18:27:58.743: User switched to scene 'Waiting'
+18:28:04.394: User switched to scene 'Playing'
+18:51:03.700: User switched to scene 'Waiting'
+18:51:08.275: User switched to scene 'Playing'
+19:14:42.594: User switched to scene 'Waiting'
+21:48:31.463: Last log entry repeated for 13 more lines
+21:48:31.466: WASAPI: Default input device changed
+21:48:32.622: Device 'Headset Microphone (Oculus Virtual Audio Device)' invalidated.  Retrying (source: ÐœÐ¸ÐºÑ€/Ð´Ð¾Ð¿)
+21:48:32.662: WASAPI: Device 'ÐœÐ¸ÐºÑ€Ð¾Ñ„Ð¾Ð½ (2- USB PnP Audio Device)' [48000 Hz] initialized (source: ÐœÐ¸ÐºÑ€/Ð´Ð¾Ð¿)
+21:49:18.092: WriteN, RTMP send error 10060 (4097 bytes)
+21:49:18.094: WriteN, RTMP send error 10038 (41 bytes)
+21:49:18.094: WriteN, RTMP send error 10038 (42 bytes)
+21:49:18.094: [rtmp stream: 'simple_stream'] Disconnected from rtmp://sr2.blablaname.ru/live/
+21:49:18.094: Output 'simple_stream': stopping
+21:49:18.094: Output 'simple_stream': Total frames output: 7116330 (7116971 attempted)
+21:49:18.094: Output 'simple_stream': Total drawn frames: 7092501 (7117021 attempted)
+21:49:18.094: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 24520 (0.3%)
+21:49:18.094: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 641 (0.0%)
+21:49:18.094: Output 'simple_stream': Reconnecting in 2.00 seconds..
+21:49:18.095: [rtmp stream: 'simple_stream'] Freeing 856 remaining packets
+21:49:18.097: Video stopped, number of skipped frames due to encoding lag: 24520/7116997 (0.3%)
+21:49:20.132: [obs-nvenc: 'simple_video_stream'] settings:
+21:49:20.132: 	codec:        H264
+21:49:20.132: 	rate_control: CBR
+21:49:20.132: 	bitrate:      10000
+21:49:20.132: 	keyint:       250
+21:49:20.132: 	preset:       p4
+21:49:20.132: 	tuning:       hq
+21:49:20.132: 	multipass:    qres
+21:49:20.132: 	profile:      high
+21:49:20.132: 	width:        1280
+21:49:20.132: 	height:       720
+21:49:20.132: 	b-frames:     2
+21:49:20.132: 	b-ref-mode:   0
+21:49:20.132: 	lookahead:    true (8 frames)
+21:49:20.132: 	aq:           true
+21:49:20.132: 
+21:49:20.224: ---------------------------------
+21:49:20.225: [FFmpeg aac encoder: 'simple_aac'] bitrate: 128, channels: 2, channel_layout: stereo, track: 1
+21:49:20.225: 
+21:49:20.227: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:49:31.379: RTMP_Connect, failed to connect socket: Îáû÷íî - ýòî âðåìåííàÿ îøèáêà, âîçíèêàþùàÿ âî âðåìÿ ðàçðåøåíèÿ èìåíè óçëà, è îçíà÷àþùàÿ, ÷òî ëîêàëüíûé ñåðâåð íå ïîëó÷èë îòâåòà îò ïîëíîìî÷íîãî ñåðâåðà. (11002)
+21:49:31.380: Output 'simple_stream': Reconnecting in 2.97 seconds..
+21:49:31.380: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+21:49:34.351: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:49:34.354: RTMP_Connect, failed to connect socket: Îáû÷íî - ýòî âðåìåííàÿ îøèáêà, âîçíèêàþùàÿ âî âðåìÿ ðàçðåøåíèÿ èìåíè óçëà, è îçíà÷àþùàÿ, ÷òî ëîêàëüíûé ñåðâåð íå ïîëó÷èë îòâåòà îò ïîëíîìî÷íîãî ñåðâåðà. (11002)
+21:49:34.354: Output 'simple_stream': Reconnecting in 4.41 seconds..
+21:49:34.354: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+21:49:38.767: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:49:39.060: RTMP_Connect, failed to connect socket: Îáû÷íî - ýòî âðåìåííàÿ îøèáêà, âîçíèêàþùàÿ âî âðåìÿ ðàçðåøåíèÿ èìåíè óçëà, è îçíà÷àþùàÿ, ÷òî ëîêàëüíûé ñåðâåð íå ïîëó÷èë îòâåòà îò ïîëíîìî÷íîãî ñåðâåðà. (11002)
+21:49:39.060: Output 'simple_stream': Reconnecting in 6.55 seconds..
+21:49:39.060: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+21:49:45.610: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:50:08.120: RTMP_Connect, failed to connect socket: Îáû÷íî - ýòî âðåìåííàÿ îøèáêà, âîçíèêàþùàÿ âî âðåìÿ ðàçðåøåíèÿ èìåíè óçëà, è îçíà÷àþùàÿ, ÷òî ëîêàëüíûé ñåðâåð íå ïîëó÷èë îòâåòà îò ïîëíîìî÷íîãî ñåðâåðà. (11002)
+21:50:08.120: Output 'simple_stream': Reconnecting in 9.72 seconds..
+21:50:08.120: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+21:50:17.844: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:50:41.906: RTMP_Connect, failed to connect socket: Ýòîò õîñò íåèçâåñòåí. (11001)
+21:50:41.906: Output 'simple_stream': Reconnecting in 14.44 seconds..
+21:50:41.907: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+21:50:56.346: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:51:20.426: RTMP_Connect, failed to connect socket: Ýòîò õîñò íåèçâåñòåí. (11001)
+21:51:20.426: Output 'simple_stream': Reconnecting in 21.44 seconds..
+21:51:20.426: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+21:51:41.867: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:52:05.941: RTMP_Connect, failed to connect socket: Ýòîò õîñò íåèçâåñòåí. (11001)
+21:52:05.942: Output 'simple_stream': Reconnecting in 31.84 seconds..
+21:52:05.942: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+21:52:37.782: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:53:01.201: RTMP_Connect, failed to connect socket: Ýòîò õîñò íåèçâåñòåí. (11001)
+21:53:01.201: Output 'simple_stream': Reconnecting in 47.28 seconds..
+21:53:01.201: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+21:53:48.483: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:54:12.542: RTMP_Connect, failed to connect socket: Ýòîò õîñò íåèçâåñòåí. (11001)
+21:54:12.542: Output 'simple_stream': Reconnecting in 70.21 seconds..
+21:54:12.542: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -2
+21:54:34.853: User switched to scene 'Waiting'
+21:55:06.653: User switched to scene 'Playing'
+21:55:22.756: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:55:34.799: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+21:55:36.212: rtmp://sr2.blablaname.ru/live/:
+21:55:36.212: NetStream.Publish.BadName (Already publishing)
+21:55:36.212: Output 'simple_stream': Reconnecting in 104.27 seconds..
+21:55:36.212: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+21:56:12.710: ==== Streaming Stop ================================================
+21:56:15.525: encoder 'simple_video_stream': Cannot apply a new video_t object after the encoder has been initialized
+21:56:15.526: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:56:15.530: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+21:56:16.240: rtmp://sr2.blablaname.ru/live/:
+21:56:16.240: NetStream.Publish.BadName (Already publishing)
+21:56:16.240: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+21:56:16.241: ==== Streaming Stop ================================================
+21:56:20.601: encoder 'simple_video_stream': Cannot apply a new video_t object after the encoder has been initialized
+21:56:20.602: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:56:20.606: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+21:56:21.353: rtmp://sr2.blablaname.ru/live/:
+21:56:21.353: NetStream.Publish.BadName (Already publishing)
+21:56:21.353: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+21:56:21.353: ==== Streaming Stop ================================================
+21:56:23.839: encoder 'simple_video_stream': Cannot apply a new video_t object after the encoder has been initialized
+21:56:23.840: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://sr2.blablaname.ru/live/...
+21:56:23.845: [rtmp stream: 'simple_stream'] Interface: sing-tun Tunnel (type 0, 100000â†“/100000â†‘ mbps)
+21:56:24.572: rtmp://sr2.blablaname.ru/live/:
+21:56:24.572: NetStream.Publish.BadName (Already publishing)
+21:56:24.572: [rtmp stream: 'simple_stream'] Connection to rtmp://sr2.blablaname.ru/live/ failed: -3
+21:56:24.572: ==== Streaming Stop ================================================
+21:56:32.778: ==== Shutting down ==================================================
+21:56:32.805: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' Terminated
+21:56:32.816: WASAPI: Device 'ÐœÐ¸ÐºÑ€Ð¾Ñ„Ð¾Ð½ (2- USB PnP Audio Device)' Terminated
+21:56:32.881: All scene data cleared
+21:56:32.881: ------------------------------------------------
+21:56:32.881: [obs-multi-rtmp] Save 1 targets, 0 video configs, 0 audio configs
+21:56:32.895: [obs-multi-rtmp] Save config into C:\Users\BlaBlaShka\AppData\Roaming\obs-studio/basic/profiles/Ð‘ÐµÐ· Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ñ/obs-multi-rtmp.json
+21:56:33.002: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:33.102: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:33.211: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:33.312: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:33.386: [obs-websocket] [obs_module_unload] Shutting down...
+21:56:33.399: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:61465` has disconnected with code `1001` and reason: Server stopping.
+21:56:33.399: [obs-websocket] [WebSocketServer::ServerRunner] IO thread exited.
+21:56:33.410: [obs-websocket] [WebSocketServer::Stop] Server stopped successfully
+21:56:33.411: Tried to call obs_frontend_remove_event_callback with no callbacks!
+21:56:33.411: [obs-websocket] [obs_module_unload] Finished shutting down.
+21:56:33.412: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:33.513: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:33.549: [Scripting] Total detached callbacks: 0
+21:56:33.579: Freeing OBS context data
+21:56:33.613: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:33.717: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:33.817: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:33.918: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:34.018: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:34.121: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:34.221: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:34.321: == Profiler Results =============================
+21:56:34.321: run_program_init: 3239.18Â ms
+21:56:34.321:  â”£OBSApp::AppInit: 36.574Â ms
+21:56:34.321:  â”ƒ â”—OBSApp::InitLocale: 2.539Â ms
+21:56:34.321:  â”—OBSApp::OBSInit: 1612.46Â ms
+21:56:34.321:    â”£obs_startup: 8.99Â ms
+21:56:34.321:    â”—OBSBasic::OBSInit: 1485.33Â ms
+21:56:34.321:      â”£OBSBasic::InitBasicConfig: 8.658Â ms
+21:56:34.321:      â”£OBSBasic::ResetAudio: 0.258Â ms
+21:56:34.321:      â”£OBSBasic::ResetVideo: 219.184Â ms
+21:56:34.322:      â”ƒ â”—obs_init_graphics: 216.853Â ms
+21:56:34.322:      â”ƒ   â”—shader compilation: 92.972Â ms
+21:56:34.322:      â”£OBSBasic::InitOBSCallbacks: 0.008Â ms
+21:56:34.322:      â”£OBSBasic::InitHotkeys: 0.031Â ms
+21:56:34.322:      â”£obs_load_all_modules2: 307.192Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(aja-output-ui.dll): 0.191Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(aja.dll): 0.138Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(coreaudio-encoder.dll): 2.502Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(decklink-captions.dll): 0Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(decklink-output-ui.dll): 0Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(decklink.dll): 1.635Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(frontend-tools.dll): 4.65Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(image-source.dll): 0.01Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(nv-filters.dll): 2.061Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-browser.dll): 0.254Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-ffmpeg.dll): 1.069Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-filters.dll): 0.035Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-nvenc.dll): 182.182Â ms
+21:56:34.322:      â”ƒ â”ƒ â”—nvenc_check: 182.174Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-outputs.dll): 0.022Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-qsv11.dll): 31.404Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-text.dll): 0.182Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-transitions.dll): 0.006Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-vst.dll): 0.004Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-webrtc.dll): 0.006Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-websocket.dll): 10.959Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-x264.dll): 0.002Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(rtmp-services.dll): 1.021Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(sl-browser-plugin.dll): 1.573Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(text-freetype2.dll): 0.073Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(vlc-video.dll): 1.888Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(win-capture.dll): 2.522Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(win-dshow.dll): 1.867Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(win-wasapi.dll): 0.323Â ms
+21:56:34.322:      â”ƒ â”£obs_init_module(obs-multi-rtmp.dll): 16.585Â ms
+21:56:34.322:      â”ƒ â”—reset_win32_symbol_paths: 0.276Â ms
+21:56:34.322:      â”£OBSBasic::InitService: 0.215Â ms
+21:56:34.322:      â”£OBSBasic::ResetOutputs: 0.5Â ms
+21:56:34.322:      â”£OBSBasic::CreateHotkeys: 0.047Â ms
+21:56:34.322:      â”£OBSBasic::InitPrimitives: 0.157Â ms
+21:56:34.322:      â”—OBSBasic::Load: 207.735Â ms
+21:56:34.322: obs_hotkey_thread(25Â ms): min=0.003Â ms, median=0.01Â ms, max=161.994Â ms, 99th percentile=0.268Â ms, 99.9925% below 25Â ms
+21:56:34.322: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:34.322: audio_thread(Audio): min=0.013Â ms, median=0.653Â ms, max=5228.24Â ms, 99th percentile=18.218Â ms
+21:56:34.322:  â”—receive_audio: min=0.002Â ms, median=0.538Â ms, max=1395.94Â ms, 99th percentile=8.239Â ms, 0.862987 calls per parent call
+21:56:34.322:    â”£buffer_audio: min=0Â ms, median=0.002Â ms, max=2.497Â ms, 99th percentile=0.006Â ms
+21:56:34.322:    â”—do_encode: min=0.016Â ms, median=0.53Â ms, max=1395.93Â ms, 99th percentile=8.23Â ms
+21:56:34.322:      â”£encode(simple_aac): min=0.049Â ms, median=0.547Â ms, max=19.857Â ms, 99th percentile=3.269Â ms, 0.200518 calls per parent call
+21:56:34.323:      â”£send_packet: min=0.001Â ms, median=0.014Â ms, max=1395.65Â ms, 99th percentile=3.923Â ms
+21:56:34.323:      â”—encode(simple_aac): min=0.015Â ms, median=0.476Â ms, max=20.427Â ms, 99th percentile=3.083Â ms, 0.799482 calls per parent call
+21:56:34.323: obs_graphics_thread(33.3333Â ms): min=0.072Â ms, median=0.992Â ms, max=5231.8Â ms, 99th percentile=18.058Â ms, 99.7155% below 33.333Â ms
+21:56:34.323:  â”£tick_sources: min=0.001Â ms, median=0.016Â ms, max=487.679Â ms, 99th percentile=0.434Â ms
+21:56:34.323:  â”£output_frame: min=0.059Â ms, median=0.945Â ms, max=5231.62Â ms, 99th percentile=16.951Â ms
+21:56:34.323:  â”ƒ â”—gs_context(video->graphics): min=0.059Â ms, median=0.943Â ms, max=5231.62Â ms, 99th percentile=16.922Â ms
+21:56:34.323:  â”ƒ   â”£render_video: min=0.005Â ms, median=0.889Â ms, max=5231.44Â ms, 99th percentile=15.804Â ms
+21:56:34.323:  â”ƒ   â”ƒ â”£render_main_texture: min=0.002Â ms, median=0.577Â ms, max=456.018Â ms, 99th percentile=11.411Â ms
+21:56:34.323:  â”ƒ   â”ƒ â”£render_output_texture: min=0.003Â ms, median=0.01Â ms, max=186.375Â ms, 99th percentile=0.097Â ms, 0.867846 calls per parent call
+21:56:34.323:  â”ƒ   â”ƒ â”£render_convert_texture: min=0.006Â ms, median=0.016Â ms, max=118.392Â ms, 99th percentile=0.1Â ms, 0.867846 calls per parent call
+21:56:34.323:  â”ƒ   â”ƒ â”—output_gpu_encoders: min=0Â ms, median=0.055Â ms, max=839.626Â ms, 99th percentile=0.408Â ms, 0.867846 calls per parent call
+21:56:34.323:  â”ƒ   â”—gs_flush: min=0.002Â ms, median=0.028Â ms, max=250.047Â ms, 99th percentile=2.261Â ms
+21:56:34.323:  â”—render_displays: min=0Â ms, median=0.001Â ms, max=84.248Â ms, 99th percentile=0.234Â ms
+21:56:34.324: obs_gpu_encode_thread(33.3333Â ms): min=0.22Â ms, median=0.726Â ms, max=312.427Â ms, 99th percentile=5.976Â ms, 99.9909% below 33.333Â ms
+21:56:34.324:  â”£gpu_encode_frame: min=0.211Â ms, median=0.691Â ms, max=213.978Â ms, 99th percentile=5.883Â ms
+21:56:34.324:  â”—send_packet: min=0.002Â ms, median=0.018Â ms, max=19.124Â ms, 99th percentile=0.115Â ms
+21:56:34.324: OBSBasicSettings::LoadThemeList: min=0.106Â ms, median=0.167Â ms, max=0.249Â ms, 99th percentile=0.249Â ms
+21:56:34.324: OBSBasic::ResetOutputs: min=0.051Â ms, median=0.139Â ms, max=1.952Â ms, 99th percentile=1.952Â ms
+21:56:34.324: obs_gpu_encode_thread(33.3333Â ms): min=0.293Â ms, median=0.543Â ms, max=15.251Â ms, 99th percentile=1.802Â ms, 100% below 33.333Â ms
+21:56:34.324:  â”£gpu_encode_frame: min=0.276Â ms, median=0.514Â ms, max=15.194Â ms, 99th percentile=1.742Â ms
+21:56:34.324:  â”—send_packet: min=0.003Â ms, median=0.013Â ms, max=3.35Â ms, 99th percentile=0.064Â ms
+21:56:34.324: obs_gpu_encode_thread(33.3333Â ms): min=0.252Â ms, median=1.4Â ms, max=1417.01Â ms, 99th percentile=135.291Â ms, 80.5528% below 33.333Â ms
+21:56:34.324:  â”£gpu_encode_frame: min=0.174Â ms, median=0.858Â ms, max=620.023Â ms, 99th percentile=7.99Â ms
+21:56:34.324:  â”—send_packet: min=0.002Â ms, median=0.037Â ms, max=1414.89Â ms, 99th percentile=132.888Â ms
+21:56:34.324: obs_gpu_encode_thread(33.3333Â ms): min=0.269Â ms, median=0.803Â ms, max=48.935Â ms, 99th percentile=5.816Â ms, 99.9938% below 33.333Â ms
+21:56:34.324:  â”£gpu_encode_frame: min=0.261Â ms, median=0.761Â ms, max=48.895Â ms, 99th percentile=5.716Â ms
+21:56:34.324:  â”—send_packet: min=0.002Â ms, median=0.018Â ms, max=6.308Â ms, 99th percentile=0.174Â ms
+21:56:34.324: obs_gpu_encode_thread(33.3333Â ms): min=0.219Â ms, median=0.645Â ms, max=40.408Â ms, 99th percentile=2.783Â ms, 99.9998% below 33.333Â ms
+21:56:34.324:  â”£gpu_encode_frame: min=0.212Â ms, median=0.61Â ms, max=40.323Â ms, 99th percentile=2.7Â ms
+21:56:34.324:  â”—send_packet: min=0.002Â ms, median=0.022Â ms, max=7.585Â ms, 99th percentile=0.171Â ms
+21:56:34.324: obs_gpu_encode_thread(33.3333Â ms): min=0.229Â ms, median=0.63Â ms, max=36.828Â ms, 99th percentile=2.964Â ms, 99.9999% below 33.333Â ms
+21:56:34.324:  â”£gpu_encode_frame: min=0.215Â ms, median=0.599Â ms, max=36.787Â ms, 99th percentile=2.873Â ms
+21:56:34.324:  â”—send_packet: min=0.003Â ms, median=0.018Â ms, max=7.738Â ms, 99th percentile=0.151Â ms
+21:56:34.325: obs_gpu_encode_thread(33.3333Â ms): min=0.233Â ms, median=0.795Â ms, max=95.343Â ms, 99th percentile=6.909Â ms, 99.9912% below 33.333Â ms
+21:56:34.325:  â”£gpu_encode_frame: min=0.208Â ms, median=0.753Â ms, max=95.245Â ms, 99th percentile=6.776Â ms
+21:56:34.325:  â”—send_packet: min=0.002Â ms, median=0.02Â ms, max=27.141Â ms, 99th percentile=0.217Â ms
+21:56:34.325: obs_gpu_encode_thread(33.3333Â ms): min=0.226Â ms, median=0.699Â ms, max=43.556Â ms, 99th percentile=3.38Â ms, 99.9997% below 33.333Â ms
+21:56:34.325:  â”£gpu_encode_frame: min=0.214Â ms, median=0.649Â ms, max=43.455Â ms, 99th percentile=3.247Â ms
+21:56:34.325:  â”—send_packet: min=0.002Â ms, median=0.037Â ms, max=14.17Â ms, 99th percentile=0.214Â ms
+21:56:34.325: obs_gpu_encode_thread(33.3333Â ms): min=0.305Â ms, median=0.685Â ms, max=6.827Â ms, 99th percentile=2.359Â ms, 100% below 33.333Â ms
+21:56:34.325:  â”£gpu_encode_frame: min=0.288Â ms, median=0.622Â ms, max=6.82Â ms, 99th percentile=2.214Â ms
+21:56:34.325:  â”—send_packet: min=0.003Â ms, median=0.056Â ms, max=1.003Â ms, 99th percentile=0.246Â ms
+21:56:34.325: obs_gpu_encode_thread(33.3333Â ms): min=0.272Â ms, median=1.083Â ms, max=46.177Â ms, 99th percentile=6.056Â ms, 99.9988% below 33.333Â ms
+21:56:34.325:  â”£gpu_encode_frame: min=0.252Â ms, median=0.98Â ms, max=33.22Â ms, 99th percentile=5.874Â ms
+21:56:34.325:  â”—send_packet: min=0.003Â ms, median=0.063Â ms, max=23.845Â ms, 99th percentile=0.435Â ms
+21:56:34.325: obs_gpu_encode_thread(33.3333Â ms): min=0.301Â ms, median=1.107Â ms, max=53.623Â ms, 99th percentile=6.655Â ms, 99.986% below 33.333Â ms
+21:56:34.325:  â”£gpu_encode_frame: min=0.287Â ms, median=1.003Â ms, max=53.545Â ms, 99th percentile=6.442Â ms
+21:56:34.325:  â”—send_packet: min=0.004Â ms, median=0.066Â ms, max=21.369Â ms, 99th percentile=0.525Â ms
+21:56:34.325: obs_gpu_encode_thread(33.3333Â ms): min=0.225Â ms, median=0.786Â ms, max=115.311Â ms, 99th percentile=4.495Â ms, 99.9945% below 33.333Â ms
+21:56:34.325:  â”£gpu_encode_frame: min=0.172Â ms, median=0.73Â ms, max=115.133Â ms, 99th percentile=4.315Â ms
+21:56:34.325:  â”—send_packet: min=0.002Â ms, median=0.036Â ms, max=72.055Â ms, 99th percentile=0.243Â ms
+21:56:34.325: =================================================
+21:56:34.325: == Profiler Time Between Calls ==================
+21:56:34.325: obs_hotkey_thread(25Â ms): min=24.277Â ms, median=25.457Â ms, max=756.602Â ms, 66.1035% within Â±2% of 25Â ms (4.92509e-05% lower, 33.8964% higher)
+21:56:34.325: obs_graphics_thread(33.3333Â ms): min=0.112Â ms, median=33.333Â ms, max=5231.9Â ms, 73.6445% within Â±2% of 33.333Â ms (13.5397% lower, 12.8158% higher)
+21:56:34.326: obs_gpu_encode_thread(33.3333Â ms): min=0.251Â ms, median=33.312Â ms, max=5342.65Â ms, 39.6785% within Â±2% of 33.333Â ms (31.9113% lower, 28.4102% higher)
+21:56:34.326: obs_gpu_encode_thread(33.3333Â ms): min=0.352Â ms, median=33.331Â ms, max=201.253Â ms, 92.0165% within Â±2% of 33.333Â ms (4.06337% lower, 3.92016% higher)
+21:56:34.326: obs_gpu_encode_thread(33.3333Â ms): min=0.269Â ms, median=33.429Â ms, max=1419.66Â ms, 25.3856% within Â±2% of 33.333Â ms (32.9738% lower, 41.6406% higher)
+21:56:34.326: obs_gpu_encode_thread(33.3333Â ms): min=0.271Â ms, median=33.293Â ms, max=423.12Â ms, 45.1168% within Â±2% of 33.333Â ms (30.3823% lower, 24.5009% higher)
+21:56:34.326: obs_gpu_encode_thread(33.3333Â ms): min=0.22Â ms, median=33.329Â ms, max=752.113Â ms, 50.4479% within Â±2% of 33.333Â ms (25.3247% lower, 24.2274% higher)
+21:56:34.327: obs_gpu_encode_thread(33.3333Â ms): min=0.237Â ms, median=33.296Â ms, max=439.707Â ms, 48.6858% within Â±2% of 33.333Â ms (27.345% lower, 23.9693% higher)
+21:56:34.327: obs_gpu_encode_thread(33.3333Â ms): min=0.26Â ms, median=33.314Â ms, max=719.905Â ms, 38.3989% within Â±2% of 33.333Â ms (32.3562% lower, 29.2448% higher)
+21:56:34.327: obs_gpu_encode_thread(33.3333Â ms): min=0.247Â ms, median=33.326Â ms, max=517.036Â ms, 52.2968% within Â±2% of 33.333Â ms (24.6424% lower, 23.0608% higher)
+21:56:34.327: obs_gpu_encode_thread(33.3333Â ms): min=0.532Â ms, median=33.327Â ms, max=151.208Â ms, 85.5366% within Â±2% of 33.333Â ms (7.02106% lower, 7.44233% higher)
+21:56:34.327: obs_gpu_encode_thread(33.3333Â ms): min=0.297Â ms, median=33.029Â ms, max=387.025Â ms, 20.4481% within Â±2% of 33.333Â ms (44.2762% lower, 35.2757% higher)
+21:56:34.327: obs_gpu_encode_thread(33.3333Â ms): min=0.304Â ms, median=33.12Â ms, max=297.759Â ms, 23.5672% within Â±2% of 33.333Â ms (40.9608% lower, 35.472% higher)
+21:56:34.327: obs_gpu_encode_thread(33.3333Â ms): min=0.23Â ms, median=33.321Â ms, max=704.565Â ms, 57.7814% within Â±2% of 33.333Â ms (22.2887% lower, 19.9299% higher)
+21:56:34.327: =================================================
+21:56:34.422: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:34.523: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:34.623: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:34.724: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:34.825: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:34.925: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:35.025: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:35.127: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:35.227: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:35.328: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:35.428: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:35.529: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:35.631: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:35.732: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:35.833: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:35.933: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:36.034: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:36.145: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:36.247: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:36.347: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:36.448: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:36.548: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:36.649: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:36.750: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:36.850: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:36.951: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:37.051: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:37.152: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:37.252: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:37.353: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:37.453: Tried to call obs_frontend_get_main_window with no callbacks!
+21:56:40.132: Last log entry repeated for 26 more lines
+21:56:40.132: Number of memory leaks: 1

@@ -1,0 +1,3 @@
+[0412/143518.055:ERROR:observer_list.h(281)] Check failed: observers_.empty(). 
+For observer stack traces, build with `dcheck_always_on=true`.
+[0420/220144.111:FATAL:gpu_data_manager_impl_private.cc(454)] GPU process isn't usable. Goodbye.

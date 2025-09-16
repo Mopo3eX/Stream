@@ -1,0 +1,247 @@
+05:22:11.659: [Safe Mode] Unclean shutdown detected!
+05:22:13.432: [Safe Mode] User elected to launch normally.
+05:22:13.434: CPU Name: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz
+05:22:13.434: CPU Speed: 4200MHz
+05:22:13.434: Physical Cores: 4, Logical Cores: 8
+05:22:13.434: Physical Memory: 32710MB Total, 18467MB Free
+05:22:13.434: Windows Version: 10.0 Build 19045 (release: 22H2; revision: 5737; 64-bit)
+05:22:13.434: Running as administrator: false
+05:22:13.434: Windows 10/11 Gaming Features:
+05:22:13.434: 	Game DVR: On
+05:22:13.434: 	Game Mode: Probably On (no reg key set)
+05:22:13.437: Sec. Software Status:
+05:22:13.439: 	Антивирусная программа Microsoft Defender: enabled (AV)
+05:22:13.440: 	Брандмауэр Windows: enabled (FW)
+05:22:13.440: Current Date/Time: 2025-04-13, 05:22:13
+05:22:13.440: Browser Hardware Acceleration: true
+05:22:13.440: Hide OBS windows from screen capture: false
+05:22:13.440: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+05:22:13.440: Portable mode: false
+05:22:13.494: OBS 31.0.3 (64-bit, windows)
+05:22:13.494: ---------------------------------
+05:22:13.570: ---------------------------------
+05:22:13.570: audio settings reset:
+05:22:13.570: 	samples per sec: 48000
+05:22:13.570: 	speakers:        2
+05:22:13.570: 	max buffering:   960 milliseconds
+05:22:13.570: 	buffering type:  dynamically increasing
+05:22:13.571: ---------------------------------
+05:22:13.571: Initializing D3D11...
+05:22:13.571: Available Video Adapters: 
+05:22:13.574: 	Adapter 0: NVIDIA GeForce GTX 1070
+05:22:13.574: 	  Dedicated VRAM: 8458862592 (7.9 GiB)
+05:22:13.574: 	  Shared VRAM:    17149704192 (16.0 GiB)
+05:22:13.574: 	  PCI ID:         10de:1b81
+05:22:13.574: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+05:22:13.574: 	  Driver Version: 32.0.15.6109
+05:22:13.575: 	  output 0:
+05:22:13.575: 	    name=SA241Y A
+05:22:13.575: 	    pos={0, 0}
+05:22:13.575: 	    size={1920, 1080}
+05:22:13.575: 	    attached=true
+05:22:13.575: 	    refresh=60
+05:22:13.575: 	    bits_per_color=8
+05:22:13.575: 	    space=RGB_FULL_G22_NONE_P709
+05:22:13.575: 	    primaries=[r=(0.649414, 0.338867), g=(0.323242, 0.623047), b=(0.152344, 0.073242), wp=(0.307617, 0.334961)]
+05:22:13.575: 	    relative_gamut_area=[709=1.016942, P3=0.749660, 2020=0.537831]
+05:22:13.575: 	    sdr_white_nits=80
+05:22:13.575: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+05:22:13.575: 	    dpi=96 (100%)
+05:22:13.575: 	    id=\\?\DISPLAY#ACR09BD#5&b3776b3&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+05:22:13.575: 	    alt_id=\\.\DISPLAY1
+05:22:13.575: 	  output 1:
+05:22:13.575: 	    name=SA241Y A
+05:22:13.575: 	    pos={1920, 0}
+05:22:13.575: 	    size={1920, 1080}
+05:22:13.575: 	    attached=true
+05:22:13.575: 	    refresh=60
+05:22:13.575: 	    bits_per_color=8
+05:22:13.575: 	    space=RGB_FULL_G22_NONE_P709
+05:22:13.575: 	    primaries=[r=(0.649414, 0.338867), g=(0.323242, 0.623047), b=(0.152344, 0.073242), wp=(0.307617, 0.334961)]
+05:22:13.575: 	    relative_gamut_area=[709=1.016942, P3=0.749660, 2020=0.537831]
+05:22:13.575: 	    sdr_white_nits=80
+05:22:13.575: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+05:22:13.575: 	    dpi=96 (100%)
+05:22:13.575: 	    id=\\?\DISPLAY#ACR09BD#5&b3776b3&0&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+05:22:13.575: 	    alt_id=\\.\DISPLAY2
+05:22:13.575: 	Adapter 1: NVIDIA GeForce GTX 1070
+05:22:13.575: 	  Dedicated VRAM: 8458862592 (7.9 GiB)
+05:22:13.575: 	  Shared VRAM:    17149704192 (16.0 GiB)
+05:22:13.575: 	  PCI ID:         10de:1b81
+05:22:13.575: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+05:22:13.576: 	  Driver Version: 32.0.15.6109
+05:22:13.576: Loading up D3D11 on adapter NVIDIA GeForce GTX 1070 (0)
+05:22:13.679: D3D11 loaded successfully, feature level used: b000
+05:22:13.679: DXGI increase maximum frame latency success
+05:22:13.679: D3D11 GPU priority setup failed (not admin?)
+05:22:13.778: ---------------------------------
+05:22:13.778: video settings reset:
+05:22:13.778: 	base resolution:   1920x1080
+05:22:13.778: 	output resolution: 1280x720
+05:22:13.778: 	downscale filter:  Bicubic
+05:22:13.778: 	fps:               30/1
+05:22:13.778: 	format:            NV12
+05:22:13.778: 	YUV mode:          Rec. 709/Partial
+05:22:13.778: NV12 texture support enabled
+05:22:13.778: P010 texture support not available
+05:22:13.780: Audio monitoring device:
+05:22:13.780: 	name: По умолчанию
+05:22:13.780: 	id: default
+05:22:13.781: ---------------------------------
+05:22:13.783: No AJA devices found, skipping loading AJA UI plugin
+05:22:13.783: Failed to initialize module 'aja-output-ui.dll'
+05:22:13.785: No AJA devices found, skipping loading AJA plugin
+05:22:13.785: Failed to initialize module 'aja.dll'
+05:22:13.785: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+05:22:13.788: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+05:22:13.789: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+05:22:13.790: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+05:22:13.791: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+05:22:13.791: Failed to initialize module 'decklink.dll'
+05:22:13.799: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+05:22:13.799: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+05:22:13.799: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+05:22:13.801: [NVIDIA Audio Effects:] NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+05:22:13.801: Failed to get NVVideoEffects.dll version info size
+05:22:13.803: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+05:22:13.810: [obs-browser]: Version 2.24.6
+05:22:13.810: [obs-browser]: CEF Version 127.0.6533.120 (runtime), 127.145.7+g2b7d20b+chromium-127.0.6533.120 (compiled)
+05:22:14.002: [obs-nvenc] NVENC version: 12.2 (compiled) / 12.2 (driver), CUDA driver version: 12.60, AV1 supported: false
+05:22:14.042: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.6 | RPC Version: 1)
+05:22:14.042: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+05:22:14.042: [obs-websocket] [obs_module_load] Linked ASIO Version: 103100
+05:22:14.042: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+05:22:14.052: [obs-websocket] [obs_module_load] Module loaded.
+05:22:14.057: Failed to load 'en-US' text for module: 'sl-browser-plugin.dll'
+05:22:14.057: Streamlabs module git sha is 5adf71684af10f4d1221e62dc784223b3239fadd for OBS 31.0.0, revision 91
+05:22:14.057: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+05:22:14.060: [vlc-video]: Couldn't find VLC installation, VLC video source disabled
+05:22:14.071: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+05:22:14.071: [obs-multi-rtmp] Load config from C:\Users\BlaBlaShka\AppData\Roaming\obs-studio/basic/profiles/Без названия/obs-multi-rtmp.json failed
+05:22:14.071: [obs-multi-rtmp] Import config from old version.
+05:22:14.088: [obs-multi-rtmp] version: 0.6.0.1 by SoraYuki https://github.com/sorayuki/obs-multi-rtmp/
+05:22:14.088: ---------------------------------
+05:22:14.088:   Loaded Modules:
+05:22:14.088:     obs-multi-rtmp.dll
+05:22:14.088:     win-wasapi.dll
+05:22:14.088:     win-dshow.dll
+05:22:14.088:     win-capture.dll
+05:22:14.088:     vlc-video.dll
+05:22:14.088:     text-freetype2.dll
+05:22:14.088:     sl-browser-plugin.dll
+05:22:14.088:     rtmp-services.dll
+05:22:14.088:     obs-x264.dll
+05:22:14.088:     obs-websocket.dll
+05:22:14.088:     obs-webrtc.dll
+05:22:14.088:     obs-vst.dll
+05:22:14.088:     obs-transitions.dll
+05:22:14.088:     obs-text.dll
+05:22:14.088:     obs-qsv11.dll
+05:22:14.088:     obs-outputs.dll
+05:22:14.088:     obs-nvenc.dll
+05:22:14.089:     obs-filters.dll
+05:22:14.089:     obs-ffmpeg.dll
+05:22:14.089:     obs-browser.dll
+05:22:14.089:     nv-filters.dll
+05:22:14.089:     image-source.dll
+05:22:14.089:     frontend-tools.dll
+05:22:14.089:     decklink-output-ui.dll
+05:22:14.089:     decklink-captions.dll
+05:22:14.089:     coreaudio-encoder.dll
+05:22:14.089: ---------------------------------
+05:22:14.089: Starting Streamlabs plugin...
+05:22:14.089: Streamlabs: Sending 51473 and 51474 to proxy
+05:22:14.093: [SL_PLUGIN]: obs_module_post_load Module path: C:\Program Files\obs-studio\obs-plugins\64bit\sl-browser-plugin.dll
+05:22:14.093: [SL_PLUGIN]: obs_module_post_load process_path: C
+05:22:14.093: [SL_PLUGIN]: obs_module_post_load startparams: s
+05:22:14.605: [SL_PLUGIN]: obs_module_post_load exit startServer
+05:22:14.605: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+05:22:14.605: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+05:22:14.606: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+05:22:14.611: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4455. Possible connect address: 172.19.0.1
+05:22:14.611: ---------------------------------
+05:22:14.611: Available Encoders:
+05:22:14.611:   Video Encoders:
+05:22:14.611: 	- ffmpeg_svt_av1 (SVT-AV1)
+05:22:14.611: 	- ffmpeg_aom_av1 (AOM AV1)
+05:22:14.611: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+05:22:14.611: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+05:22:14.611: 	- obs_x264 (x264)
+05:22:14.611:   Audio Encoders:
+05:22:14.611: 	- ffmpeg_aac (FFmpeg AAC)
+05:22:14.611: 	- ffmpeg_opus (FFmpeg Opus)
+05:22:14.611: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16 бит))
+05:22:14.611: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24 бита))
+05:22:14.611: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32 бита с пл. тчк.))
+05:22:14.611: 	- ffmpeg_alac (FFmpeg ALAC (24 бита))
+05:22:14.611: 	- ffmpeg_flac (FFmpeg FLAC (16 бит))
+05:22:14.611: ==== Startup complete ===============================================
+05:22:14.660: All scene data cleared
+05:22:14.660: ------------------------------------------------
+05:22:14.662: [win-wasapi: 'Рабочий стол'] update settings:
+05:22:14.662: 	device id: default
+05:22:14.662: 	use device timing: 1
+05:22:14.663: [Loaded global audio device]: 'Рабочий стол'
+05:22:14.663: [win-wasapi: 'Микр/доп'] update settings:
+05:22:14.663: 	device id: default
+05:22:14.663: 	use device timing: 0
+05:22:14.663: [Loaded global audio device]: 'Микр/доп'
+05:22:14.663: [Media Source 'Источник медиа']: settings:
+05:22:14.663: 	input:                   rtmp://192.168.88.242/live/substream
+05:22:14.663: 	input_format:            
+05:22:14.663: 	speed:                   100
+05:22:14.663: 	is_looping:              no
+05:22:14.663: 	is_linear_alpha:         yes
+05:22:14.663: 	is_hw_decoding:          yes
+05:22:14.663: 	is_clear_on_media_end:   yes
+05:22:14.663: 	restart_on_activate:     yes
+05:22:14.663: 	close_when_inactive:     no
+05:22:14.663: 	full_decode:             no
+05:22:14.663: 	ffmpeg_options:          
+05:22:14.684: WASAPI: Device 'Микрофон (2- USB PnP Audio Device)' [48000 Hz] initialized (source: Микр/доп)
+05:22:14.699: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' [48000 Hz] initialized (source: Рабочий стол)
+05:22:14.724: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Микр/доп)
+05:22:14.724: 
+05:22:14.810: Switched to scene 'Playing'
+05:22:14.810: ------------------------------------------------
+05:22:14.810: Loaded scenes:
+05:22:14.810: - scene 'Playing':
+05:22:14.810:     - source: 'Источник медиа' (ffmpeg_source)
+05:22:14.810:         - monitoring: monitor and output
+05:22:14.810:     - source: 'Time' (text_gdiplus_v3)
+05:22:14.810:     - source: '18d2d29d-0901-4227-9a61-845ad5479f86.png' (image_source)
+05:22:14.810:     - source: 'Title' (text_gdiplus_v3)
+05:22:14.810: - scene 'Waiting':
+05:22:14.810:     - source: 'Фоновый цвет' (color_source_v3)
+05:22:14.810:     - source: '9ab3ce14-6462-49fa-8c73-391d1e6949d4.jpg' (image_source)
+05:22:14.810:     - source: 'WaitText' (text_gdiplus_v3)
+05:22:14.810: ------------------------------------------------
+05:22:36.848: [Media Source 'Источник медиа 2']: settings:
+05:22:36.848: 	input:                   
+05:22:36.848: 	input_format:            (null)
+05:22:36.848: 	speed:                   100
+05:22:36.848: 	is_looping:              no
+05:22:36.848: 	is_linear_alpha:         no
+05:22:36.848: 	is_hw_decoding:          no
+05:22:36.848: 	is_clear_on_media_end:   yes
+05:22:36.848: 	restart_on_activate:     yes
+05:22:36.848: 	close_when_inactive:     no
+05:22:36.848: 	full_decode:             no
+05:22:36.848: 	ffmpeg_options:          
+05:22:36.852: User added source 'Источник медиа 2' (ffmpeg_source) to scene 'Playing'
+05:22:50.342: User Removed source 'Источник медиа 2' (ffmpeg_source) from scene 'Playing'
+05:23:12.225: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+05:23:12.227: [obs-multi-rtmp] Invalid protocol "", maybe broken config file.
+05:23:12.398: [obs-multi-rtmp] Invalid protocol "", maybe broken config file.
+05:26:10.659: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:51671
+05:26:10.946: User switched to scene 'Waiting'
+05:26:55.304: User switched to scene 'Playing'
+05:26:58.622: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:51671` has disconnected with code `1006` and reason: ��������� ���� ������������� �������� ������������ �����������.
+05:27:05.435: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:51723
+05:27:05.707: User switched to scene 'Waiting'
+05:27:14.455: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:51723` has disconnected with code `1006` and reason: ��������� ���� ������������� �������� ������������ �����������.
+05:27:18.808: User switched to scene 'Playing'
+05:29:26.681: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+05:29:26.681: ==== Shutting down ==================================================
+05:29:26.697: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' Terminated
+05:29:26.699: WASAPI: Device 'Микрофон (2- USB PnP Audio Device)' Terminated

@@ -1,0 +1,409 @@
+13:10:21.360: CPU Name: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz
+13:10:21.360: CPU Speed: 4200MHz
+13:10:21.360: Physical Cores: 4, Logical Cores: 8
+13:10:21.360: Physical Memory: 32710MB Total, 19559MB Free
+13:10:21.360: Windows Version: 10.0 Build 19045 (release: 22H2; revision: 5737; 64-bit)
+13:10:21.360: Running as administrator: false
+13:10:21.360: Windows 10/11 Gaming Features:
+13:10:21.360: 	Game DVR: On
+13:10:21.360: 	Game Mode: Probably On (no reg key set)
+13:10:21.362: Sec. Software Status:
+13:10:21.363: 	ÐÐ½Ñ‚Ð¸Ð²Ð¸Ñ€ÑƒÑÐ½Ð°Ñ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð° Microsoft Defender: enabled (AV)
+13:10:21.363: 	Ð‘Ñ€Ð°Ð½Ð´Ð¼Ð°ÑƒÑÑ€ Windows: enabled (FW)
+13:10:21.364: Current Date/Time: 2025-04-12, 13:10:21
+13:10:21.364: Browser Hardware Acceleration: true
+13:10:21.364: Hide OBS windows from screen capture: false
+13:10:21.364: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+13:10:21.364: Portable mode: false
+13:10:21.840: OBS 31.0.3 (64-bit, windows)
+13:10:21.840: ---------------------------------
+13:10:21.990: ---------------------------------
+13:10:21.990: audio settings reset:
+13:10:21.990: 	samples per sec: 48000
+13:10:21.990: 	speakers:        2
+13:10:21.990: 	max buffering:   960 milliseconds
+13:10:21.990: 	buffering type:  dynamically increasing
+13:10:22.019: ---------------------------------
+13:10:22.019: Initializing D3D11...
+13:10:22.019: Available Video Adapters: 
+13:10:22.021: 	Adapter 0: NVIDIA GeForce GTX 1070
+13:10:22.021: 	  Dedicated VRAM: 8458862592 (7.9 GiB)
+13:10:22.021: 	  Shared VRAM:    17149704192 (16.0 GiB)
+13:10:22.021: 	  PCI ID:         10de:1b81
+13:10:22.021: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+13:10:22.021: 	  Driver Version: 32.0.15.6109
+13:10:22.023: 	  output 0:
+13:10:22.023: 	    name=SA241Y A
+13:10:22.023: 	    pos={0, 0}
+13:10:22.023: 	    size={1920, 1080}
+13:10:22.023: 	    attached=true
+13:10:22.023: 	    refresh=60
+13:10:22.023: 	    bits_per_color=8
+13:10:22.023: 	    space=RGB_FULL_G22_NONE_P709
+13:10:22.023: 	    primaries=[r=(0.649414, 0.338867), g=(0.323242, 0.623047), b=(0.152344, 0.073242), wp=(0.307617, 0.334961)]
+13:10:22.023: 	    relative_gamut_area=[709=1.016942, P3=0.749660, 2020=0.537831]
+13:10:22.023: 	    sdr_white_nits=80
+13:10:22.023: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+13:10:22.023: 	    dpi=96 (100%)
+13:10:22.023: 	    id=\\?\DISPLAY#ACR09BD#5&b3776b3&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+13:10:22.023: 	    alt_id=\\.\DISPLAY1
+13:10:22.024: 	  output 1:
+13:10:22.024: 	    name=SA241Y A
+13:10:22.024: 	    pos={1920, 0}
+13:10:22.024: 	    size={1920, 1080}
+13:10:22.024: 	    attached=true
+13:10:22.024: 	    refresh=60
+13:10:22.024: 	    bits_per_color=8
+13:10:22.024: 	    space=RGB_FULL_G22_NONE_P709
+13:10:22.024: 	    primaries=[r=(0.649414, 0.338867), g=(0.323242, 0.623047), b=(0.152344, 0.073242), wp=(0.307617, 0.334961)]
+13:10:22.024: 	    relative_gamut_area=[709=1.016942, P3=0.749660, 2020=0.537831]
+13:10:22.024: 	    sdr_white_nits=80
+13:10:22.024: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+13:10:22.024: 	    dpi=96 (100%)
+13:10:22.024: 	    id=\\?\DISPLAY#ACR09BD#5&b3776b3&0&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+13:10:22.024: 	    alt_id=\\.\DISPLAY2
+13:10:22.024: 	Adapter 1: NVIDIA GeForce GTX 1070
+13:10:22.024: 	  Dedicated VRAM: 8458862592 (7.9 GiB)
+13:10:22.024: 	  Shared VRAM:    17149704192 (16.0 GiB)
+13:10:22.024: 	  PCI ID:         10de:1b81
+13:10:22.024: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+13:10:22.024: 	  Driver Version: 32.0.15.6109
+13:10:22.024: Loading up D3D11 on adapter NVIDIA GeForce GTX 1070 (0)
+13:10:22.156: D3D11 loaded successfully, feature level used: b000
+13:10:22.156: DXGI increase maximum frame latency success
+13:10:22.156: D3D11 GPU priority setup failed (not admin?)
+13:10:23.620: ---------------------------------
+13:10:23.620: video settings reset:
+13:10:23.620: 	base resolution:   1920x1080
+13:10:23.620: 	output resolution: 1280x720
+13:10:23.620: 	downscale filter:  Bicubic
+13:10:23.620: 	fps:               30/1
+13:10:23.620: 	format:            NV12
+13:10:23.620: 	YUV mode:          Rec. 709/Partial
+13:10:23.620: NV12 texture support enabled
+13:10:23.620: P010 texture support not available
+13:10:23.623: Audio monitoring device:
+13:10:23.623: 	name: ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ
+13:10:23.623: 	id: default
+13:10:23.630: ---------------------------------
+13:10:23.675: No AJA devices found, skipping loading AJA UI plugin
+13:10:23.675: Failed to initialize module 'aja-output-ui.dll'
+13:10:23.719: No AJA devices found, skipping loading AJA plugin
+13:10:23.719: Failed to initialize module 'aja.dll'
+13:10:23.761: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+13:10:23.841: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+13:10:23.881: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+13:10:23.921: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+13:10:24.001: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+13:10:24.001: Failed to initialize module 'decklink.dll'
+13:10:24.240: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+13:10:24.278: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+13:10:24.381: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+13:10:24.433: [NVIDIA Audio Effects:] NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+13:10:24.434: Failed to get NVVideoEffects.dll version info size
+13:10:24.436: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+13:10:24.582: [obs-browser]: Version 2.24.6
+13:10:24.582: [obs-browser]: CEF Version 127.0.6533.120 (runtime), 127.145.7+g2b7d20b+chromium-127.0.6533.120 (compiled)
+13:10:25.134: [obs-nvenc] NVENC version: 12.2 (compiled) / 12.2 (driver), CUDA driver version: 12.60, AV1 supported: false
+13:10:25.758: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.6 | RPC Version: 1)
+13:10:25.758: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+13:10:25.758: [obs-websocket] [obs_module_load] Linked ASIO Version: 103100
+13:10:25.758: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+13:10:25.782: [obs-websocket] [obs_module_load] Module loaded.
+13:10:26.022: Failed to load 'en-US' text for module: 'sl-browser-plugin.dll'
+13:10:26.023: Streamlabs module git sha is 5adf71684af10f4d1221e62dc784223b3239fadd for OBS 31.0.0, revision 91
+13:10:26.023: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+13:10:26.129: [vlc-video]: Couldn't find VLC installation, VLC video source disabled
+13:10:26.460: ---------------------------------
+13:10:26.461:   Loaded Modules:
+13:10:26.461:     win-wasapi.dll
+13:10:26.461:     win-dshow.dll
+13:10:26.461:     win-capture.dll
+13:10:26.461:     vlc-video.dll
+13:10:26.461:     text-freetype2.dll
+13:10:26.461:     sl-browser-plugin.dll
+13:10:26.461:     rtmp-services.dll
+13:10:26.461:     obs-x264.dll
+13:10:26.461:     obs-websocket.dll
+13:10:26.461:     obs-webrtc.dll
+13:10:26.461:     obs-vst.dll
+13:10:26.461:     obs-transitions.dll
+13:10:26.461:     obs-text.dll
+13:10:26.461:     obs-qsv11.dll
+13:10:26.461:     obs-outputs.dll
+13:10:26.461:     obs-nvenc.dll
+13:10:26.461:     obs-filters.dll
+13:10:26.461:     obs-ffmpeg.dll
+13:10:26.461:     obs-browser.dll
+13:10:26.461:     nv-filters.dll
+13:10:26.461:     image-source.dll
+13:10:26.461:     frontend-tools.dll
+13:10:26.461:     decklink-output-ui.dll
+13:10:26.461:     decklink-captions.dll
+13:10:26.461:     coreaudio-encoder.dll
+13:10:26.461: ---------------------------------
+13:10:26.461: Starting Streamlabs plugin...
+13:10:26.461: Streamlabs: Sending 53006 and 53007 to proxy
+13:10:26.465: [SL_PLUGIN]: obs_module_post_load Module path: C:\Program Files\obs-studio\obs-plugins\64bit\sl-browser-plugin.dll
+13:10:26.465: [SL_PLUGIN]: obs_module_post_load process_path: C
+13:10:26.465: [SL_PLUGIN]: obs_module_post_load startparams: s
+13:10:27.121: [SL_PLUGIN]: obs_module_post_load exit startServer
+13:10:27.121: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+13:10:27.123: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+13:10:27.132: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+13:10:27.179: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4455. Possible connect address: 172.19.0.1
+13:10:27.180: ---------------------------------
+13:10:27.180: Available Encoders:
+13:10:27.180:   Video Encoders:
+13:10:27.180: 	- ffmpeg_svt_av1 (SVT-AV1)
+13:10:27.180: 	- ffmpeg_aom_av1 (AOM AV1)
+13:10:27.180: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+13:10:27.180: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+13:10:27.180: 	- obs_x264 (x264)
+13:10:27.180:   Audio Encoders:
+13:10:27.180: 	- ffmpeg_aac (FFmpeg AAC)
+13:10:27.180: 	- ffmpeg_opus (FFmpeg Opus)
+13:10:27.180: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16 Ð±Ð¸Ñ‚))
+13:10:27.180: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24 Ð±Ð¸Ñ‚Ð°))
+13:10:27.180: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32 Ð±Ð¸Ñ‚Ð° Ñ Ð¿Ð». Ñ‚Ñ‡Ðº.))
+13:10:27.180: 	- ffmpeg_alac (FFmpeg ALAC (24 Ð±Ð¸Ñ‚Ð°))
+13:10:27.180: 	- ffmpeg_flac (FFmpeg FLAC (16 Ð±Ð¸Ñ‚))
+13:10:27.180: ==== Startup complete ===============================================
+13:10:27.645: All scene data cleared
+13:10:27.645: ------------------------------------------------
+13:10:27.815: [win-wasapi: 'Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð»'] update settings:
+13:10:27.815: 	device id: default
+13:10:27.815: 	use device timing: 1
+13:10:27.822: [Loaded global audio device]: 'Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð»'
+13:10:27.822: [win-wasapi: 'ÐœÐ¸ÐºÑ€/Ð´Ð¾Ð¿'] update settings:
+13:10:27.822: 	device id: default
+13:10:27.822: 	use device timing: 0
+13:10:27.830: [Loaded global audio device]: 'ÐœÐ¸ÐºÑ€/Ð´Ð¾Ð¿'
+13:10:27.838: [Media Source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°']: settings:
+13:10:27.838: 	input:                   udp://127.0.0.1:1234
+13:10:27.838: 	input_format:            
+13:10:27.838: 	speed:                   100
+13:10:27.838: 	is_looping:              no
+13:10:27.838: 	is_linear_alpha:         no
+13:10:27.838: 	is_hw_decoding:          no
+13:10:27.838: 	is_clear_on_media_end:   yes
+13:10:27.838: 	restart_on_activate:     yes
+13:10:27.838: 	close_when_inactive:     no
+13:10:27.838: 	full_decode:             no
+13:10:27.838: 	ffmpeg_options:          
+13:10:27.841: Switched to scene 'Ð¡Ñ†ÐµÐ½Ð°'
+13:10:27.841: ------------------------------------------------
+13:10:27.841: Loaded scenes:
+13:10:27.841: - scene 'Ð¡Ñ†ÐµÐ½Ð°':
+13:10:27.841:     - source: 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°' (ffmpeg_source)
+13:10:27.841: ------------------------------------------------
+13:10:28.089: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' [48000 Hz] initialized (source: Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð»)
+13:10:28.094: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð»)
+13:10:28.094: 
+13:10:28.327: WASAPI: Device 'ÐœÐ¸ÐºÑ€Ð¾Ñ„Ð¾Ð½ (2- USB PnP Audio Device)' [48000 Hz] initialized (source: ÐœÐ¸ÐºÑ€/Ð´Ð¾Ð¿)
+13:10:47.571: AutoUpdateThread::run: Failed to fetch manifest file: schannel: failed to receive handshake, SSL/TLS connection failed
+13:10:56.700: adding 64 milliseconds of audio buffering, total audio buffering is now 106 milliseconds (source: Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°)
+13:10:56.700: 
+13:10:59.853: [obs-nvenc: 'simple_video_stream'] settings:
+13:10:59.853: 	codec:        H264
+13:10:59.853: 	rate_control: CBR
+13:10:59.853: 	bitrate:      2500
+13:10:59.853: 	keyint:       250
+13:10:59.853: 	preset:       p5
+13:10:59.853: 	tuning:       hq
+13:10:59.853: 	multipass:    qres
+13:10:59.853: 	profile:      high
+13:10:59.853: 	width:        1280
+13:10:59.853: 	height:       720
+13:10:59.853: 	b-frames:     2
+13:10:59.853: 	b-ref-mode:   0
+13:10:59.853: 	lookahead:    true (8 frames)
+13:10:59.853: 	aq:           true
+13:10:59.853: 
+13:10:59.964: ---------------------------------
+13:10:59.964: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+13:10:59.964: 
+13:10:59.966: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://192.168.88.242/live/...
+13:10:59.974: [rtmp stream: 'simple_stream'] Interface: Hyper-V Virtual Ethernet Adapter #2 (type 0, 100â†“/100â†‘ mbps)
+13:11:00.113: [rtmp stream: 'simple_stream'] Connection to rtmp://192.168.88.242/live/ (192.168.88.242) successful
+13:11:00.114: [rtmp stream: 'simple_stream'] Socket send buffer is 65536 bytes
+13:11:00.129: ==== Streaming Start ===============================================
+13:12:18.434: User changed audio monitoring for source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°' to: monitor and output
+13:12:25.819: User changed audio monitoring for source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°' to: none
+13:13:16.391: User changed audio monitoring for source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°' to: monitor and output
+13:18:09.469: adding 85 milliseconds of audio buffering, total audio buffering is now 192 milliseconds (source: Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°)
+13:18:09.469: 
+13:19:51.152: [Media Source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°']: settings:
+13:19:51.152: 	input:                   udp://127.0.0.1:1234
+13:19:51.152: 	input_format:            
+13:19:51.152: 	speed:                   100
+13:19:51.152: 	is_looping:              no
+13:19:51.152: 	is_linear_alpha:         no
+13:19:51.152: 	is_hw_decoding:          no
+13:19:51.152: 	is_clear_on_media_end:   yes
+13:19:51.152: 	restart_on_activate:     yes
+13:19:51.152: 	close_when_inactive:     no
+13:19:51.152: 	full_decode:             no
+13:19:51.152: 	ffmpeg_options:          
+13:20:19.580: Max audio buffering reached!
+13:20:19.580: adding 768 milliseconds of audio buffering, total audio buffering is now 960 milliseconds (source: Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°)
+13:20:19.580: 
+13:20:19.602: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 17730.86 ms) at max audio buffering. Restarting source audio.
+13:22:38.229: User changed audio monitoring for source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°' to: none
+13:23:05.348: User added source 'Ð¢ÐµÐºÑÑ‚ (GDI+)' (text_gdiplus_v3) to scene 'Ð¡Ñ†ÐµÐ½Ð°'
+13:24:17.283: User Removed source 'Ð¢ÐµÐºÑÑ‚ (GDI+)' (text_gdiplus_v3) from scene 'Ð¡Ñ†ÐµÐ½Ð°'
+13:31:05.261: User added source 'Time' (text_gdiplus_v3) to scene 'Ð¡Ñ†ÐµÐ½Ð°'
+13:35:20.596: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54418
+13:35:20.781: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54418` has disconnected with code `4007` and reason: You attempted to send a non-Identify message while not identified.
+13:35:26.908: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 3095.67 ms) at max audio buffering. Restarting source audio.
+13:39:27.952: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54501
+13:39:28.138: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54501` has disconnected with code `4007` and reason: You attempted to send a non-Identify message while not identified.
+13:39:34.311: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 3051.66 ms) at max audio buffering. Restarting source audio.
+13:40:04.196: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54523
+13:40:04.229: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54523` has disconnected with code `4007` and reason: You attempted to send a non-Identify message while not identified.
+13:40:09.553: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 2466.47 ms) at max audio buffering. Restarting source audio.
+13:40:30.562: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54545
+13:40:30.602: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54545` has disconnected with code `4007` and reason: You attempted to send a non-Identify message while not identified.
+13:40:36.092: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 2687.39 ms) at max audio buffering. Restarting source audio.
+13:41:48.920: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:172.19.0.1]:54576
+13:41:48.953: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:172.19.0.1]:54576` has disconnected with code `4007` and reason: You attempted to send a non-Identify message while not identified.
+13:41:54.855: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 3134.34 ms) at max audio buffering. Restarting source audio.
+13:44:26.092: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54659
+13:44:26.132: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54659` has disconnected with code `4007` and reason: You attempted to send a non-Identify message while not identified.
+13:48:37.616: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54725
+13:48:37.939: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54725` has disconnected with code `4007` and reason: You attempted to send a non-Identify message while not identified.
+13:48:52.370: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 4189.13 ms) at max audio buffering. Restarting source audio.
+13:51:48.440: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54772
+13:52:23.957: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54772` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+13:53:11.672: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54786
+13:53:11.800: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54786` has disconnected with code `4007` and reason: You attempted to send a non-Identify message while not identified.
+13:53:20.232: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 3747.13 ms) at max audio buffering. Restarting source audio.
+13:53:49.932: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54806
+13:53:58.870: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54806` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+13:54:30.381: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54826
+13:54:47.762: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 3945.05 ms) at max audio buffering. Restarting source audio.
+13:55:04.322: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54826` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+13:55:19.248: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54848
+13:55:31.133: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 4329.63 ms) at max audio buffering. Restarting source audio.
+13:55:38.590: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54848` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+13:56:02.563: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54877
+13:56:09.267: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54877` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+14:01:01.089: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54947
+14:01:14.791: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 5195.59 ms) at max audio buffering. Restarting source audio.
+14:13:46.254: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54947` has disconnected with code `1006` and reason: End of File
+14:14:02.889: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:55154
+14:14:11.492: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:55154` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+14:14:14.162: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 3063.81 ms) at max audio buffering. Restarting source audio.
+14:14:19.229: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:55176
+14:14:30.610: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 4180.31 ms) at max audio buffering. Restarting source audio.
+14:15:02.427: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:55176` has disconnected with code `1006` and reason: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå.
+14:16:05.527: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:55213
+14:16:15.634: Source Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð° audio is lagging (over by 2919.14 ms) at max audio buffering. Restarting source audio.
+14:22:35.848: Source 'Ð¡Ñ†ÐµÐ½Ð°' renamed to 'Playing'
+14:22:44.491: User added scene 'Waiting'
+14:22:44.494: User switched to scene 'Waiting'
+14:22:45.859: [Media Source 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¼ÐµÐ´Ð¸Ð°']: Disconnected. Reconnecting...
+14:22:58.874: User added source 'WaitText' (text_gdiplus_v3) to scene 'Waiting'
+14:28:02.464: User added source '9ab3ce14-6462-49fa-8c73-391d1e6949d4.png' (image_source) to scene 'Waiting'
+14:28:52.153: User Removed source '9ab3ce14-6462-49fa-8c73-391d1e6949d4.png' (image_source) from scene 'Waiting'
+14:29:10.021: User added source '9ab3ce14-6462-49fa-8c73-391d1e6949d4.jpg' (image_source) to scene 'Waiting'
+14:29:24.516: User added source 'Ð¤Ð¾Ð½Ð¾Ð²Ñ‹Ð¹ Ñ†Ð²ÐµÑ‚' (color_source_v3) to scene 'Waiting'
+14:35:14.146: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+14:35:17.387: ==== Shutting down ==================================================
+14:35:17.465: WASAPI: Device 'Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO)' Terminated
+14:35:17.469: WASAPI: Device 'ÐœÐ¸ÐºÑ€Ð¾Ñ„Ð¾Ð½ (2- USB PnP Audio Device)' Terminated
+14:35:17.501: All scene data cleared
+14:35:17.501: ------------------------------------------------
+14:35:17.570: [rtmp stream: 'simple_stream'] User stopped the stream
+14:35:17.570: [rtmp stream: 'simple_stream'] Socket send buffer is 524288 bytes
+14:35:17.570: Output 'simple_stream': stopping
+14:35:17.570: Output 'simple_stream': Total frames output: 151685
+14:35:17.570: Output 'simple_stream': Total drawn frames: 151613 (151728 attempted)
+14:35:17.570: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 115 (0.1%)
+14:35:17.571: Video stopped, number of skipped frames due to encoding lag: 115/151721 (0.1%)
+14:35:17.898: [obs-websocket] [obs_module_unload] Shutting down...
+14:35:17.919: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:55213` has disconnected with code `1001` and reason: Server stopping.
+14:35:17.920: [obs-websocket] [WebSocketServer::ServerRunner] IO thread exited.
+14:35:17.922: [obs-websocket] [WebSocketServer::Stop] Server stopped successfully
+14:35:17.922: Tried to call obs_frontend_remove_event_callback with no callbacks!
+14:35:17.922: [obs-websocket] [obs_module_unload] Finished shutting down.
+14:35:18.062: [Scripting] Total detached callbacks: 0
+14:35:18.063: Freeing OBS context data
+14:35:18.135: == Profiler Results =============================
+14:35:18.135: run_program_init: 7515.18Â ms
+14:35:18.135:  â”£OBSApp::AppInit: 124.598Â ms
+14:35:18.135:  â”ƒ â”—OBSApp::InitLocale: 21.212Â ms
+14:35:18.135:  â”—OBSApp::OBSInit: 6829.46Â ms
+14:35:18.135:    â”£obs_startup: 5.078Â ms
+14:35:18.135:    â”—OBSBasic::OBSInit: 6240.11Â ms
+14:35:18.135:      â”£OBSBasic::InitBasicConfig: 41.347Â ms
+14:35:18.135:      â”£OBSBasic::ResetAudio: 0.493Â ms
+14:35:18.135:      â”£OBSBasic::ResetVideo: 1632.25Â ms
+14:35:18.135:      â”ƒ â”—obs_init_graphics: 1629.34Â ms
+14:35:18.135:      â”ƒ   â”—shader compilation: 1385.59Â ms
+14:35:18.135:      â”£OBSBasic::InitOBSCallbacks: 0.007Â ms
+14:35:18.135:      â”£OBSBasic::InitHotkeys: 0.346Â ms
+14:35:18.135:      â”£obs_load_all_modules2: 2830.02Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(aja-output-ui.dll): 0.227Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(aja.dll): 1.741Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(coreaudio-encoder.dll): 3.747Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(decklink-captions.dll): 0Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(decklink-output-ui.dll): 0Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(decklink.dll): 1.541Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(frontend-tools.dll): 8.687Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(image-source.dll): 0.021Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(nv-filters.dll): 2.351Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(obs-browser.dll): 0.539Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(obs-ffmpeg.dll): 21.06Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(obs-filters.dll): 0.062Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(obs-nvenc.dll): 268.509Â ms
+14:35:18.135:      â”ƒ â”ƒ â”—nvenc_check: 268.498Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(obs-outputs.dll): 0.024Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(obs-qsv11.dll): 102.092Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(obs-text.dll): 0.224Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(obs-transitions.dll): 0.017Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(obs-vst.dll): 0.021Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(obs-webrtc.dll): 0.248Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(obs-websocket.dll): 24.637Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(obs-x264.dll): 0.002Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(rtmp-services.dll): 11.12Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(sl-browser-plugin.dll): 2.524Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(text-freetype2.dll): 0.115Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(vlc-video.dll): 0.048Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(win-capture.dll): 145.8Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(win-dshow.dll): 2.951Â ms
+14:35:18.135:      â”ƒ â”£obs_init_module(win-wasapi.dll): 8.825Â ms
+14:35:18.135:      â”ƒ â”—reset_win32_symbol_paths: 0.254Â ms
+14:35:18.135:      â”£OBSBasic::InitService: 11.125Â ms
+14:35:18.135:      â”£OBSBasic::ResetOutputs: 11.583Â ms
+14:35:18.135:      â”£OBSBasic::CreateHotkeys: 11.242Â ms
+14:35:18.135:      â”£OBSBasic::InitPrimitives: 0.262Â ms
+14:35:18.135:      â”—OBSBasic::Load: 603.896Â ms
+14:35:18.135: obs_hotkey_thread(25Â ms): min=0.003Â ms, median=0.008Â ms, max=74.248Â ms, 99th percentile=0.236Â ms, 99.9926% below 25Â ms
+14:35:18.135: audio_thread(Audio): min=0.015Â ms, median=0.578Â ms, max=123.42Â ms, 99th percentile=7.769Â ms
+14:35:18.135:  â”—receive_audio: min=0.002Â ms, median=0.46Â ms, max=20.044Â ms, 99th percentile=5.47Â ms
+14:35:18.135:    â”£buffer_audio: min=0.001Â ms, median=0.001Â ms, max=2.038Â ms, 99th percentile=0.005Â ms
+14:35:18.135:    â”—do_encode: min=0.037Â ms, median=0.456Â ms, max=20.039Â ms, 99th percentile=5.461Â ms
+14:35:18.135:      â”£encode(simple_aac): min=0.032Â ms, median=0.446Â ms, max=20.007Â ms, 99th percentile=5.433Â ms
+14:35:18.135:      â”—send_packet: min=0.002Â ms, median=0.009Â ms, max=5.555Â ms, 99th percentile=0.056Â ms
+14:35:18.135: obs_graphics_thread(33.3333Â ms): min=0.078Â ms, median=1.955Â ms, max=132.572Â ms, 99th percentile=21.837Â ms, 99.5914% below 33.333Â ms
+14:35:18.135:  â”£tick_sources: min=0.001Â ms, median=0.017Â ms, max=108.563Â ms, 99th percentile=9.689Â ms
+14:35:18.135:  â”£output_frame: min=0.071Â ms, median=0.585Â ms, max=126.373Â ms, 99th percentile=12.713Â ms
+14:35:18.135:  â”ƒ â”—gs_context(video->graphics): min=0.07Â ms, median=0.584Â ms, max=126.368Â ms, 99th percentile=12.696Â ms
+14:35:18.135:  â”ƒ   â”£render_video: min=0.005Â ms, median=0.533Â ms, max=125.533Â ms, 99th percentile=12.315Â ms
+14:35:18.135:  â”ƒ   â”ƒ â”£render_main_texture: min=0.004Â ms, median=0.143Â ms, max=120.964Â ms, 99th percentile=9.775Â ms
+14:35:18.135:  â”ƒ   â”ƒ â”£render_output_texture: min=0.004Â ms, median=0.008Â ms, max=31.087Â ms, 99th percentile=0.046Â ms
+14:35:18.135:  â”ƒ   â”ƒ â”£render_convert_texture: min=0.007Â ms, median=0.014Â ms, max=21.493Â ms, 99th percentile=0.066Â ms
+14:35:18.135:  â”ƒ   â”ƒ â”—output_gpu_encoders: min=0Â ms, median=0.048Â ms, max=34.442Â ms, 99th percentile=0.26Â ms
+14:35:18.135:  â”ƒ   â”—gs_flush: min=0.007Â ms, median=0.023Â ms, max=43.856Â ms, 99th percentile=0.459Â ms
+14:35:18.135:  â”—render_displays: min=0Â ms, median=0.108Â ms, max=51.377Â ms, 99th percentile=0.946Â ms
+14:35:18.135: obs_gpu_encode_thread(33.3333Â ms): min=0.281Â ms, median=0.677Â ms, max=158.997Â ms, 99th percentile=5.627Â ms, 99.9927% below 33.333Â ms
+14:35:18.135:  â”£gpu_encode_frame: min=0.263Â ms, median=0.646Â ms, max=158.977Â ms, 99th percentile=5.553Â ms
+14:35:18.135:  â”—send_packet: min=0.002Â ms, median=0.016Â ms, max=9.175Â ms, 99th percentile=0.099Â ms
+14:35:18.135: =================================================
+14:35:18.135: == Profiler Time Between Calls ==================
+14:35:18.135: obs_hotkey_thread(25Â ms): min=24.529Â ms, median=25.423Â ms, max=339.785Â ms, 70.115% within Â±2% of 25Â ms (0% lower, 29.885% higher)
+14:35:18.136: obs_graphics_thread(33.3333Â ms): min=0.333Â ms, median=33.333Â ms, max=340.461Â ms, 78.6412% within Â±2% of 33.333Â ms (11.0147% lower, 10.3441% higher)
+14:35:18.136: obs_gpu_encode_thread(33.3333Â ms): min=0.332Â ms, median=33.313Â ms, max=345.235Â ms, 54.8662% within Â±2% of 33.333Â ms (24.3086% lower, 20.8252% higher)
+14:35:18.136: =================================================
+14:35:18.764: Number of memory leaks: 1
